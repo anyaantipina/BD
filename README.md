@@ -4,11 +4,13 @@
 
 <strong>The implementation of the algorithm <em>TF*IDF</em></strong>
 
-How to run:
+* payload consists 3 files and places in the directory `data`
+
+### How to run:
 * type
 ```
 $ cd task1
-$ python wordcount.py dir/
+$ python tfidf.py data/
 Enter a template: 
 ```
 * input template string with words for search, for example, "doc def import"
