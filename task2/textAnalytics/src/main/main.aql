@@ -188,5 +188,3 @@ from CountryTransportHeader CTH,
     
 
 output view Result;
-output view CountryTransportHeader;
-output view MerchantMarine;
