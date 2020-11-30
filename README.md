@@ -24,7 +24,7 @@ Enter a template:
    
 ## Task 2
 
-<strong>Retrieving information about the <em>Transportation</em> section of each country from payload file</strong>
+<strong>Text extraction about the <em>Transportation</em> section of each country from payload file</strong>
 
 * payload file consists information about 10 countries
 
