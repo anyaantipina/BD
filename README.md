@@ -21,3 +21,14 @@ Enter a template:
 "file:\/\/dir\/.DS_Store"	0
 ```
 * relevance metric is calculated as the arithmetic mean of the <em>tf*idf</em> values of words from the template string
+   
+## Task 2
+
+<strong>Retrieving information about the <em>Transportation</em> section of each country from payload file</strong>
+
+* payload file consists information about 10 countries
+
+### How to run:
+* install <strong>JDK 7</strong> and <strong>Eclipse 4.2.*</strong> if not done before
+* download and install <strong>IBM BigInsights</strong>
+* run from <em>BigInsights Project</em> in Eclipse
