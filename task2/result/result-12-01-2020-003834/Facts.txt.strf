@@ -1,0 +1,3890 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:systemTComputationResult xmlns:ns2="http://www.ibm.com/systemt/result" gsComplete="false">
+    <documentID>Facts.txt</documentID>
+    <inputTextID>354</inputTextID>
+    <outputViews>
+        <fieldNames>country</fieldNames>
+        <fieldNames>transport</fieldNames>
+        <fieldTypes>SPAN</fieldTypes>
+        <fieldTypes>SPAN</fieldTypes>
+        <name>main.CountryTransportHeader</name>
+        <origViewName>main.CountryTransportHeader</origViewName>
+        <rows>
+            <spanVal start="14676" end="14687" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="14661" end="14687" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="25936" end="25943" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="25921" end="25943" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="37283" end="37293" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="37268" end="37293" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="51792" end="51799" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="51777" end="51799" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="56579" end="56593" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="56564" end="56593" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="67310" end="67315" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="67295" end="67315" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="82529" end="82535" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="82514" end="82535" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="104819" end="104833" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="104804" end="104833" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="126184" end="126197" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="126169" end="126197" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="141286" end="141293" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="141271" end="141293" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+    </outputViews>
+    <outputViews>
+        <fieldNames>country</fieldNames>
+        <fieldNames>railway_total_dist</fieldNames>
+        <fieldNames>highway_total_dist</fieldNames>
+        <fieldNames>watertway_total_dist</fieldNames>
+        <fieldNames>pipelines_substance</fieldNames>
+        <fieldNames>ports_and_harbors_names</fieldNames>
+        <fieldNames>merchant_marine_total_amount</fieldNames>
+        <fieldTypes>SPAN</fieldTypes>
+        <fieldTypes>SPAN</fieldTypes>
+        <fieldTypes>SPAN</fieldTypes>
+        <fieldTypes>SPAN</fieldTypes>
+        <fieldTypes>SPAN</fieldTypes>
+        <fieldTypes>SPAN</fieldTypes>
+        <fieldTypes>SPAN</fieldTypes>
+        <name>main.Result</name>
+        <origViewName>main.Result</origViewName>
+        <rows>
+            <spanVal start="25936" end="25943" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="25956" end="25960" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="25980" end="25986" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="26081" end="26085" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="26098" end="26099" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="26123" end="26159" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="26184" end="26193" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="51792" end="51799" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="51819" end="51825" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="51892" end="51901" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="51957" end="51965" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="51997" end="52016" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="52046" end="52118" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="52143" end="52151" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="67310" end="67315" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="67328" end="67332" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="67352" end="67357" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="67399" end="67403" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="67416" end="67417" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="67441" end="67448" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="67466" end="67470" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="82529" end="82535" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="82555" end="82563" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="82812" end="82821" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="82916" end="82918" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="82961" end="82973" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="83010" end="83071" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="83096" end="83105" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="104819" end="104833" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="104853" end="104862" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="105128" end="105138" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="105232" end="105240" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="105328" end="105340" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="105371" end="105585" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="105610" end="105619" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="126184" end="126197" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="126217" end="126227" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="126440" end="126452" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="126550" end="126559" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="126666" end="126678" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="126717" end="126971" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="126996" end="127005" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+        <rows>
+            <spanVal start="141286" end="141293" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="141313" end="141321" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="141542" end="141550" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="141603" end="141611" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="141672" end="141673" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="141697" end="141809" sourceID="354" parentSpanName="Document.text"/>
+            <spanVal start="141834" end="141841" sourceID="354" parentSpanName="Document.text"/>
+        </rows>
+    </outputViews>
+    <textMap>
+        <entry>
+            <key>354</key>
+            <value>&quot;========================================================================
+
+
+Afghanistan
+
+Introduction
+
+Afghanistan
+
+Background:  Afghanistan's recent history is characterized by war
+and civil strife, with intermittent periods of relative calm and
+stability. The Soviet Union invaded in 1979 but was forced to withdraw 10
+years later by anti-Communist mujahidin forces supplied and trained by the
+US, Saudi Arabia, Pakistan, and others. Fighting subsequently continued
+among the various mujahidin factions, giving rise to a state of warlordism
+that spawned the Taliban in the early 1990s. The Taliban was able to seize
+most of the country, aside from Northern Alliance strongholds primarily
+in the northeast, until US and allied military action in support of the
+opposition following the 11 September 2001 terrorist attacks forced the
+group's downfall. The four largest Afghan opposition groups met in Bonn,
+Germany, in late 2001 and agreed on a plan for the formulation of a new
+government structure that resulted in the inauguration of Hamid KARZAI
+as Chairman of the Afghan Interim Authority (AIA) on 22 December 2001.
+In addition to occasionally violent political jockeying and ongoing
+military action to root out remaining terrorists and Taliban elements,
+the country suffers from enormous poverty, a crumbling infrastructure,
+and widespread land mines.
+
+Geography Afghanistan
+
+Location:  Southern Asia, north and west of Pakistan, east of Iran
+
+Geographic coordinates:  33 00 N, 65 00 E
+
+Map references:  Asia
+
+Area:  total: 647,500 sq km water: 0 sq km land: 647,500 sq km
+
+Area - comparative:  slightly smaller than Texas
+
+Land boundaries:  total: 5,529 km border countries: China 76 km, Iran
+936 km, Pakistan 2,430 km, Tajikistan 1,206 km, Turkmenistan 744 km,
+Uzbekistan 137 km
+
+Coastline:  0 km (landlocked)
+
+Maritime claims:  none (landlocked)
+
+Climate:  arid to semiarid; cold winters and hot summers
+
+Terrain:  mostly rugged mountains; plains in north and southwest
+
+Elevation extremes:  lowest point: Amu Darya 258 m highest point:
+Nowshak 7,485 m
+
+Natural resources:  natural gas, petroleum, coal, copper, chromite, talc,
+barites, sulfur, lead, zinc, iron ore, salt, precious and semiprecious
+stones
+
+Land use:  arable land: 12% permanent crops: 0% other: 88% (1998 est.)
+
+Irrigated land:  23,860 sq km (1998 est.)
+
+Natural hazards:  damaging earthquakes occur in Hindu Kush mountains;
+flooding; droughts
+
+Environment - current issues:  limited natural fresh water resources;
+inadequate supplies of potable water; soil degradation; overgrazing;
+deforestation (much of the remaining forests are being cut down for fuel
+and building materials); desertification; air and water pollution
+
+Environment - international agreements:  party to: Desertification,
+Endangered Species, Environmental Modification, Marine Dumping, Nuclear
+Test Ban signed, but not ratified: Biodiversity, Climate Change, Hazardous
+Wastes, Law of the Sea, Marine Life Conservation
+
+Geography - note:  landlocked; the Hindu Kush mountains that run northeast
+to southwest divide the northern provinces from the rest of the country;
+the highest peaks are in the northern Vakhan (Wakhan Corridor)
+
+People Afghanistan
+
+Population:  27,755,775 (July 2002 est.)
+
+Age structure:  0-14 years: 42% (male 5,953,291; female 5,706,542) 15-64
+years: 55.2% (male 7,935,101; female 7,382,101) 65 years and over: 2.8%
+(male 410,278; female 368,462) (2002 est.)
+
+Population growth rate:  3.43% note: this rate reflects the continued
+return of refugees from Iran (2002 est.)
+
+Birth rate:  41.03 births/1,000 population (2002 est.)
+
+Death rate:  17.43 deaths/1,000 population (2002 est.)
+
+Net migration rate:  10.7 migrant(s)/1,000 population (2002 est.)
+
+Sex ratio:  at birth: 1.05 male(s)/female under 15 years: 1.04
+male(s)/female 15-64 years: 1.07 male(s)/female 65 years and over:
+1.11 male(s)/female total population: 1.06 male(s)/female (2002 est.)
+
+Infant mortality rate:  144.76 deaths/1,000 live births (2002 est.)
+
+Life expectancy at birth:   45.85 years (2002 est.)  male: Total fertility
+rate:  5.72 children born/woman (2002 est.)
+
+HIV/AIDS - adult prevalence rate:  less than 0.01% (1999 est.)
+
+HIV/AIDS - people living with HIV/AIDS:  NA
+
+HIV/AIDS - deaths:  NA
+
+Nationality:  noun: Afghan(s) adjective: Afghan
+
+Ethnic groups:  Pashtun 44%, Tajik 25%, Hazara 10%, minor ethnic groups
+(Aimaks, Turkmen, Baloch, and others) 13%, Uzbek 8%
+
+Religions:  Sunni Muslim 84%, Shi'a Muslim 15%, other 1%
+
+Languages:  Pashtu 35%, Afghan Persian (Dari) 50%, Turkic languages
+(primarily Uzbek and Turkmen) 11%, 30 minor languages (primarily Balochi
+and Pashai) 4%, much bilingualism
+
+Literacy:  definition: age 15 and over can read and write male: 51%
+female: 21% (1999 est.)  total population: 36%
+
+People - note:  large numbers of Afghan refugees create burdens on
+neighboring states
+
+Government Afghanistan
+
+Country name:  conventional long form: Islamic State of Afghanistan
+conventional short form: Afghanistan local short form: Afghanestan former:
+Republic of Afghanistan local long form: Dowlat-e Eslami-ye Afghanestan
+
+Government type:  transitional
+
+Capital:  Kabul
+
+Administrative divisions:  32 provinces (velayat, singular - velayat);
+Badakhshan, Badghis, Baghlan, Balkh, Bamian, Farah, Faryab, Ghazni,
+Ghowr, Helmand, Herat, Jowzjan, Kabol, Kandahar, Kapisa, Konar, Kondoz,
+Laghman, Lowgar, Nangarhar, Nimruz, Oruzgan, Paktia, Paktika, Parvan,
+Samangan, Sar-e Pol, Takhar, Vardak, Zabol, Nurestan, and Khowst
+
+Independence:  19 August 1919 (from UK control over Afghan foreign
+affairs)
+
+National holiday:  Independence Day, 19 August (1919)
+
+Constitution:  the Bonn Agreement calls for a Constitutional Loya Jirga
+(Grand Council) to be convened within 18 months of the establishment of
+the Transitional Authority to draft a new constitution for the country;
+the basis for the next constitution is the 1963/64 Constitution, according
+to the Bonn Agreement
+
+Legal system:  the Bonn Agreement calls for a judicial commission
+to rebuild the justice system in accordance with Islamic principles,
+international standards, the rule of law, and Afghan legal traditions
+
+Suffrage:  NA; previously males 15-50 years of age
+
+Executive branch:  note: following the Taliban's refusal to hand over
+Usama bin LADIN to the US for his suspected involvement in the 11
+September 2001 terrorist attacks in the US, a US-led international
+coalition was formed; after several weeks of aerial bombardment by
+coalition forces and military action on the ground, including Afghan
+opposition forces, the Taliban was ousted from power on 17 November 2001;
+in December 2001 a number of prominent Afghans met under UN auspices in
+Bonn, Germany, to decide on a plan for governing the country; as a result,
+the Afghan Interim Authority (AIA) - made up of 30 members, headed by a
+chairman and five deputy chairmen - was inaugurated on 22 December 2001
+with about a six-month mandate to be followed by a two-year Transitional
+Authority (TA) after which elections are to be held; the structure of
+the follow-on TA will be announced on 10 June 2002 when the Loya Jirga
+(grand assembly) is convened chief of state: Chairman of the AIA, Hamad
+KARZAI (since 22 December 2001); note - presently the chairman is both
+chief of state and head of government head of government: Chairman of
+the AIA, Hamad KARZAI (since 22 December 2001); note - presently the
+chairman is both chief of state and head of government cabinet: the
+30-member AIA elections: NA
+
+Legislative branch:  nonfunctioning as of June 1993
+
+Judicial branch:  the Bonn Agreement calls for the establishment of a
+Supreme Court
+
+Political parties and leaders:  NA; note - political parties in
+Afghanistan are in flux and many prominent players have plans to create
+new parties; the three main groups represented in the Afghan Interim
+Authority (AIA) are: the Northern Alliance (also known as the United
+Islamic Front for the Salvation of Afghanistan) - the main opposition to
+the Taliban - composed of different ethnic and political groups; the Rome
+Group, associated with the former king of Afghanistan, composed mainly
+of expatriate Afghans; and the Peshawar Group, another expatriate group;
+there are also several &quot;&quot;independent&quot;&quot; groups
+
+Political pressure groups and leaders:  NA; note - ministries formed under
+the Afghan Interim Authority(AIA) include former pressure
+group leaders
+
+International organization participation:  AsDB, CP, ECO, ESCAP, FAO,
+G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF,
+IOC (suspended), IOM (observer), ITU, NAM, OIC, OPCW (signatory), UN,
+UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WMO, WToO
+
+Diplomatic representation in the US:   ambassador Ishaq SHAHRYAR (as
+of 19 June 2002) chancery:  consulate(s) general: New York telephone:
+202-483-6410
+
+Diplomatic representation from the US:  chief of mission: Ambassador
+Robert Patrick John FINN; note - embassy in Kabul reopened 16 December
+2001 following closure in January 1989 embassy:  FAX: NA
+
+Flag description:  three equal vertical bands of black (hoist), red, and
+green with a gold emblem centered on the red band; the emblem features
+a temple-like structure encircled by a wreath on the left and right and
+by a bold Islamic inscription above
+
+Economy Afghanistan
+
+Economy - overview:  Afghanistan is an extremely poor, landlocked
+country, highly dependent on farming and livestock raising (sheep and
+goats). Economic considerations have played second fiddle to political
+and military upheavals during two decades of war, including the nearly
+10-year Soviet military occupation (which ended 15 February 1989). During
+that conflict one-third of the population fled the country, with Pakistan
+and Iran sheltering a combined peak of more than 6 million refugees.
+Gross domestic product has fallen substantially over the past 20 years
+because of the loss of labor and capital and the disruption of trade
+and transport; severe drought added to the nation's difficulties
+in 1998-2001. The majority of the population continues to suffer
+from insufficient food, clothing, housing, and medical care, problems
+exacerbated by military operations and political uncertainties. Inflation
+remains a serious problem. Following the US-led coalition war that led
+to the defeat of the Taliban in November 2001 and the formulation of
+the Afghan Interim Authority (AIA) resulting from the December 2001 Bonn
+Agreement, International efforts to rebuild Afghanistan were addressed at
+the Tokyo Donors Conference for Afghan Reconstruction in January 2002,
+when $4.5 billion was collected for a trust fund to be administered
+by the World Bank. Priority areas for reconstruction include the
+construction of education, health, and sanitation facilities, enhancement
+of administrative capacity, the development of the agricultural sector,
+and the rebuilding of road, energy, and telecommunication links.
+
+GDP:  purchasing power parity - $21 billion (2000 est.)
+
+GDP - real growth rate:  NA%
+
+GDP - per capita:  purchasing power parity - $800 (2000 est.)
+
+GDP - composition by sector:  agriculture: 60% industry: 20% services:
+20% (1990 est.)
+
+Population below poverty line:  NA%
+
+Household income or consumption by percentage share:  lowest 10%: NA%
+highest 10%: NA%
+
+Inflation rate (consumer prices):  NA%
+
+Labor force:  10 million (2000 est.)
+
+Labor force - by occupation:  agriculture 80%, industry 10%, services 10%
+(1990 est.)
+
+Unemployment rate:  NA%
+
+Budget:  revenues: $NA expenditures: $NA, including capital expenditures
+of $NA
+
+Industries:  small-scale production of textiles, soap, furniture, shoes,
+fertilizer, and cement; handwoven carpets; natural gas, coal, copper
+
+Electricity - production:  375 million kWh (2000)
+
+Electricity - production by source:  fossil fuel: 36% hydro: 64% other: 0%
+(2000) nuclear: 0%
+
+Electricity - consumption:  453.75 million kWh (2000)
+
+Electricity - exports:  0 kWh (2000)
+
+Electricity - imports:  105 million kWh (2000)
+
+Agriculture - products:  wheat, fruits, nuts, wool, mutton, sheepskin,
+and lambskin
+
+Exports:  $1.2 billion (2001 est.)
+
+Exports - commodities:  opium, fruits and nuts, handwoven carpets, wool,
+cotton, hides and pelts, precious and semi-precious gems
+
+Exports - partners:  Pakistan 32%, India 8%, Belgium 7%, Germany 5%,
+Russia 5%, UAE 4% (1999)
+
+Imports:  $1.3 billion (2001 est.)
+
+Imports - commodities:  capital goods, food and petroleum products;
+most consumer goods
+
+Imports - partners:  Pakistan 19%, Japan 16%, Kenya 9%, South Korea 7%,
+India 6%, Turkmenistan 6% (1999)
+
+Debt - external:  $5.5 billion (1996 est.)
+
+Economic aid - recipient:  international pledges made by more than 60
+countries and international financial institutions at the Tokyo Donors
+Conference for Afghan reconstruction in January 2002 reached $4.5 billion
+through 2006, with $1.8 billion allocated for 2002; according to a joint
+preliminary assessment conducted by the World Bank, the Asian Development
+Bank, and the UN Development Program, rebuilding Afghanistan will cost
+roughly $15 billion over the next ten years
+
+Currency:  afghani (AFA)
+
+Currency code:  AFA
+
+Exchange rates:  afghanis per US dollar - 4,700 (January 2000), 4,750
+(February 1999), 17,000 (December 1996), 7,000 (January 1995), 1,900
+(January 1994), 1,019 (March 1993), 850 (1991); note - these rates reflect
+the free market exchange rates rather than the official exchange rate,
+which was fixed at 50.600 afghanis to the dollar until 1996, when it
+rose to 2,262.65 per dollar, and finally became fixed again at 3,000.00
+per dollar in April 1996
+
+Fiscal year:  21 March - 20 March
+
+Communications Afghanistan
+
+Telephones - main lines in use:  29,000 (1998)
+
+Telephones - mobile cellular:  NA
+
+Telephone system:   very limited telephone and telegraph service domestic:
+Herat, Kandahar, Jalalabad, and Kabul through satellite and microwave
+systems international: satellite earth stations - 1 Intelsat (Indian
+Ocean) linked only to Iran and 1 Intersputnik (Atlantic Ocean region);
+commercial satellite telephone center in Ghazni
+
+Radio broadcast stations:  AM 7 (6 are inactive; the active station
+is in Kabul), FM 1, shortwave 1 (broadcasts in Pashtu, Afghan Persian
+(Dari), Urdu, and English) (1999)
+
+Radios:  167,000 (1999)
+
+Television broadcast stations:  at least 10 (one government-run central
+television station in Kabul and regional stations in nine of the 32
+provinces; the regional stations operate on a reduced schedule; also,
+in 1997, there was a station in Mazar-e Sharif reaching four northern
+Afghanistan provinces) (1998)
+
+Televisions:  100,000 (1999)
+
+Internet country code:  .af
+
+Internet Service Providers (ISPs):  1 (2000)
+
+Internet users:  NA
+
+Transportation Afghanistan
+
+Railways:  total: 24.6 km broad gauge: 9.6 km 1.524-m gauge from
+Gushgy (Turkmenistan) to Towraghondi; 15 km 1.524-m gauge from Termiz
+(Uzbekistan) to Kheyrabad transshipment point on south bank of Amu Darya
+(2001)
+
+Highways:  total: 21,000 km paved: 2,793 km unpaved: 18,207 km (1998 est.)
+
+Waterways:  1,200 km note: chiefly Amu Darya, which handles vessels up
+to 500 DWT (2001)
+
+Pipelines:  natural gas 180 km note: product pipelines from Uzbekistan
+and Turkmenistan have been in disrepair and disuse for years (2002)
+
+Ports and harbors:  Kheyrabad, Shir Khan
+
+Airports:  46 (2001)
+
+Airports - with paved runways:  total: 10 over 3,047 m: 3 2,438 to 3,047
+m: 4 under 914 m: 1 (2001) 1,524 to 2,437 m: 2
+
+Airports - with unpaved runways:   7 1,524 to 2,437 m: Heliports:  2
+(2001)
+
+Military Afghanistan
+
+Military branches:  NA; note - the December 2001 Bonn Agreement calls
+for all militia forces to come under Afghan Interim Authority (AIA)
+control, but formation of a national army is likely to be a gradual
+process; Afghanistan's forces continue to be factionalized largely along
+ethnic lines
+
+Military manpower - military age:  22 years of age (2002 est.)
+
+Military manpower - availability:  males age 15-49: 6,896,623 (2002 est.)
+
+Military manpower - fit for military service:  males age 15-49: 3,696,379
+(2002 est.)
+
+Military manpower - reaching military age annually:  males: 252,869
+(2002 est.)
+
+Military expenditures - dollar figure:  $NA
+
+Military expenditures - percent of GDP:  NA%
+
+Transnational Issues Afghanistan
+
+Disputes - international:  close ties with Pashtuns in Pakistan make
+long border difficult to control
+
+Illicit drugs:  poppy ban cut 2001 cultivation by 97% to 1,695 hectares,
+with potential production of 74 tons of opium; a major source of
+hashish; many heroin-processing laboratories throughout the country;
+major political factions in the country profit from the drug trade
+
+This page was last updated on 1 January 2002
+
+
+
+&quot;
+&quot;========================================================================
+
+
+&quot;
+&quot;========================================================================
+
+
+Bermuda
+
+Introduction
+
+Bermuda
+
+Background:  Bermuda was first settled in 1609 by shipwrecked English
+colonists headed for Virginia. Tourism to the island to escape North
+American winters first developed in Victorian times. Tourism continues
+to be important to the island's economy, although international business
+has overtaken it in recent years. Bermuda has developed into a highly
+successful offshore financial center. A referendum on independence was
+soundly defeated in 1995.
+
+Geography Bermuda
+
+Location:  North America, group of islands in the North Atlantic Ocean,
+east of North Carolina (US)
+
+Geographic coordinates:  32 20 N, 64 45 W
+
+Map references:  North America
+
+Area:  total: 53.3 sq km water: 0 sq km land: 53.3 sq km
+
+Area - comparative:  about one-third the size of Washington, DC
+
+Land boundaries:  0 km
+
+Coastline:  103 km
+
+Maritime claims:  exclusive fishing zone: 200 NM territorial sea: 12 NM
+
+Climate:  subtropical; mild, humid; gales, strong winds common in winter
+
+Terrain:  low hills separated by fertile depressions
+
+Elevation extremes:  lowest point: Atlantic Ocean 0 m highest point:
+Town Hill 76 m
+
+Natural resources:  limestone, pleasant climate fostering tourism
+
+Land use:  arable land: 6% permanent crops: 0% other: 94% (55% developed,
+45% rural/open space) (1998 est.)
+
+Irrigated land:  NA sq km
+
+Natural hazards:  hurricanes (June to November)
+
+Environment - current issues:  asbestos disposal; water pollution;
+preservation of open space; sustainable development
+
+Geography - note:  consists of about 138 coral islands and islets with
+ample rainfall, but no rivers or freshwater lakes; some land, reclaimed
+and otherwise, was leased by US Government from 1941 to 1995
+
+People Bermuda
+
+Population:  63,960 (July 2002 est.)
+
+Age structure:  0-14 years: 19.2% (male 6,058; female 6,225) 15-64 years:
+69.4% (male 21,950; female 22,442) 65 years and over: 11.4% (male 3,163;
+female 4,122) (2002 est.)
+
+Population growth rate:  0.69% (2002 est.)
+
+Birth rate:  11.82 births/1,000 population (2002 est.)
+
+Death rate:  7.49 deaths/1,000 population (2002 est.)
+
+Net migration rate:  2.61 migrant(s)/1,000 population (2002 est.)
+
+Sex ratio:  at birth: 0.94 male(s)/female under 15 years: 0.97
+male(s)/female 15-64 years: 0.98 male(s)/female 65 years and over:
+0.77 male(s)/female total population: 0.95 male(s)/female (2002 est.)
+
+Infant mortality rate:  9.28 deaths/1,000 live births (2002 est.)
+
+Life expectancy at birth:   79.27 years (2002 est.)  male: Total fertility
+rate:  1.81 children born/woman (2002 est.)
+
+HIV/AIDS - adult prevalence rate:  NA%
+
+HIV/AIDS - people living with HIV/AIDS:  NA
+
+HIV/AIDS - deaths:  NA
+
+Nationality:  noun: Bermudian(s) adjective: Bermudian
+
+Ethnic groups:  black 58%, white 36%, other 6%
+
+Religions:  non-Anglican Protestant 39%, Anglican 27%, Roman Catholic 15%,
+other 19%
+
+Languages:  English (official), Portuguese
+
+Literacy:  definition: age 15 and over can read and write total
+population: 98% male: 98% female: 99% (1970 est.)
+
+Government Bermuda
+
+Country name:   Bermuda former: Dependency status:  overseas territory
+of the UK
+
+Government type:  parliamentary British overseas territory with internal
+self-government
+
+Capital:  Hamilton
+
+Administrative divisions:  9 parishes and 2 municipalities*; Devonshire,
+Hamilton, Hamilton*, Paget, Pembroke, Saint George*, Saint George's,
+Sandys, Smith's, Southampton, Warwick
+
+Independence:  none (overseas territory of the UK)
+
+National holiday:  Bermuda Day, 24 May
+
+Constitution:  8 June 1968, amended 1989
+
+Legal system:  English law
+
+Suffrage:  18 years of age; universal
+
+Executive branch:  chief of state: Queen ELIZABETH II (since 6 February
+1952), represented by Governor Sir John VEREKER (since NA April 2002)
+head of government:  by the premier, appointed by the governor elections:
+none; the monarch is hereditary; governor appointed by the monarch;
+governor invites the leader of largest party in Parliament to form a
+government as premier
+
+Legislative branch:  bicameral Parliament consists of the Senate (an
+11-member body appointed by the governor, the premier, and the opposition)
+and the House of Assembly (40 seats; members are elected by popular
+vote to serve five-year terms) elections: last general election held
+9 November 1998 (next to be held NA November 2003) election results:
+percent of vote by party - PLP 54%, UBP 44%, NLP 1%, independents 1%;
+seats by party - PLP 26, UBP 14
+
+Judicial branch:  Supreme Court; Court of Appeal; Magistrate Courts
+
+Political parties and leaders:  National Liberal Party or NLP [Dessaline
+WALDRON]; Progressive Labor Party or PLP [Jennifer SMITH]; United Bermuda
+Party or UBP [Dr. Grant GIBBONS]
+
+Political pressure groups and leaders:  Bermuda Employer's Union
+[Eddie SAINTS]; Bermuda Industrial Union or BIU [Derrick BURGESS];
+Bermuda Public Services Association or BPSA [leader NA]; Bermuda Union
+of Teachers [Michael CHARLES]
+
+International organization participation:  Caricom (observer), CCC,
+ICFTU, Interpol (subbureau), IOC
+
+Diplomatic representation in the US:  none (overseas territory of the UK)
+
+Diplomatic representation from the US:  chief of mission: Acting Consul
+General Karen EMMERSON consulate(s)
+ Crown Hill, 16 Middle Road, Devonshire DVQ3 mailing address:  Department
+ of State, 5300 Hamilton Place, Washington, DC 20520-5300
+telephone: [1] (441) 295-1342 FAX: [1] (441) 295-1592, [1] (441) 296-9233
+
+Flag description:  red, with the flag of the UK in the upper hoist-side
+quadrant and the Bermudian coat of arms (white and green shield with a
+red lion holding a scrolled shield showing the sinking of the ship Sea
+Venture off Bermuda in 1609) centered on the outer half of the flag
+
+Economy Bermuda
+
+Economy - overview:  Bermuda enjoys one of the highest per capita
+incomes in the world, with its economy primarily based on providing
+financial services for international business and luxury facilities for
+tourists. The effects of 11 September 2001 have had both positive and
+negative ramifications for Bermuda. On the positive side, a number of
+new reinsurance companies have located on the island, contributing to
+the expansion of an already robust international business sector. On
+the negative side, Bermuda's already weakening tourism industry - which
+derives over 80% of its visitors from the US - has been further hit as
+American tourists have chosen not to travel. Most capital equipment
+and food must be imported, with the US serving as the primary source
+of goods, followed by the UK. Bermuda's industrial sector is small,
+although construction continues to be important. Agriculture is limited,
+only 6% of the land being arable.
+
+GDP:  purchasing power parity - $2.2 billion (2001 est.)
+
+GDP - real growth rate:  2.9% (2001 est.)
+
+GDP - per capita:  purchasing power parity - $34,800 (2001 est.)
+
+GDP - composition by sector:  agriculture: 1% industry: 10% services: 89%
+(1995 est.)
+
+Population below poverty line:  NA%
+
+Household income or consumption by percentage share:  lowest 10%: NA%
+highest 10%: NA%
+
+Inflation rate (consumer prices):  3% (July 2001)
+
+Labor force:  37,472 (2000)
+
+Labor force - by occupation:  clerical 22%, services 20%, laborers 17%,
+professional and technical 17%, administrative and managerial 13%,
+sales 8%, agriculture and fishing 3% (2000 est.)
+
+Unemployment rate:  4.5% (1993)
+
+Budget:  revenues: $609.5 million expenditures: $574.6 million, including
+capital expenditures of $54.8 million (FY00/01)
+
+Industries:  tourism, international business, light manufacturing
+
+Industrial production growth rate:  NA%
+
+Electricity - production:  595 million kWh (2000)
+
+Electricity - production by source:  fossil fuel: 100% hydro: 0% other: 0%
+(2000) nuclear: 0%
+
+Electricity - consumption:  553.35 million kWh (2000)
+
+Electricity - exports:  0 kWh (2000)
+
+Electricity - imports:  0 kWh (2000)
+
+Agriculture - products:  bananas, vegetables, citrus, flowers; dairy
+products
+
+Exports:  $51 million (2000)
+
+Exports - commodities:  reexports of pharmaceuticals
+
+Exports - partners:  EU excluding UK 77.9%, US 9.8%, UK 6.9% (1999)
+
+Imports:  $719 million (2000)
+
+Imports - commodities:  machinery and transport equipment, construction
+materials, chemicals, food and live animals
+
+Imports - partners:  EU excluding UK 35.4%, US 17.8%, UK 15.4%, Russia
+14.6% (1999)
+
+Debt - external:  $145 million (FY99/00)
+
+Economic aid - recipient:  $NA
+
+Currency:  Bermudian dollar (BMD)
+
+Currency code:  BMD
+
+Exchange rates:  Bermudian dollar per US dollar - 1.0000 (fixed rate
+pegged to the US dollar)
+
+Fiscal year:  1 April - 31 March
+
+Communications Bermuda
+
+Telephones - main lines in use:  52,000 (1997)
+
+Telephones - mobile cellular:  7,980 (1996)
+
+Telephone system:  general assessment: NA domestic: modern, fully
+automatic telephone system international: 3 submarine cables; satellite
+earth stations - 3 Intelsat (Atlantic Ocean)
+
+Radio broadcast stations:  AM 5, FM 3, shortwave 0 (1998)
+
+Radios:  82,000 (1997)
+
+Television broadcast stations:  3 (1997)
+
+Televisions:  66,000 (1997)
+
+Internet country code:  .bm
+
+Internet Service Providers (ISPs):  20 (2000)
+
+Internet users:  25,000 (2000)
+
+Transportation Bermuda
+
+Railways:  0 km
+
+Highways:  total: 450 km paved: NA note: public roads - 209 km; private
+roads - 241 km (2002) unpaved: NA
+
+Waterways:  none
+
+Pipelines:  NA
+
+Ports and harbors:  Hamilton, Saint George's, Dockyard
+
+Merchant marine:  total: 102 ships (1,000 GRT or over) totaling 5,485,450
+GRT/8,782,869 DWT note: includes some foreign-owned ships registered
+here as a flag of convenience: Croatia 5, Denmark 2, Germany 1, Greece 1,
+Hong Kong 9, Indonesia 1, Norway 2, Sweden 11, United Kingdom 52, United
+States 13 (2002 est.)  ships by type: bulk 28, cargo 4, container 16,
+liquefied gas 6, passenger 3, petroleum tanker 17, refrigerated cargo 16,
+roll on/roll off 9, short-sea passenger 3
+
+Airports:  1 (2002)
+
+Airports - with paved runways:  total: 1 2,438 to 3,047 m: 1 (2960 m)
+(2002)
+
+Heliports: 
+
+Military Bermuda
+
+Military branches:  no regular indigenous military forces; Bermuda
+Regiment, Bermuda Police Force, Bermuda Reserve Constabulary
+
+Military expenditures - dollar figure:  $4,027,970 (January 2002)
+
+Military expenditures - percent of GDP:  0.11% (FY00/01)
+
+Military - note:  defense is the responsibility of the UK
+
+Transnational Issues Bermuda
+
+Disputes - international:  none
+
+This page was last updated on 1 January 2002
+
+
+
+&quot;
+&quot;========================================================================
+
+&quot;
+&quot;========================================================================
+
+
+East Timor
+
+Introduction East Timor
+
+Background:  The Portuguese colony of Timor declared itself independent
+from Portugal on 28 November 1975 and was invaded and occupied by
+Indonesian forces nine days later. It was subsequently incorporated
+into Indonesia in July 1976 as the province of Timor Timur. A so-called
+campaign of pacification followed, during which time an estimated
+100,000 to 250,000 individuals lost their lives. On 30 August 1999,
+in a UN-supervised popular referendum, the people of Timor Timur
+voted for independence from Indonesia. On 20 May 2002, East Timor was
+internationally recognized as an independent state and the world's
+newest democracy.
+
+Geography East Timor
+
+Location:  Southeastern Asia, northwest of Australia in the Lesser Sunda
+Islands at the eastern end of the Indonesian archipelago; note - East
+Timor includes the eastern half of the island of Timor, the Oecussi
+(Ambeno) region on the northwest portion of the island of Timor, and
+the islands of Pulau Atauro and Pulau Jaco
+
+Geographic coordinates:  8 50 S, 125 55 E
+
+Map references:  Southeast Asia
+
+Area:  total: 15,007 sq km land: NA sq km water: NA sq km
+
+Area - comparative:  slightly larger than Connecticut
+
+Land boundaries:  total: 228 km border countries: Indonesia 228 km
+
+Coastline:  706 km
+
+Maritime claims:   NA NM territorial sea:  economic zone: NA NM
+
+Climate:  tropical; hot, humid; distinct rainy and dry seasons
+
+Terrain:  mountainous
+
+Elevation extremes:   Timor Sea, Savu Sea, and Banda Sea 0 m highest
+point: Natural resources:  gold, petroleum, natural gas, manganese, marble
+
+Land use:  arable land: NA% other: NA% permanent crops: NA%
+
+Irrigated land:  1,065 sq km (est.)
+
+Natural hazards:  floods and landslides are common; earthquakes, tsunamis,
+tropical cyclones
+
+Environment - current issues:  widespread use of slash and burn
+agriculture has led to deforestation and soil erosion
+
+Environment - international agreements:  NA
+
+Geography - note:  Timor is the Malay word for &quot;&quot;Orient&quot;&quot;; the island of
+Timor is part of the Malay Archipelago and is the largest and easternmost
+of the Lesser Sunda Islands
+
+People East Timor
+
+Population:  952,618 (July 2002 est.)  note: other estimates range as
+low as 800,000 (2002 est.)
+
+Age structure:  NA
+
+Population growth rate:  7.26% (2002 est.)
+
+Birth rate:  28.07 births/1,000 population (2002 est.)
+
+Death rate:  6.52 deaths/1,000 population (2002 est.)
+
+Net migration rate:  51.07 migrant(s)/1,000 population (2002 est.)
+
+Sex ratio:  NA
+
+Infant mortality rate:  51.99 deaths/1,000 live births (2002 est.)
+
+Life expectancy at birth:  total population: 64.85 years male: 62.64
+years female: 67.17 years (2002 est.)
+
+Total fertility rate:  3.88 children born/woman (2002 est.)
+
+HIV/AIDS - adult prevalence rate:  NA
+
+HIV/AIDS - people living with HIV/AIDS:  NA
+
+HIV/AIDS - deaths:  NA
+
+Nationality:  noun: Timorese adjective: Timorese
+
+Ethnic groups:  Austronesian (Malayo-Polynesian), Papuan, small Chinese
+minority
+
+Religions:  Roman Catholic 90%, Muslim 4%, Protestant 3%, Hindu 0.5%,
+Buddhist, Animist (1992 est.)
+
+Languages:  Tetum (official), Portuguese (official), Indonesian,
+English note:  Galole, Mambae, and Kemak are spoken by significant
+numbers of people
+
+Literacy:  definition: age 15 and over can read and write total
+population: 48% (2001) male: NA% female: NA%
+
+Government East Timor
+
+Country name:  conventional long form: Democratic Republic of East Timor
+conventional short form: East Timor local short form: Timor Lorosa'e
+[Tetum];
+ Portuguese Timor local long form:  Timor-Leste [Portuguese]
+
+Government type:  republic
+
+Capital:  Dili
+
+Administrative divisions:  13 administrative districts; Aileu, Ainaro,
+Baucau, Bobonaro (Maliana), Cova-Lima (Suai), Dili, Ermera, Lautem (Los
+Palos), Liquica, Manatuto, Manufahi (Same), Oecussi (Ambeno), Viqueque
+
+Independence:  28 November 1975 (date of proclamation of independence
+from Portugal); note - 20 May 2002 is the official date of international
+recognition of East Timor's independence from Indonesia
+
+National holiday:  Independence Day, 28 November (1975)
+
+Constitution:  22 March 2002 (based on the Portuguese model)
+
+Legal system:  NA
+
+Suffrage:  17 years of age; universal
+
+Executive branch:  chief of state: President Jose Alexander GUSMAO
+(since 20 May 2002); note - the president plays a largely symbolic
+role but is able to veto some legislation head of government: Prime
+Minister Mari Bin Amude ALKATIRI (since 20 May 2002) cabinet: Council
+of State elections: president elected by popular vote for a five-year
+term; election last held 14 April 2002 (next to be held NA April 2007);
+following legislative elections, the leader of the majority party or
+majority coalition is usually appointed prime minister by the president
+election results: Jose Alexander GUSMAO elected president; percent of
+vote - Jose Alexander GUSMAO 82.7%, Francisco Xavier do Amaral 17.3%
+
+Legislative branch:  unicameral National Parliament (number of seats
+can vary, minimum requirement of 52 and a maximum of 65 seats; members
+elected by popular vote to serve five-year terms); note - for its first
+term of office, the National Parliament is comprised of 88 members
+on an exceptional basis elections: last held 30 August 2001 (next to
+be held NA August 2006) election results: percent of vote by party -
+FRETILIN 57.37%, PD 8.72%, PSD 8.18%, ASDT 7.84%, UDT 2.36%, PNT 2.21%,
+KOTA 2.13%, PPT 2.01%, PDC 1.98%, PST 1.78%, independents/other 5.42%;
+seats by party - FRETILIN 55, PD 7, PSD 6, ASDT 6, PDC 2, UDT 2, KOTA 2,
+PNT 2, PPT 2, UDC/PDC 1, PST 1, PL 1, independent 1
+
+Judicial branch:  Supreme Court of Justice, one judge appointed by the
+National Parliament and the rest appointed by the Superior Council for
+the Judiciary
+
+Political parties and leaders:  Associacao Social-Democrata Timorense or
+ASDT [Francisco Xavier do AMARAL]; Christian Democratic Party of Timor
+or PDC [Antonio XIMENES]; Christian Democratic Union of Timor or UDC
+[Vicente da Silva GUTERRES]; Democratic Pary or PD [Fernando de ARAUJO];
+Maubere Democratic Party or PDM [leader NA]; People's Party of Timor or
+PPT [Jacob XAVIER]; Revolutionary Front of Independent East Timor or
+FRETILIN [Lu OLO]; Social Democrat Party of East Timor or PSD [Mario
+CARRASCALAO]; Socialist Party of Timor or PST [leader NA]; Sons of
+the Mountain Warriors (also known as Association of Timorese Heroes)
+or KOTA [Clementino dos Reis AMARAL]; Timor Democratic Union or UDT
+[Joao CARRASCALAO]; Timor Labor Party or TRABALHISTA [Paulo Freitas
+DA SILVA]; Timorese Nationalist Party or PNT [Abilio ARAUJO]; Timorese
+Popular Democratic Association or APODETI [Frederico Almeida Santos COSTA]
+
+Political pressure groups and leaders:  NA
+
+International organization participation:  IBRD, IMF note: UN membership
+is expected in September
+
+Diplomatic representation in the US:  chief of mission: Ambassador
+(vacant); Charge d'Affaires Constancio PINTO chancery: NA consulate(s)
+general: NA FAX: NA telephone: NA
+
+Diplomatic representation from the US:  chief of mission: Ambassador
+(vacant) embassy: Farol district, Dili mailing address: NA telephone:
+(670) 390 324 684 FAX: (670) 390 313 206
+
+Flag description:  red, with a black isosceles triangle (based on the
+hoist side) superimposed on a slightly longer yellow arrowhead that
+extends to the center of the flag; there is a white star in the center
+of the black triangle
+
+Economy East Timor
+
+Economy - overview:  In late 1999, about 70% of the economic
+infrastructure of East Timor was laid waste by Indonesian troops and
+anti-independence militias, and 260,000 people fled westward. Over the
+next three years, however, a massive international program, manned by
+5,000 peacekeepers (8,000 at peak) and 1,300 police officers, led to
+substantial reconstruction in both urban and rural areas. By mid-2002,
+all but about 50,000 of the refugees had returned. The country faces
+great challenges in continuing the rebuilding of infrastructure and the
+strengthening of the infant civil administration. One promising long-term
+project would be development of oil resources in nearby waters.
+
+GDP:  purchasing power parity - $415 million (2001 est.)
+
+GDP - real growth rate:  18% (2001 est.)
+
+GDP - per capita:  purchasing power parity - $500 (2001 est.)
+
+GDP - composition by sector:  agriculture: 25.4% industry: 17.2% services:
+57.4% (2001)
+
+Population below poverty line:  42% (2002 est.)
+
+Household income or consumption by percentage share:  lowest 10%: NA%
+highest 10%: NA%
+
+Distribution of family income - Gini index:  38
+
+Inflation rate (consumer prices):  NA%
+
+Labor force:  NA
+
+Labor force - by occupation:  NA
+
+Unemployment rate:  50% (including underemployment)
+
+Budget:  revenues: $NA expenditures: $NA
+
+Industries:  printing, soap manufacturing, handicrafts, woven cloth
+
+Industrial production growth rate:  8.5%
+
+Electricity - production:  NA kWh
+
+Electricity - production by source:  fossil fuel: 100% hydro: 0% other:
+0% nuclear: 0%
+
+Electricity - consumption:  NA kWh
+
+Electricity - exports:  0 kWh
+
+Electricity - imports:  0 kWh
+
+Agriculture - products:  coffee, rice, maize, cassava, sweet potatoes,
+soybeans, cabbage, mangoes, bananas, vanilla
+
+Exports:  $8 million (2001 est.)
+
+Exports - commodities:  coffee, sandalwood, marble; note - the potential
+for oil and vanilla exports
+
+Exports - partners:  NA
+
+Imports:  $237 million (2001 est.)
+
+Imports - commodities:  NA
+
+Imports - partners:  NA
+
+Debt - external:  $NA
+
+Economic aid - recipient:  $2.2 billion (1999-2002 est.)
+
+Currency:  US dollar (USD)
+
+Currency code:  USD
+
+Fiscal year:  1 July - 30 June
+
+Communications East Timor
+
+Telephones - main lines in use:  NA
+
+Telephones - mobile cellular:  NA
+
+Telephone system:  NA
+
+Radio broadcast stations:  AM NA, FM NA, shortwave NA
+
+Radios:  NA
+
+Television broadcast stations:  NA
+
+Televisions:  NA
+
+Internet country code:  .tp
+
+Internet Service Providers (ISPs):  NA
+
+Internet users:  NA
+
+Transportation East Timor
+
+Railways:  0 km
+
+Highways:  total: 3,800 km paved: 428 km unpaved: 3,372 km (1995)
+
+Waterways:  NA
+
+Pipelines:  NA
+
+Ports and harbors:  NA
+
+Merchant marine:  total: NA ships by type: NA
+
+Airports:  8 (2001)
+
+Airports - with paved runways:  total: 3 2,438 to 3,047 m: 1 1,524 to
+2,427 m: 1 914 to 1,523 m: 1 (2001)
+
+Airports - with unpaved runways:  total: 5 914 to 1,523 m: 3 under 914 m:
+2 (2001)
+
+Heliports:  1 (2001)
+
+Military East Timor
+
+Military branches:  the East Timor Defense Force or FALINTIL-FDTL
+comprises a light-infantry Army and a small Naval component; note -
+plans are to develop a force of 1,500 active personnel and 1,500 reserve
+personnel over the next five years
+
+Military manpower - military age:  18-21 years of age
+
+Military manpower - availability:  NA
+
+Military manpower - fit for military service:  NA
+
+Military manpower - reaching military age annually:  NA
+
+Military expenditures - dollar figure:  $4.4 million (FY03)
+
+Military expenditures - percent of GDP:  NA%
+
+Transnational Issues East Timor
+
+Disputes - international:  East Timor-Indonesia Boundary Committee meets
+to survey and delimit land boundary; Indonesia seeks resolution of East
+Timor refugees in Indonesia; Australia-East Timor-Indonesia are working to
+resolve maritime boundary and sharing of seabed resources in &quot;&quot;Timor Gap&quot;&quot;
+
+Illicit drugs:  NA
+
+This page was last updated on 1 January 2002
+
+
+
+&quot;
+&quot;========================================================================
+
+
+Ecuador
+
+Introduction
+
+Ecuador
+
+Background:  The &quot;&quot;Republic of the Equator&quot;&quot; was one of three countries
+that emerged from the collapse of Gran Colombia in 1830 (the others
+being Colombia and Venezuela).  Between 1904 and 1942, Ecuador lost
+territories in a series of conflicts with its neighbors. A border war
+with Peru that flared in 1995 was resolved in 1999.
+
+Geography Ecuador
+
+Location:  Western South America, bordering the Pacific Ocean at the
+Equator, between Colombia and Peru
+
+Geographic coordinates:  2 00 S, 77 30 W
+
+Map references:  South America
+
+Area:  total: 283,560 sq km note: includes Galapagos Islands water:
+6,720 sq km land: 276,840 sq km
+
+Area - comparative:  slightly smaller than Nevada
+
+Land boundaries:  total: 2,010 km border countries: Colombia 590 km,
+Peru 1,420 km
+
+Coastline:  2,237 km
+
+Maritime claims:  continental shelf: claims continental shelf between
+mainland and Galapagos Islands territorial sea: 200 NM
+
+Climate:  tropical along coast, becoming cooler inland at higher
+elevations; tropical in Amazonian jungle lowlands
+
+Terrain:  coastal plain (costa), inter-Andean central highlands (sierra),
+and flat to rolling eastern jungle (oriente)
+
+Elevation extremes:  lowest point: Pacific Ocean 0 m highest point:
+Chimborazo 6,267 m
+
+Natural resources:  petroleum, fish, timber, hydropower
+
+Land use:  arable land: 6% permanent crops: 5% other: 89% (1998 est.)
+
+Irrigated land:  8,650 sq km (1998 est.)
+
+Natural hazards:  frequent earthquakes, landslides, volcanic activity;
+floods; periodic droughts
+
+Environment - current issues:  deforestation; soil erosion;
+desertification; water pollution; pollution from oil production wastes
+in ecologically sensitive areas of the Galapagos Islands
+
+Environment - international agreements:  party to: Antarctic-Environmental
+Protocol, Antarctic Treaty, Biodiversity, Climate Change, Climate
+Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous
+Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical
+Timber 83, Tropical Timber 94, Wetlands signed, but not ratified: none
+of the selected agreements
+
+Geography - note:  Cotopaxi in Andes is highest active volcano in world
+
+People Ecuador
+
+Population:  13,447,494 (July 2002 est.)
+
+Age structure:  0-14 years: 35.4% (male 2,415,764; female 2,337,095)
+15-64 years: 60.2% (male 4,007,495; female 4,090,957) 65 years and over:
+4.4% (male 276,482; female 319,701) (2002 est.)
+
+Population growth rate:  1.96% (2002 est.)
+
+Birth rate:  25.47 births/1,000 population (2002 est.)
+
+Death rate:  5.36 deaths/1,000 population (2002 est.)
+
+Net migration rate:  -0.53 migrant(s)/1,000 population (2002 est.)
+
+Sex ratio:  at birth: 1.05 male(s)/female under 15 years: 1.03
+male(s)/female 15-64 years: 0.98 male(s)/female 65 years and over:
+0.86 male(s)/female total population: 0.99 male(s)/female (2002 est.)
+
+Infant mortality rate:  33.02 deaths/1,000 live births (2002 est.)
+
+Life expectancy at birth:   74.57 years (2002 est.)  male: Total fertility
+rate:  3.05 children born/woman (2002 est.)
+
+HIV/AIDS - adult prevalence rate:  0.3% (2001)
+
+HIV/AIDS - people living with HIV/AIDS:  20,000 (2001 est.)
+
+HIV/AIDS - deaths:  232 (2001)
+
+Nationality:  noun: Ecuadorian(s) adjective: Ecuadorian
+
+Ethnic groups:  mestizo (mixed Amerindian and white) 65%, Amerindian 25%,
+Spanish and others 7%, black 3%
+
+Religions:  Roman Catholic 95%
+
+Languages:  Spanish (official), Amerindian languages (especially Quechua)
+
+Literacy:  definition: age 15 and over can read and write total
+population: 90.1% male: 92% female: 88.2% (1995 est.)
+
+Government Ecuador
+
+Country name:   Republic of Ecuador conventional short form: Government
+type:  republic
+
+Capital:  Quito
+
+Administrative divisions:  22 provinces (provincias, singular -
+provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El
+Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi,
+Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Sucumbios,
+Tungurahua, Zamora-Chinchipe
+
+Independence:  24 May 1822 (from Spain)
+
+National holiday:  Independence Day (independence of Quito), 10 August
+(1809)
+
+Constitution:  10 August 1998
+
+Legal system:  based on civil law system; has not accepted compulsory
+ICJ jurisdiction
+
+Suffrage:  18 years of age; universal, compulsory for literate persons
+ages 18-65, optional for other eligible voters
+
+Executive branch:  chief of state: President Gustavo NOBOA Bejarano
+(since 22 January 2000) selected president following coup that deposed
+President Jamil MAHUAD; Vice President Pedro PINTO Rubianes (since 28
+January 2000) elected by National Congress from a slate of candidates
+submitted by President NOBOA; note - the president is both the chief
+of state and head of government elections: formerly, the president
+and vice president were elected on the same ticket by popular vote for
+four-year term (no reelection); election last held 31 May 1998; runoff
+election held 12 July 1998 (next to be held 20 October 2002) head of
+government: President Gustavo NOBOA Bejarano (since 22 January 2000)
+selected president following coup that deposed President Jamil MAHUAD;
+Vice President Pedro PINTO Rubianes (since 28 January 2000) elected by
+National Congress from a slate of candidates submitted by President
+NOBOA; note - the president is both the chief of state and head of
+government cabinet: Cabinet appointed by the president election results:
+results of the last election prior to the coup were: Jamil MAHUAD elected
+president; percent of vote - 51% note: a military-indigenous coup toppled
+democratically-elected President Jamil MAHAUD on 21 January 2000; the
+military quickly handed power over to Vice President Gustavo NOBOA on
+22 January 2000; National Congress then elected a new vice president
+from a slate of candidates submitted by NOBOA; the new administration
+is scheduled to complete the remainder of MAHAUD's term, due to expire
+in January 2003
+
+Legislative branch:  unicameral National Congress or Congreso Nacional
+(123 seats; 20 members are popularly elected at-large nationally to
+serve four-year terms; 103 members are popularly elected by province
+to serve four-year terms) elections: last held 31 May 1998 (next to be
+held 20 October 2002) election results: percent of vote by party - NA%;
+seats by party - DP 32, PSC 27, PRE 24, ID 18, P-NP 9, FRA 5, PCE 3,
+MPD 2, CFP 1; note - defections by members of National Congress are
+commonplace, resulting in frequent changes in the numbers of seats held
+by the various parties
+
+Judicial branch:  Supreme Court or Corte Suprema (new justices are
+elected by the full Supreme Court)
+
+Political parties and leaders:  Concentration of Popular Forces or CFP
+[Averroes BUCARAM]; Democratic Left or ID [Rodrigo BORJA Cevallos];
+Ecuadorian Conservative Party or PCE [Jacinto JIJON Y CAMANO]; Independent
+National Movement or MIN [Eliseo AZUERO]; Pachakutik-New Country or P-NP
+[Miguel LLUCO]; Popular Democracy or DP [Dr. Juan Manuel FUERTES]; Popular
+Democratic Movement or MPD [Gustavo TERAN Acosta]; Radical Alfarista Front
+or FRA [Fabian ALARCON, director]; Roldosist Party or PRE [Abdala BUCARAM
+Ortiz, director]; Social Christian Party or PSC [Pascual DEL CIOPPO]
+
+Political pressure groups and leaders:  Confederation of Indigenous
+Nationalities of Ecuador or CONAIE [Leonidas IZA, president]; Coordinator
+of Social Movements or CMS [F. Napoleon SANTOS]; Federation of Indigenous
+Evangelists of Ecuador or FEINE [Marco MURILLO, president]; National
+Federation of Indigenous Afro-Ecuatorianos and Peasants or FENOCIN
+[Pedro DE LA CRUZ, president]; Popular Front or FP [Luis VILLACIS]
+
+International organization participation:  CAN, CCC, ECLAC, FAO, G-77,
+IADB, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IFAD, IFC, IFRCS, IHO,
+ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITU, LAES, LAIA, NAM, OAS,
+OPANAL, OPCW, PCA, RG, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WFTU, WHO,
+WIPO, WMO, WToO, WTrO
+
+Diplomatic representation in the US:   Ambassador Ivonne A-BAKI
+consulate(s) general:  Philadelphia, and San Francisco FAX: [1] (202)
+667-3482 telephone: [1] (202) 234-7200 chancery: 2535 15th Street NW,
+Washington, DC 20009
+
+Diplomatic representation from the US:  chief of mission: Ambassador
+(vacant); Charge d'Affaires Larry L.  PALMER embassy: Avenida 12 de
+Octubre y Avenida Patria, Quito mailing address: APO AA 34039 telephone:
+[593] (2) 256-2890 FAX: [593] (2) 502-052 consulate(s) general: Guayaquil
+
+Flag description:  three horizontal bands of yellow (top, double width),
+blue, and red with the coat of arms superimposed at the center of the
+flag; similar to the flag of Colombia which is shorter and does not bear
+a coat of arms
+
+Economy Ecuador
+
+Economy - overview:  Ecuador has substantial oil resources and rich
+agricultural areas. Because the country exports primary products such
+as oil, bananas, and shrimp, fluctuations in world market prices can
+have a substantial domestic impact. Ecuador joined the World Trade
+Organization in 1996, but has failed to comply with many of its accession
+commitments. The aftermath of El Nino and depressed oil market of 1997-98
+drove Ecuador's economy into a free-fall in 1999. The beginning of 1999
+saw the banking sector collapse, which helped precipitate an unprecedented
+default on external loans later that year. Continued economic instability
+drove a 70% depreciation of the currency throughout 1999, which forced
+a desperate government to &quot;&quot;dollarize&quot;&quot; the currency regime in 2000. The
+move stabilized the currency, but did not stave off the ouster of the
+government. Gustavo NOBOA, who assumed the presidency in January 2000,
+has managed to pass substantial economic reforms and mend relations
+with international financial institutions. Ecuador completed its first
+standby agreement since 1986 when the IMF Board approved a 10 December
+2001 disbursement of $96 million, the final installment of a $300 million
+standby credit agreement.
+
+GDP:  purchasing power parity - $39.6 billion (2001 est.)
+
+GDP - real growth rate:  4.3% (2001 est.)
+
+GDP - per capita:  purchasing power parity - $3,000 (2001 est.)
+
+GDP - composition by sector:  agriculture: 11% industry: 25% services:
+64% (2000 est.)
+
+Population below poverty line:  70% (2001 est.)
+
+Household income or consumption by percentage share:  lowest 10%: 2.2%
+highest 10%: 33.8% (1995)
+
+Distribution of family income - Gini index:  43.7 (1995)
+
+Inflation rate (consumer prices):  22% (2001 est.)
+
+Labor force:  3.7 million (urban)
+
+Labor force - by occupation:  agriculture 30%, industry 25%, services 45%
+(2001 est.)
+
+Unemployment rate:  14%; note - widespread underemployment (2001 est.)
+
+Budget:  revenues: $5.6 billion expenditures: planned $5.6 billion,
+including capital expenditures of $NA (2001 est.)
+
+Industries:  petroleum, food processing, textiles, metal work, paper
+products, wood products, chemicals, plastics, fishing, lumber
+
+Industrial production growth rate:  5.1% (2001 est.)
+
+Electricity - production:  10.395 billion kWh (2000)
+
+Electricity - production by source:  fossil fuel: 25.01% hydro: 74.99%
+other: 0% (2000) nuclear: 0%
+
+Electricity - consumption:  9.667 billion kWh (2000)
+
+Electricity - exports:  0 kWh (2000)
+
+Electricity - imports:  0 kWh (2000)
+
+Agriculture - products:  bananas, coffee, cocoa, rice, potatoes, manioc
+(tapioca), plantains, sugarcane; cattle, sheep, pigs, beef, pork, dairy
+products; balsa wood; fish, shrimp
+
+Exports:  $4.8 billion (2001 est.)
+
+Exports - commodities:  petroleum, bananas, shrimp, coffee, cocoa,
+cut flowers, fish
+
+Exports - partners:  US 38%, Peru 6%, Chile 5%, Colombia 5%, Italy 3%
+(2000)
+
+Imports:  $4.8 billion (2001 est.)
+
+Imports - commodities:  machinery and equipment, chemicals, raw materials,
+fuels; consumer goods
+
+Imports - partners:  US 25%, Colombia 13%, Japan 8%, Venezuela 8%,
+Brazil 4% (2000)
+
+Debt - external:  $14 billion (2001)
+
+Economic aid - recipient:  $120 million (2001)
+
+Currency:  US dollar (USD)
+
+Currency code:  USD
+
+Exchange rates:  sucres per US dollar - 25,000.0 (January 2002), 25,000.0
+(2001), 24,988.4 (2000), 11,786.8 (1999), 5,446.6 (1998), 3,988.3 (1997)
+note: on 13 March 2000, the National Congress approved a new exchange
+system whereby the US dollar was adopted as the main legal tender in
+Ecuador for all purposes; on 20 March 2000, the Central Bank of Ecuador
+started to exchange sucres for US dollars at a fixed rate of 25,000 sucres
+per US dollar; since 30 April 2000, all transactions are denominated in
+US dollars
+
+Fiscal year:  calendar year
+
+Communications Ecuador
+
+Telephones - main lines in use:  1,115,272 (1999)
+
+Telephones - mobile cellular:  384,000 (1999)
+
+Telephone system:   generally elementary but being expanded domestic:
+earth station - 1 Intelsat (Atlantic Ocean)
+
+Radio broadcast stations:  AM 392, FM 35, shortwave 29 (2001)
+
+Radios:  5 million (2001)
+
+Television broadcast stations:  7 (plus 14 repeaters) (2001)
+
+Televisions:  2.5 million (2001)
+
+Internet country code:  .ec
+
+Internet Service Providers (ISPs):  31 (2001)
+
+Internet users:  180,000 (2001)
+
+Transportation Ecuador
+
+Railways:  total: 965 km narrow gauge: 965 km 1.067-m gauge (2000 est.)
+
+Highways:  total: 43,197 km paved: 8,165 km unpaved: 35,032 km (2001)
+
+Waterways:  1,500 km
+
+Pipelines:  crude oil 800 km; petroleum products 1,358 km
+
+Ports and harbors:  Esmeraldas, Guayaquil, La Libertad, Manta, Puerto
+Bolivar, San Lorenzo
+
+Merchant marine:  total: 33 ships (1,000 GRT or over) totaling 239,876
+GRT/393,680 DWT note: includes some foreign-owned ships registered here
+as a flag of convenience: Chile 1, Greece 1 (2002 est.)  ships by type:
+cargo 2, chemical tanker 3, liquefied gas 1, passenger 3, petroleum
+tanker 23, specialized tanker 1
+
+Airports:  205 (2001)
+
+Airports - with paved runways:  total: 61 over 3,047 m: 2 2,438 to 3,047
+m: 5 914 to 1,523 m: 17 under 914 m: 19 (2001) 1,524 to 2,437 m: 18
+
+Airports - with unpaved runways:  total: 144 914 to 1,523 m: 31 under
+914 m: 113 (2001)
+
+Heliports:  1 (2001)
+
+Military Ecuador
+
+Military branches:  Army, Navy (including Marines), Air Force, National
+Police
+
+Military manpower - military age:  20 years of age (2002 est.)
+
+Military manpower - availability:  males age 15-49: 3,468,678 (2002 est.)
+
+Military manpower - fit for military service:  males age 15-49: 2,337,944
+(2002 est.)
+
+Military manpower - reaching military age annually:  males: 132,978
+(2002 est.)
+
+Military expenditures - dollar figure:  $720 million (FY98)
+
+Military expenditures - percent of GDP:  3.4% (FY98)
+
+Transnational Issues Ecuador
+
+Disputes - international:  none
+
+Illicit drugs:  significant transit country for cocaine originating in
+Colombia and Peru; importer of precursor chemicals used in production
+of illicit narcotics; important money-laundering hub; increased activity
+on the northern frontier by trafficking groups and Colombian insurgents
+
+This page was last updated on 1 January 2002
+
+
+
+&quot;
+&quot;========================================================================
+
+&quot;
+&quot;========================================================================
+
+
+Howland Island
+
+Introduction
+
+Howland Island
+
+Background:  Discovered by the US early in the 19th century, the island
+was officially claimed by the US in 1857. Both US and British companies
+mined for guano until about 1890. Earhart Light is a day beacon near
+the middle of the west coast that was partially destroyed during World
+War II, but has since been rebuilt; it is named in memory of the famed
+aviatrix Amelia EARHART. The island is administered by the US Department
+of the Interior as a National Wildlife Refuge.
+
+Geography Howland Island
+
+Location:  Oceania, island in the North Pacific Ocean, about half way
+between Hawaii and Australia
+
+Geographic coordinates:  0 48 N, 176 38 W
+
+Map references:  Oceania
+
+Area:  total: 1.6 sq km water: 0 sq km land: 1.6 sq km
+
+Area - comparative:  about three times the size of The Mall in Washington,
+DC
+
+Land boundaries:  0 km
+
+Coastline:  6.4 km
+
+Maritime claims:  exclusive economic zone: 200 NM territorial sea: 12 NM
+
+Climate:  equatorial; scant rainfall, constant wind, burning sun
+
+Terrain:  low-lying, nearly level, sandy, coral island surrounded by a
+narrow fringing reef; depressed central area
+
+Elevation extremes:  lowest point: Pacific Ocean 0 m highest point:
+unnamed location 3 m
+
+Natural resources:  guano (deposits worked until late 1800s), terrestrial
+and aquatic wildlife
+
+Land use:  arable land: 0% permanent crops: 0% other: 100% (1998 est.)
+
+Irrigated land:  0 sq km (1998 est.)
+
+Natural hazards:  the narrow fringing reef surrounding the island can
+be a maritime hazard
+
+Environment - current issues:  no natural fresh water resources
+
+Geography - note:  almost totally covered with grasses, prostrate vines,
+and low-growing shrubs; small area of trees in the center; primarily
+a nesting, roosting, and foraging habitat for seabirds, shorebirds,
+and marine wildlife
+
+People Howland Island
+
+Population:  uninhabited note: American civilians evacuated in 1942
+after Japanese air and naval attacks during World War II; occupied by
+US military during World War II, but abandoned after the war; public
+entry is by special-use permit from US Fish and Wildlife Service only
+and generally restricted to scientists and educators; visited annually
+by US Fish and Wildlife Service (July 2002 est.)
+
+Population growth rate:  NA
+
+Government Howland Island
+
+Country name:  conventional long form: none conventional short form:
+Howland Island
+
+Dependency status:  unincorporated territory of the US; administered from
+Washington, DC, by the Fish and Wildlife Service of the US Department
+of the Interior as part of the National Wildlife Refuge system
+
+Legal system:  the laws of the US, where applicable, apply
+
+Flag description:  the flag of the US is used
+
+Economy Howland Island
+
+Economy - overview:  no economic activity
+
+Transportation Howland Island
+
+Railways: 0 km
+
+Highways: 0 km
+
+Waterways:  none
+
+Pipelines:  NA
+
+Ports and harbors:  none; offshore anchorage only; note - there is one
+small boat landing area along the middle of the west coast
+
+Airports:  airstrip constructed in 1937 for scheduled refueling stop
+on the round-the-world flight of Amelia EARHART and Fred NOONAN - they
+left Lae, New Guinea, for Howland Island, but were never seen again;
+the airstrip is no longer serviceable
+
+Heliports: 
+
+Transportation - note:  Earhart Light is a day beacon near the middle
+of the west coast that was partially destroyed during World War II, but
+has since been rebuilt; named in memory of famed aviatrix Amelia EARHART
+
+Military Howland Island
+
+Military - note:  defense is the responsibility of the US; visited
+annually by the US Coast Guard
+
+Transnational Issues Howland Island
+
+Disputes - international:  none
+
+This page was last updated on 1 January 2002
+
+
+
+&quot;
+&quot;========================================================================
+
+
+&quot;
+&quot;========================================================================
+
+
+Palau
+
+Introduction
+
+Palau
+
+Background:  After three decades as part of the UN Trust Territory of
+the Pacific under US administration, this westernmost cluster of the
+Caroline Islands opted for independence in 1978 rather than join the
+Federated States of Micronesia. A Compact of Free Association with the
+US was approved in 1986, but not ratified until 1993. It entered into
+force the following year when the islands gained independence.
+
+Geography Palau
+
+Location:  Oceania, group of islands in the North Pacific Ocean, southeast
+of the Philippines
+
+Geographic coordinates:  7 30 N, 134 30 E
+
+Map references:  Oceania
+
+Area:  total: 458 sq km water: 0 sq km land: 458 sq km
+
+Area - comparative:  slightly more than 2.5 times the size of Washington,
+DC
+
+Land boundaries:  0 km
+
+Coastline:  1,519 km
+
+Maritime claims:   3 NM extended fishing zone: Climate:  wet season May
+to November; hot and humid
+
+Terrain:  varying geologically from the high, mountainous main island
+of Babelthuap to low, coral islands usually fringed by large barrier reefs
+
+Elevation extremes:  lowest point: Pacific Ocean 0 m highest point:
+Mount Ngerchelchuus 242 m
+
+Natural resources:  forests, minerals (especially gold), marine products,
+deep-seabed minerals
+
+Land use:  arable land: 22% permanent crops: 0% other: 78% (1998 est.)
+
+Irrigated land:  NA sq km
+
+Natural hazards:  typhoons (June to December)
+
+Environment - current issues:  inadequate facilities for disposal of
+solid waste; threats to the marine ecosystem from sand and coral dredging,
+illegal fishing practices, and overfishing
+
+Environment - international agreements:  party to: Biodiversity, Climate
+Change, Climate Change-Kyoto Protocol, Desertification, Law of the Sea,
+Ozone Layer Protection signed, but not ratified: none of the selected
+agreements
+
+Geography - note:  westernmost archipelago in the Caroline chain, consists
+of six island groups totaling more than 300 islands; includes World War
+II battleground of Beliliou (Peleliu) and world-famous rock islands
+
+People Palau
+
+Population:  19,409 (July 2002 est.)
+
+Age structure:  0-14 years: 26.8% (male 2,678; female 2,522) 15-64 years:
+68.6% (male 7,241; female 6,074) 65 years and over: 4.6% (male 426;
+female 468) (2002 est.)
+
+Population growth rate:  1.61% (2002 est.)
+
+Birth rate:  19.32 births/1,000 population (2002 est.)
+
+Death rate:  7.11 deaths/1,000 population (2002 est.)
+
+Net migration rate:  3.86 migrant(s)/1,000 population (2002 est.)
+
+Sex ratio:  at birth: 1.06 male(s)/female under 15 years: 1.06
+male(s)/female 15-64 years: 1.19 male(s)/female 65 years and over:
+0.91 male(s)/female total population: 1.14 male(s)/female (2002 est.)
+
+Infant mortality rate:  16.21 deaths/1,000 live births (2002 est.)
+
+Life expectancy at birth:   72.5 years (2002 est.)  male: Total fertility
+rate:  2.47 children born/woman (2002 est.)
+
+HIV/AIDS - adult prevalence rate:  NA%
+
+HIV/AIDS - people living with HIV/AIDS:  NA
+
+HIV/AIDS - deaths:  NA
+
+Nationality:  noun: Palauan(s) adjective: Palauan
+
+Ethnic groups:  Palauan (Micronesian with Malayan and Melanesian
+admixtures) 70%, Asian (mainly Filipinos, followed by Chinese, Taiwanese,
+and Vietnamese) 28%, white 2% (2000 est.)
+
+Religions:  Christian (Roman Catholics 49%, Seventh-Day Adventists,
+Jehovah's Witnesses, the Assembly of God, the Liebenzell Mission, and
+Latter-Day Saints), Modekngei religion (one-third of the population
+observes this religion which is indigenous to Palau)
+
+Languages:  English and Palauan official in all states except Sonsoral
+(Sonsorolese and English are official), Tobi (Tobi and English are
+official), and Angaur (Angaur, Japanese, and English are official)
+
+Literacy:  definition: age 15 and over can read and write total
+population: 92% male: 93% female: 90% (1980 est.)
+
+Government Palau
+
+Country name:   Republic of Palau conventional short form:  of the
+Pacific Islands) local long form: Beluu er a Belau
+
+Government type:  constitutional government in free association with
+the US; the Compact of Free Association entered into force 1 October 1994
+
+Capital:  Koror; note - a new capital is being built about 20 km northeast
+of Koror
+
+Administrative divisions:  16 states; Aimeliik, Airai, Angaur, Hatobohei,
+Kayangel, Koror, Melekeok, Ngaraard, Ngarchelong, Ngardmau, Ngatpang,
+Ngchesar, Ngeremlengui, Ngiwal, Peleliu, Sonsoral
+
+Independence:  1 October 1994 (from the US-administered UN Trusteeship)
+
+National holiday:  Constitution Day, 9 July (1979)
+
+Constitution:  1 January 1981
+
+Legal system:  based on Trust Territory laws, acts of the legislature,
+municipal, common, and customary laws
+
+Suffrage:  18 years of age; universal
+
+Executive branch:  chief of state: President Tommy Esang REMENGESAU,
+Jr. (since 19 January 2001) and Vice President Sandra PIERANTOZZI (since
+19 January 2001); note - the president is both the chief of state and head
+of government head of government: President Tommy Esang REMENGESAU, Jr.
+(since 19 January 2001) and Vice President Sandra PIERANTOZZI (since 19
+January 2001); note - the president is both the chief of state and head
+of government cabinet: Cabinet elections: president and vice president
+elected on separate tickets by popular vote for four-year terms;
+election last held 7 November 2000 (next to be held NA November 2004)
+election results:  Esang REMENGESAU, Jr. 53%, Peter SUGIYAMA 46%; Sandra
+PIERANTOZZI elected vice president; percent of vote - Sandra PIERANTOZZI
+52%, Alan SEID 45%
+
+Legislative branch:  bicameral Parliament or Olbiil Era Kelulau (OEK)
+consists of the Senate (9 seats; members elected by popular vote on a
+population basis to serve four-year terms) and the House of Delegates
+(16 seats; members elected by popular vote to serve four-year terms)
+elections: Senate - last held 7 November 2000 (next to be held NA November
+2004); House of Delegates - last held 7 November 2000 (next to be held
+NA November 2004) election results: Senate - percent of vote - NA%;
+seats - independents 9; House of Delegates - percent of vote - NA%;
+seats - independents 16
+
+Judicial branch:  Supreme Court; National Court; Court of Common Pleas
+
+Political parties and leaders:  none
+
+Political pressure groups and leaders:  NA
+
+International organization participation:  ACP, ESCAP, FAO, IBRD,
+ICAO, ICRM, IDA, IFC, IFRCS, IMF, IOC, Sparteca, SPC, SPF, UN, UNCTAD,
+UNESCO, WHO
+
+Diplomatic representation in the US:  chief of mission: Ambassador Hersey
+KYOTA FAX: [1] (202) 452-6281 telephone: [1] (202) 452-6814 chancery:
+1150 18th Street NW, Suite 750, Washington, DC 20036
+
+Diplomatic representation from the US:  chief of mission: the Ambassador
+to the Philippines is accredited to Palau; Charge d'Affaires Ronald
+A. HARMS embassy: address NA, Koror
+ P. O. Box 6028, Republic of Palau 96940 telephone:
+Flag description:  light blue with a large yellow disk (representing
+the moon) shifted slightly to the hoist side
+
+Economy Palau
+
+Economy - overview:  The economy consists primarily of tourism,
+subsistence agriculture and fishing. The government is the major
+employer of the work force, relying heavily on financial assistance from
+the US. Business and tourist arrivals numbered 50,000 in FY00/01. The
+population enjoys a per capita income twice that of the Philippines and
+much of Micronesia.  Long-run prospects for the key tourist sector have
+been greatly bolstered by the expansion of air travel in the Pacific,
+the rising prosperity of leading East Asian countries, and the willingness
+of foreigners to finance infrastructure development.
+
+GDP:  purchasing power parity - $174 million (2001 est.)  note: GDP
+numbers reflect US spending
+
+GDP - real growth rate:  1% (2001 est.)
+
+GDP - per capita:  purchasing power parity - $9,000 (2001 est.)
+
+GDP - composition by sector:  agriculture: NA% industry: NA% services: NA%
+
+Population below poverty line:  NA%
+
+Household income or consumption by percentage share:  lowest 10%: NA%
+highest 10%: NA%
+
+Inflation rate (consumer prices):  3.4% (2000 est.)
+
+Labor force:  8,300 (1999)
+
+Labor force - by occupation:  agriculture 20%, industry NA%, services NA%
+(1990)
+
+Unemployment rate:  2.3% (2000 est.)
+
+Budget:  revenues: $57.7 million expenditures: $80.8 million, including
+capital expenditures of $17.1 million (FY98/99 est.)
+
+Industries:  tourism, craft items (from shell, wood, pearls),
+construction, garment making
+
+Industrial production growth rate:  NA%
+
+Agriculture - products:  coconuts, copra, cassava (tapioca), sweet
+potatoes
+
+Exports:  $11 million (f.o.b., 1999)
+
+Exports - commodities:  shellfish, tuna, copra, garments
+
+Exports - partners:  US, Japan, Singapore
+
+Imports:  $126 million (f.o.b., 1999)
+
+Imports - commodities:  machinery and equipment, fuels, metals; foodstuffs
+
+Imports - partners:  US
+
+Debt - external:  $0 (FY99/00)
+
+Economic aid - recipient:  $155.8 million (1995); note - the Compact
+of Free Association with the US, entered into after the end of the UN
+trusteeship on 1 October 1994, provides Palau with up to $700 million
+in US aid over 15 years in return for furnishing military facilities
+
+Currency:  US dollar (USD)
+
+Currency code:  USD
+
+Exchange rates:  the US dollar is used
+
+Fiscal year:  1 October - 30 September
+
+Communications Palau
+
+Telephones - main lines in use:  6,700 (2002)
+
+Telephones - mobile cellular:  1,000 (2002)
+
+Telephone system:  general assessment: NA domestic: NA international:
+satellite earth station - 1 Intelsat (Pacific Ocean)
+
+Radio broadcast stations:  AM 1, FM 4, shortwave 1 (2002)
+
+Radios:  12,000 (1997)
+
+Television broadcast stations:  1 (1997)
+
+Televisions:  11,000 (1997)
+
+Internet country code:  .pw
+
+Internet Service Providers (ISPs):  1 (2002)
+
+Transportation Palau
+
+Railways:  0 km
+
+Highways:  total: 61 km paved: 36 km unpaved: 25 km
+
+Waterways:  none
+
+Pipelines:  NA
+
+Ports and harbors:  Koror
+
+Merchant marine:  none (2002 est.)
+
+Airports:  3 (2001)
+
+Airports - with paved runways:  total: 1 1,524 to 2,437 m: 1 (2001)
+
+Airports - with unpaved runways:  total: 2 1,524 to 2,437 m: 2 (2001)
+
+Heliports:
+
+Military Palau
+
+Military branches:  NA
+
+Military expenditures - dollar figure:  $NA
+
+Military expenditures - percent of GDP:  NA%
+
+Military - note:  defense is the responsibility of the US; under a
+Compact of Free Association between Palau and the US, the US military
+is granted access to the islands for 50 years
+
+Transnational Issues Palau
+
+Disputes - international:  none
+
+This page was last updated on 1 January 2002
+
+
+
+&quot;
+&quot;========================================================================
+
+&quot;
+&quot;========================================================================
+
+
+Taiwan
+
+Introduction
+
+Taiwan
+
+Background:  In 1895, military defeat forced China to cede Taiwan
+to Japan, however it reverted to Chinese control after World War
+II. Following the Communist victory on the mainland in 1949, 2 million
+Nationalists fled to Taiwan and established a government using the 1947
+constitution drawn up for all of China. Over the next five decades,
+the ruling authorities gradually democratized and incorporated the
+native population within its governing structure. This culminated in
+2000, when Taiwan underwent its first peaceful transfer of power from
+the Nationalist to the Democratic Progressive Party. Throughout this
+period, the island has prospered to become one of East Asia's economic
+&quot;&quot;Tigers.&quot;&quot; The dominant political issues continue to be the relationship
+between Taiwan and China - specifically the question of eventual
+unification - as well as domestic political and economic reform.
+
+Geography Taiwan
+
+Location:  Eastern Asia, islands bordering the East China Sea, Philippine
+Sea, South China Sea, and Taiwan Strait, north of the Philippines,
+off the southeastern coast of China
+
+Geographic coordinates:  23 30 N, 121 00 E
+
+Map references:  Southeast Asia
+
+Area:  total: 35,980 sq km note: includes the Pescadores, Matsu, and
+Quemoy water: 3,720 sq km land: 32,260 sq km
+
+Area - comparative:  slightly smaller than Maryland and Delaware combined
+
+Land boundaries:  0 km
+
+Coastline:  1,566.3 km
+
+Maritime claims:  exclusive economic zone: 200 NM territorial sea: 12 NM
+
+Climate:  tropical; marine; rainy season during southwest monsoon (June
+to August); cloudiness is persistent and extensive all year
+
+Terrain:  eastern two-thirds mostly rugged mountains; flat to gently
+rolling plains in west
+
+Elevation extremes:  lowest point: South China Sea 0 m highest point:
+Yu Shan 3,997 m
+
+Natural resources:  small deposits of coal, natural gas, limestone,
+marble, and asbestos
+
+Land use:  arable land: 24% permanent crops: 1% other: 75%
+
+Irrigated land:  NA sq km
+
+Natural hazards:  earthquakes and typhoons
+
+Environment - current issues:  air pollution; water pollution from
+industrial emissions, raw sewage; contamination of drinking water
+supplies; trade in endangered species; low-level radioactive waste
+disposal
+
+Environment - international agreements:  party to: none of the
+selected agreements because of Taiwan's international status signed,
+but not ratified: none of the selected agreements because of Taiwan's
+international status
+
+Geography - note:  strategic location adjacent to both the Taiwan Strait
+and the Luzon Strait
+
+People Taiwan
+
+Population:  22,548,009 (July 2002 est.)
+
+Age structure:  0-14 years: 21% (male 2,464,290; female 2,268,627) 15-64
+years: 70% (male 8,010,014; female 7,774,296) 65 years and over: 9%
+(male 1,053,975; female 976,807) (2002 est.)
+
+Population growth rate:  0.78% (2002 est.)
+
+Birth rate:  14.21 births/1,000 population (2002 est.)
+
+Death rate:  6.08 deaths/1,000 population (2002 est.)
+
+Net migration rate:  -0.3 migrant(s)/1,000 population (2002 est.)
+
+Sex ratio:  at birth: 1.08 male(s)/female under 15 years: 1.09
+male(s)/female 15-64 years: 1.03 male(s)/female 65 years and over:
+1.08 male(s)/female total population: 1.05 male(s)/female (2002 est.)
+
+Infant mortality rate:  6.8 deaths/1,000 live births (2002 est.)
+
+Life expectancy at birth:   79.71 years (2002 est.)  male: Total fertility
+rate:  1.76 children born/woman (2002 est.)
+
+HIV/AIDS - people living with HIV/AIDS:  NA
+
+HIV/AIDS - deaths:  NA
+
+Nationality:  noun: Chinese (singular and plural) adjective: Chinese
+
+Ethnic groups:  Taiwanese (including Hakka) 84%, mainland Chinese 14%,
+aborigine 2%
+
+Religions:  mixture of Buddhist, Confucian, and Taoist 93%, Christian
+4.5%, other 2.5%
+
+Languages:  Mandarin Chinese (official), Taiwanese (Min), Hakka dialects
+
+Literacy:  definition: age 15 and over can read and write total
+population: 86%
+ 79% (1980 est.)  note:  (1998 est.)
+
+Government Taiwan
+
+Country name:  conventional long form: none conventional short form:
+Taiwan local short form: T'ai-wan local long form: none former: Formosa
+
+Government type:  multiparty democratic regime headed by popularly
+elected president and unicameral legislature
+
+Capital:  Taipei
+
+Administrative divisions:  the central administrative divisions include
+the provinces of Fu-chien (some 20 offshore islands of Fujian Province
+including Quemoy and Matsu) and Taiwan (the island of Taiwan and the
+Pescadores islands); Taiwan is further subdivided into 16 counties
+(hsien, singular and plural), 5 municipalities* (shih, singular and
+plural), and 2 special municipalities** (chuan-shih, singular and
+plural); Chang-hua, Chia-i, Chia-i*, Chi-lung*, Hsin-chu, Hsin-chu*,
+Hua-lien, I-lan, Kao-hsiung, Kao-hsiung**, Miao-li, Nan-t'ou, P'eng-hu,
+P'ing-tung, T'ai-chung, T'ai-chung*, T'ai-nan, T'ai-nan*, T'ai-pei,
+T'ai-pei**, T'ai-tung, T'ao-yuan, and Yun-lin; the provincial capital
+is at Chung-hsing-hsin-ts'un note: Taiwan uses the Wade-Giles system
+for romanization
+
+National holiday:  Republic Day (Anniversary of the Chinese Revolution),
+10 October (1911)
+
+Constitution:  1 January 1947, amended in 1992, 1994, 1997, and 1999
+
+Legal system:  based on civil law system; accepts compulsory ICJ
+jurisdiction, with reservations
+
+Suffrage:  20 years of age; universal
+
+Executive branch:  chief of state: President Shui-bian CHEN (since 20 May
+2000) and Vice President Annette Hsiu-lien LU (since 20 May 2000) election
+results:  (DPP) 39.3%, James SOONG (independent) 36.84%, LIEN Chan (KMT)
+23.1%, HSU Hsin-liang (independent) 0.63%, LEE Ao (CNP) 0.13% elections:
+for four-year terms; election last held 18 March 2000 (next to be held NA
+March 2004); premier appointed by the president; vice premiers appointed
+by the president on the recommendation of the premier head of government:
+2002) and Vice Premier (Vice President of the Executive Yuan) Hsin-yi LIN
+(since 1 February 2002) cabinet: Executive Yuan appointed by the president
+
+Legislative branch:  unicameral Legislative Yuan (225 seats - 168
+elected by popular vote, 41 elected on the basis of the proportion
+of islandwide votes received by participating political parties,
+eight elected from overseas Chinese constituencies on the basis of
+the proportion of islandwide votes received by participating political
+parties, eight elected by popular vote among the aboriginal populations;
+members serve three-year terms) and unicameral National Assembly (300
+seat nonstanding body; delegates nominated by parties and elected by
+proportional representation within three months of a Legislative Yuan
+call to amend the Constitution, impeach the president, or change national
+borders) elections: Legislative Yuan - last held 8 December 2001 (next to
+be held NA December 2004); note - the National Assembly is a nonstanding
+body and is called into session election results: Legislative Yuan -
+percent of vote by party - DPP 39%, KMT 30%, PFP 20%, TSU 6%, independents
+and other parties 5%; seats by party - DPP 87, KMT 68, PFP 46, TSU 13,
+independents and other parties 11
+
+Judicial branch:  Judicial Yuan (justices appointed by the president
+with consent of the National Assembly; note - beginning in 2003, justices
+will be appointed by the president with consent of the Legislative Yuan)
+
+Political parties and leaders:  Democratic Progressive Party or DPP
+[Frank Chang-ting HSIEH, chairman]; Kuomintang or KMT (Nationalist Party)
+[LIEN Chan, chairman]; People First Party or PFP [James Chu-yu SOONG,
+chairman]; Taiwan Solidarity Union or TSU [Chu-wen HUANG, chairman];
+other minor parties
+
+Political pressure groups and leaders:  Taiwan independence movement,
+various business and environmental groups note: debate on Taiwan
+independence has become acceptable within the mainstream of domestic
+politics on Taiwan; political liberalization and the increased
+representation of opposition parties in Taiwan's legislature have opened
+public debate on the island's national identity; a broad popular consensus
+has developed that Taiwan currently enjoys de facto independence and -
+whatever the ultimate outcome regarding reunification or independence -
+that Taiwan's people must have the deciding voice; advocates of Taiwan
+independence oppose the stand that the island will eventually unify
+with mainland China; goals of the Taiwan independence movement include
+establishing a sovereign nation on Taiwan and entering the UN; other
+organizations supporting Taiwan independence include the World United
+Formosans for Independence and the Organization for Taiwan Nation Building
+
+International organization participation:  APEC, AsDB, BCIE, ICC, ICFTU,
+IFRCS, IOC, WCL, WTrO
+
+Diplomatic representation in the US:  none; unofficial commercial and
+cultural relations with the people of the US are maintained through
+an unofficial instrumentality, the Taipei Economic and Cultural
+Representative Office (TECRO) in the US with headquarters in Taipei and
+field offices in Washington and 12 other US cities
+
+Diplomatic representation from the US:  none; unofficial commercial and
+cultural relations with the people on Taiwan are maintained through an
+unofficial instrumentality - the American Institute in Taiwan (AIT)
+- which has offices in the US and Taiwan; US office located at 1700
+N. Moore St., Suite 1700, Arlington, VA 22209-1996, telephone: [1]
+(703) 525-8474, FAX: [1] (703) 841-1385); Taiwan offices located at #7
+Lane 134, Hsin Yi Road, Section 3, Taipei, Taiwan, telephone: [886] (2)
+2709-2000, FAX: [886] (2) 2702-7675; #2 Chung Cheng 3rd Road, 5th Floor,
+Kaohsiung, Taiwan, telephone: [886] (7) 224-0154 through 0157, FAX: [886]
+(7) 223-8237; and the American Trade Center, Room 3208 International Trade
+Building, Taipei World Trade Center, 333 Keelung Road Section 1, Taipei,
+Taiwan 10548, telephone: Flag description:  red with a dark blue rectangle
+in the upper hoist-side corner bearing a white sun with 12 triangular rays
+
+Economy Taiwan
+
+Economy - overview:  Taiwan has a dynamic capitalist economy
+with gradually decreasing guidance of investment and foreign
+trade by government authorities. In keeping with this trend,
+some large government-owned banks and industrial firms are being
+privatized. Real growth in GDP has averaged about 8% during the
+past three decades. Exports have provided the primary impetus for
+industrialization. The trade surplus is substantial, and foreign
+reserves are the world's third largest. Agriculture contributes 2%
+to GDP, down from 35% in 1952. Traditional labor-intensive industries
+are steadily being moved offshore and replaced with more capital- and
+technology-intensive industries.  Taiwan has become a major investor in
+China, Thailand, Indonesia, the Philippines, Malaysia, and Vietnam; 50,000
+Taiwanese businesses are established in China. Because of its conservative
+financial approach and its entrepreneurial strengths, Taiwan suffered
+little compared with many of its neighbors from the Asian financial
+crisis in 1998-99. The global economic downturn, however, combined
+with poor policy coordination by the new administration and increasing
+bad debts in the banking system, pushed Taiwan into recession in 2001,
+the first whole year of negative growth since 1947.  Unemployment also
+reached a level not seen since the 1970s oil crisis.
+
+GDP:  purchasing power parity - $386 billion (2001 est.)
+
+GDP - real growth rate:  -2.2% (2001 est.)
+
+GDP - per capita:  purchasing power parity - $17,200 (2001 est.)
+
+GDP - composition by sector:  agriculture: 2% industry: 32% services: 66%
+(2000 est.)
+
+Population below poverty line:  1% (2000 est.)
+
+Household income or consumption by percentage share:  lowest 10%: NA%
+highest 10%: NA%
+
+Distribution of family income - Gini index:  32.6 (2000)
+
+Inflation rate (consumer prices):  0.5% (2001 est.)
+
+Labor force:  9.8 million (2001 est.)
+
+Labor force - by occupation:  services 56%, industry 36%, agriculture 8%
+(2001 est.)
+
+Unemployment rate:  4.5% (2001 est.)
+
+Budget:  revenues: $36 billion expenditures: $36.1 billion, including
+capital expenditures of $NA (2002 est.)
+
+Industries:  electronics, petroleum refining, chemicals, textiles,
+iron and steel, machinery, cement, food processing
+
+Industrial production growth rate:  -5% (2001 est.)
+
+Electricity - production:  149.78 billion kWh (2000)
+
+Electricity - production by source:  fossil fuel: 69.48% hydro: 5.82%
+other: 0% (2000) nuclear: 24.7%
+
+Electricity - consumption:  139.295 billion kWh (2000)
+
+Electricity - exports:  0 kWh (2000)
+
+Electricity - imports:  0 kWh (2000)
+
+Agriculture - products:  rice, corn, vegetables, fruit, tea; pigs,
+poultry, beef, milk; fish
+
+Exports:  $122 billion (f.o.b., 2001)
+
+Exports - commodities:  machinery and electrical equipment 55%, metals,
+textiles, plastics, chemicals
+
+Exports - partners:  US 23.5%, Hong Kong 21.1%, Europe 16%, ASEAN 12.2%,
+Japan 11.2% (2000)
+
+Imports:  $109 billion (f.o.b., 2001)
+
+Imports - commodities:  machinery and electrical equipment 50%, minerals,
+precision instruments
+
+Imports - partners:  Japan 27.5%, US 17.9%, Europe 13.6%, South Korea 6.4%
+(2000)
+
+Debt - external:  $40 billion (2000)
+
+Currency:  new Taiwan dollar (TWD)
+
+Currency code:  TWD
+
+Exchange rates:  new Taiwan dollars per US dollar - 34.494 (yearend
+2001), 33.082 (yearend 2000), 31.395 (yearend 1999), 32.216 (1998),
+32.052 (1997), 27.5 (1996)
+
+Fiscal year:  1 July - 30 June (up to FY98/99); 1 July 1999 - 31 December
+2000 for FY00; calendar year (after FY00)
+
+Communications Taiwan
+
+Telephones - main lines in use:  12.49 million (September 2000)
+
+Telephones - mobile cellular:  16 million (September 2000)
+
+Telephone system:  general assessment: provides telecommunications
+service for every business and private need domestic: thoroughly modern;
+completely digitalized international: satellite earth stations - 2
+Intelsat (1 Pacific Ocean and 1 Indian Ocean); submarine cables to Japan
+(Okinawa), Philippines, Guam, Singapore, Hong Kong, Indonesia, Australia,
+Middle East, and Western Europe (1999)
+
+Radio broadcast stations:  AM 218, FM 333, shortwave 50 (1999)
+
+Radios:  16 million (1994)
+
+Television broadcast stations:  29 (plus two repeaters) (1997)
+
+Televisions:  8.8 million (1998)
+
+Internet country code:  .tw
+
+Internet Service Providers (ISPs):  8 (2000)
+
+Internet users:  11.6 million (2001)
+
+Transportation Taiwan
+
+Railways:  total: 1,108 km narrow gauge: 1,108 km 1.067-m gauge (519
+km electrified) note: in addition to the above routes in common carrier
+service, there are several thousand kilometers of 1.067-m gauge routes
+that are dedicated to industrial use (2001)
+
+Highways:  total: 34,901 km paved: 31,271 km (including 538 km of
+expressways) unpaved: 3,630 km (1998 est.)
+
+Waterways:  NA
+
+Pipelines:  petroleum products 3,400 km; natural gas 1,800 km (1999)
+
+Ports and harbors:  Chi-lung (Keelung), Hua-lien, Kao-hsiung, Su-ao,
+T'ai-chung
+
+Merchant marine:  total: 152 ships (1,000 GRT or over) totaling 4,262,451
+GRT/6,596,950 DWT note: includes some foreign-owned ships registered here
+as a flag of convenience: Hong Kong 3, Japan 1 (2002 est.)  ships by type:
+bulk 40, cargo 28, combination bulk 3, container 53, petroleum tanker 17,
+refrigerated cargo 9, roll on/roll off 2
+
+Airports:  39 (2001)
+
+Airports - with paved runways:  total: 36 over 3,047 m: 8 2,438 to 3,047
+m: 9 914 to 1,523 m: 8 under 914 m: 3 (2001) 1,524 to 2,437 m: 8
+
+Airports - with unpaved runways:  total: 3 1,524 to 2,437 m: 1 under
+914 m: 2 (2001)
+
+Heliports:  3 (2001)
+
+Military Taiwan
+
+Military branches:  Army, Navy (including Marine Corps), Air Force,
+Coast Guard Administration, Armed Forces Reserve Command, Combined
+Service Forces Command
+
+Military manpower - military age:  19 years of age (2002 est.)
+
+Military manpower - availability:  males age 15-49: 6,575,625 (2002 est.)
+
+Military manpower - fit for military service:  males age 15-49: 5,018,882
+(2002 est.)
+
+Military manpower - reaching military age annually:  males: 198,766
+(2002 est.)
+
+Military expenditures - dollar figure:  $8,041,200,000 (FY01)
+
+Military expenditures - percent of GDP:  2.8% (FY01)
+
+Transnational Issues Taiwan
+
+Disputes - international:  involved in complex dispute over the Spratly
+Islands with China, Malaysia, Philippines, Vietnam, and possibly Brunei;
+Paracel Islands occupied by China, but claimed by Taiwan and Vietnam;
+claims Japanese-administered Senkaku-shoto (Senkaku Islands/Diaoyu Tai),
+as does China
+
+Illicit drugs:  regional transit point for heroin and methamphetamine;
+major problem with domestic consumption of methamphetamine and heroin
+
+This page was last updated on 1 January 2002
+
+
+
+&quot;
+&quot;========================================================================
+
+
+&quot;
+&quot;========================================================================
+
+
+United Kingdom
+
+Introduction
+
+United Kingdom
+
+Background:  Great Britain, the dominant industrial and maritime power
+of the 19th century, played a leading role in developing parliamentary
+democracy and in advancing literature and science. At its zenith, the
+British Empire stretched over one-fourth of the earth's surface. The
+first half of the 20th century saw the UK's strength seriously depleted
+in two World Wars. The second half witnessed the dismantling of the
+Empire and the UK rebuilding itself into a modern and prosperous
+European nation. As one of five permanent members of the UN Security
+Council, a founding member of NATO, and of the Commonwealth, the UK
+pursues a global approach to foreign policy; it currently is weighing
+the degree of its integration with continental Europe. A member of the
+EU, it chose to remain outside the European Monetary Union for the time
+being. Constitutional reform is also a significant issue in the UK. The
+Scottish Parliament, the National Assembly for Wales, and the Northern
+Ireland Assembly were established in 1999.
+
+Geography United Kingdom
+
+Location:  Western Europe, islands including the northern one-sixth of
+the island of Ireland between the North Atlantic Ocean and the North Sea,
+northwest of France
+
+Geographic coordinates:  54 00 N, 2 00 W
+
+Map references:  Europe
+
+Area:  total: 244,820 sq km water: 3,230 sq km note: includes Rockall
+and Shetland Islands land: 241,590 sq km
+
+Area - comparative:  slightly smaller than Oregon
+
+Land boundaries:  total: 360 km border countries: Ireland 360 km
+
+Coastline:  12,429 km
+
+Maritime claims:  continental shelf: as defined in continental shelf
+orders or in accordance with agreed upon boundaries exclusive fishing
+zone: 200 NM territorial sea: 12 NM
+
+Climate:  temperate; moderated by prevailing southwest winds over the
+North Atlantic Current; more than one-half of the days are overcast
+
+Terrain:  mostly rugged hills and low mountains; level to rolling plains
+in east and southeast
+
+Elevation extremes:  lowest point: Fenland -4 m highest point: Ben Nevis
+1,343 m
+
+Natural resources:  coal, petroleum, natural gas, tin, limestone, iron
+ore, salt, clay, chalk, gypsum, lead, silica, arable land
+
+Land use:  arable land: 26% permanent crops: 0% other: 74% (1998 est.)
+
+Irrigated land:  1,080 sq km (1998 est.)
+
+Natural hazards:  winter windstorms; floods
+
+Environment - current issues:  continues to reduce greenhouse gas
+emissions (has met Kyoto Protocol target of a 12.5% reduction from 1990
+levels and intends to meet the legally binding target and move towards a
+domestic goal of a 20% cut in emissions by 2010); by 2005 the Government
+aims to reduce the amount of industrial and commercial waste disposed
+of in landfill sites to 85% of 1998 levels and to recycle or compost at
+least 25% of household waste, increasing to 33% by 2015; between 1998-99
+and 1999-2000, household recycling increased from 8.8% to 10.3%
+
+Environment - international agreements:  party to: Air Pollution,
+Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 94, Air
+Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol,
+Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty,
+Biodiversity, Climate Change, Desertification, Endangered Species,
+Environmental Modification, Hazardous Wastes, Law of the Sea, Marine
+Dumping, Marine Life Conservation, Nuclear Test Ban, Ozone Layer
+Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94,
+Wetlands, Whaling signed, but not ratified: Air Pollution-Persistent
+Organic Pollutants, Climate Change-Kyoto Protocol
+
+Geography - note:  lies near vital North Atlantic sea lanes; only 35
+km from France and now linked by tunnel under the English Channel;
+because of heavily indented coastline, no location is more than 125 km
+from tidal waters
+
+People United Kingdom
+
+Population:  59,778,002 (July 2002 est.)
+
+Age structure:  0-14 years: 18.7% (male 5,732,385; female 5,443,900) 15-64
+years: 65.5% (male 19,803,478; female 19,381,734) 65 years and over: 15.8%
+(male 3,931,463; female 5,485,042) (2002 est.)
+
+Population growth rate:  0.21% (2002 est.)
+
+Birth rate:  11.34 births/1,000 population (2002 est.)
+
+Death rate:  10.3 deaths/1,000 population (2002 est.)
+
+Net migration rate:  1.06 migrant(s)/1,000 population (2002 est.)
+
+Sex ratio:  at birth: 1.05 male(s)/female under 15 years: 1.05
+male(s)/female 15-64 years: 1.02 male(s)/female 65 years and over:
+0.72 male(s)/female total population: 0.97 male(s)/female (2002 est.)
+
+Infant mortality rate:  5.45 deaths/1,000 live births (2002 est.)
+
+Life expectancy at birth:   80.84 years (2002 est.)  male: Total fertility
+rate:  1.73 children born/woman (2002 est.)
+
+HIV/AIDS - adult prevalence rate:  0.11% (1999 est.)
+
+HIV/AIDS - people living with HIV/AIDS:  20,800 (1999)
+
+HIV/AIDS - deaths:  450 (1999 est.)
+
+Nationality:  noun: Briton(s), British (collective plural) adjective:
+British
+
+Ethnic groups:  English 81.5%, Scottish 9.6%, Irish 2.4%, Welsh 1.9%,
+Ulster 1.8%, West Indian, Indian, Pakistani, and other 2.8%
+
+Religions:  Anglican and Roman Catholic 40 million, Muslim 1.5 million,
+Presbyterian 800,000, Methodist 760,000, Sikh 500,000, Hindu 500,000,
+Jewish 350,000
+
+Languages:  English, Welsh (about 26% of the population of Wales),
+Scottish form of Gaelic (about 60,000 in Scotland)
+
+Literacy:  definition: age 15 and over has completed five or more years
+of schooling total population: 99% (2000 est.)  male: NA% female: NA%
+
+Government United Kingdom
+
+Country name:  conventional long form: United Kingdom of Great Britain and
+Northern Ireland conventional short form: United Kingdom abbreviation: UK
+
+Government type:  constitutional monarchy
+
+Capital:  London
+
+Administrative divisions:  England - 47 boroughs, 36 counties*, 29 London
+boroughs**, 12 cities and boroughs***, 10 districts****, 12 cities*****,
+3 royal boroughs******; Barking and Dagenham**, Barnet**, Barnsley, Bath
+and North East Somerset****, Bedfordshire*, Bexley**, Birmingham***,
+Blackburn with Darwen, Blackpool, Bolton, Bournemouth, Bracknell
+Forest, Bradford***, Brent**, Brighton and Hove, City of Bristol*****,
+Bromley**, Buckinghamshire*, Bury, Calderdale, Cambridgeshire*, Camden**,
+Cheshire*, Cornwall*, Coventry***, Croydon**, Cumbria*, Darlington,
+Derby*****, Derbyshire*, Devon*, Doncaster, Dorset*, Dudley, Durham*,
+Ealing**, East Riding of Yorkshire****, East Sussex*, Enfield**, Essex*,
+Gateshead, Gloucestershire*, Greenwich**, Hackney**, Halton, Hammersmith
+and Fulham**, Hampshire*, Haringey**, Harrow**, Hartlepool, Havering**,
+Herefordshire*, Hertfordshire*, Hillingdon**, Hounslow**, Isle of Wight*,
+Islington**, Kensington and Chelsea******, Kent*, City of Kingston upon
+Hull*****, Kingston upon Thames******, Kirklees, Knowsley, Lambeth**,
+Lancashire*, Leeds***, Leicester*****, Leicestershire*, Lewisham**,
+Lincolnshire*, Liverpool***, City of London*****, Luton, Manchester***,
+Medway, Merton**, Middlesbrough, Milton Keynes, Newcastle upon Tyne***,
+Newham**, Norfolk*, Northamptonshire*, North East Lincolnshire****, North
+Lincolnshire****, North Somerset****, North Tyneside, Northumberland*,
+North Yorkshire*, Nottingham*****, Nottinghamshire*, Oldham, Oxfordshire*,
+Peterborough*****, Plymouth*****, Poole, Portsmouth*****, Reading,
+Redbridge**, Redcar and Cleveland, Richmond upon Thames**, Rochdale,
+Rotherham, Rutland****, Salford***, Shropshire*, Sandwell, Sefton,
+Sheffield***, Slough, Solihull, Somerset*, Southampton*****,
+Southend-on-Sea, South Gloucestershire****, South Tyneside,
+Southwark**, Staffordshire*, St. Helens, Stockport, Stockton-on-Tees,
+Stoke-on-Trent*****, Suffolk*, Sunderland***, Surrey*, Sutton**, Swindon,
+Tameside, Telford and Wrekin****, Thurrock, Torbay, Tower Hamlets**,
+Trafford, Wakefield***, Walsall, Waltham Forest**, Wandsworth**,
+Warrington, Warwickshire*, West Berkshire****, Westminster***, West
+Sussex*, Wigan, Wiltshire*, Windsor and Maidenhead******, Wirral,
+Wokingham****, Wolverhampton, Worcestershire*, York*****; Northern Ireland
+- 24 districts, 2 cities*, 6 counties**; Antrim, County Antrim**,
+Ards, Armagh, County Armagh**, Ballymena, Ballymoney, Banbridge,
+Belfast*, Carrickfergus, Castlereagh, Coleraine, Cookstown, Craigavon,
+Down, County Down**, Dungannon, Fermanagh, County Fermanagh**, Larne,
+Limavady, Lisburn, County Londonderry**, Derry*, Magherafelt, Moyle,
+Newry and Mourne, Newtownabbey, North Down, Omagh, Strabane, County
+Tyrone**; Scotland - 32 council areas; Aberdeen City, Aberdeenshire,
+Angus, Argyll and Bute, The Scottish Borders, Clackmannanshire, Dumfries
+and Galloway, Dundee City, East Ayrshire, East Dunbartonshire, East
+Lothian, East Renfrewshire, City of Edinburgh, Falkirk, Fife, Glasgow
+City, Highland, Inverclyde, Midlothian, Moray, North Ayrshire, North
+Lanarkshire, Orkney Islands, Perth and Kinross, Renfrewshire, Shetland
+Islands, South Ayrshire, South Lanarkshire, Stirling, West Dunbartonshire,
+Eilean Siar (Western Isles), West Lothian; Wales - 11 county boroughs,
+9 counties*, 2 cities and counties**; Isle of Anglesey*, Blaenau Gwent,
+Bridgend, Caerphilly, Cardiff**, Ceredigion*, Carmarthenshire*, Conwy,
+Denbighshire*, Flintshire*, Gwynedd, Merthyr Tydfil, Monmouthshire*,
+Neath Port Talbot, Newport, Pembrokeshire*, Powys*, Rhondda Cynon Taff,
+Swansea**, Torfaen, The Vale of Glamorgan*, Wrexham
+
+Dependent areas:  Anguilla, Bermuda, British Indian Ocean Territory,
+British Virgin Islands, Cayman Islands, Falkland Islands, Gibraltar,
+Guernsey, Jersey, Isle of Man, Montserrat, Pitcairn Islands, Saint Helena,
+South Georgia and the South Sandwich Islands, Turks and Caicos Islands
+
+Independence:  England has existed as a unified entity since the 10th
+century; the union between England and Wales was enacted under the
+Statute of Rhuddlan in 1284; in the Act of Union of 1707, England and
+Scotland agreed to permanent union as Great Britain; the legislative
+union of Great Britain and Ireland was implemented in 1801, with the
+adoption of the name the United Kingdom of Great Britain and Ireland;
+the Anglo-Irish treaty of 1921 formalized a partition of Ireland; six
+northern Irish counties remained part of the United Kingdom as Northern
+Ireland and the current name of the country, the United Kingdom of Great
+Britain and Northern Ireland, was adopted in 1927
+
+National holiday:  Birthday of Queen ELIZABETH II, celebrated on the
+second Saturday in June (1926)
+
+Constitution:  unwritten; partly statutes, partly common law and practice
+
+Legal system:  common law tradition with early Roman and modern
+continental influences; no judicial review of Acts of Parliament; accepts
+compulsory ICJ jurisdiction, with reservations; British courts and
+legislation are increasingly subject to review by European Union courts
+
+Suffrage:  18 years of age; universal
+
+Executive branch:  chief of state: Queen ELIZABETH II (since 6 February
+1952); Heir Apparent Prince CHARLES (son of the queen, born 14 November
+1948) head of government: Prime Minister Anthony (Tony) BLAIR (since 2
+May 1997)
+ Cabinet of Ministers appointed by the prime minister elections:  majority
+ party in the House of Commons (assuming there is no majority
+party, a prime minister would have a majority coalition or at least a
+coalition that was not rejected by the majority)
+
+Legislative branch:  bicameral Parliament comprised of House of Lords
+(consists of approximately 500 life peers, 92 hereditary peers and 26
+clergy) and House of Commons (659 seats; members are elected by popular
+vote to serve five-year terms unless the House is dissolved earlier)
+elections:  elections); House of Commons - last held 7 June 2001 (next
+to be held by NA May 2006) election results: House of Commons - percent
+of vote by party - Labor 42.1%, Conservative and Unionist 32.7%, Liberal
+Democrats 18.8%, other 6.4%; seats by party - Labor 412, Conservative
+and Unionist 166, Liberal Democrat 52, other 29; note - seating as of 15
+February 2002:  1998 elections were held for a Northern Ireland Parliament
+(because of unresolved disputes among existing parties, the transfer of
+power from London to Northern Ireland came only at the end of 1999 and
+was twice rescinded before reinstatement in November 2001); in 1999 there
+were elections for a new Scottish Parliament and a new Welsh Assembly
+
+Judicial branch:  House of Lords (highest court of appeal; several
+Lords of Appeal in Ordinary are appointed by the monarch for life);
+Supreme Courts of England, Wales, and Northern Ireland (comprising the
+Courts of Appeal, the High Courts of Justice, and the Crown Courts);
+Scotland's Court of Session and Court of the Justiciary
+
+Political parties and leaders:  Conservative and Unionist Party [Iain
+Duncan SMITH]; Democratic Unionist Party (Northern Ireland) [Rev. Ian
+PAISLEY]; Labor Party [Anthony (Tony) BLAIR]; Liberal Democrats [Charles
+KENNEDY]; Party of Wales (Plaid Cymru) [Ieuan Wyn JONES]; Scottish
+National Party or SNP [John SWINNEY]; Sinn Fein (Northern Ireland) [Gerry
+ADAMS]; Social Democratic and Labor Party or SDLP (Northern Ireland)
+[Mark DURKAN]; Ulster Unionist Party (Northern Ireland) [David TRIMBLE]
+
+Political pressure groups and leaders:  Campaign for Nuclear Disarmament;
+Confederation of British Industry; National Farmers' Union; Trades
+Union Congress
+
+International organization participation:  AfDB, AsDB, Australia Group,
+BIS, C, CCC, CDB, CE, CERN, EAPC, EBRD, ECA (associate), ECE, ECLAC, EIB,
+ESA, ESCAP, EU, FAO, G- 5, G- 7, G- 8, G-10, IADB, IAEA, IBRD, ICAO, ICC,
+ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol,
+IOC, IOM, ISO, ITU, MONUC, NAM (guest), NATO, NEA, NSG, OAS (observer),
+OECD, OPCW, OSCE, PCA, SPC, UN, UN Security Council, UNAMSIL, UNCTAD,
+UNESCO, UNFICYP, UNHCR, UNIDO, UNIKOM, UNMIBH, UNMIK, UNMOVIC, UNOMIG,
+UNRWA, UNTAET, UNU, UPU, WCL, WEU, WHO, WIPO, WMO, WTrO, ZC
+
+Diplomatic representation in the US:  chief of mission: Ambassador
+Sir Christopher J. R. MEYER chancery: 3100 Massachusetts Avenue NW,
+Washington, DC 20008 FAX: [1] (202) 588-7870
+ Dallas, Denver, Miami, and Seattle consulate(s) general:  and San
+ Francisco telephone: [1] (202) 588-6500
+
+Diplomatic representation from the US:  chief of mission: Ambassador
+William S. FARISH embassy: 24/31 Grosvenor Square, London, W1A1AE
+mailing address: PSC 801, Box 40, FPO AE 09498-4040 telephone: [44]
+(0) 207499-9000 (switchboard) FAX: [44] (0) 207 629-8288 consulate(s)
+general: Belfast, Edinburgh
+
+Flag description:  blue with the red cross of Saint George (patron saint
+of England) edged in white superimposed on the diagonal red cross of
+Saint Patrick (patron saint of Ireland) and which is superimposed on the
+diagonal white cross of Saint Andrew (patron saint of Scotland); known
+as the Union Flag or Union Jack; the design and colors (especially the
+Blue Ensign) have been the basis for a number of other flags including
+other Commonwealth countries and their constituent states or provinces,
+as well as British overseas territories
+
+Economy United Kingdom
+
+Economy - overview:  The UK, a leading trading power and financial center,
+is one of the quartet of trillion dollar economies of Western Europe. Over
+the past two decades the government has greatly reduced public ownership
+and contained the growth of social welfare programs. Agriculture is
+intensive, highly mechanized, and efficient by European standards,
+producing about 60% of food needs with only 1% of the labor force.
+The UK has large coal, natural gas, and oil reserves; primary energy
+production accounts for 10% of GDP, one of the highest shares of
+any industrial nation. Services, particularly banking, insurance, and
+business services, account by far for the largest proportion of GDP while
+industry continues to decline in importance. GDP growth slipped in 2001
+as the global downturn, the high value of the pound, and the bursting
+of the &quot;&quot;new economy&quot;&quot; bubble hurt manufacturing and exports. Still, the
+economy is one of the strongest in Europe; inflation, interest rates,
+and unemployment remain low, and the government expects growth of 2% to
+2.5% in 2002. The relatively good economic performance has complicated
+the BLAIR government's efforts to make a case for Britain to join the
+European Economic and Monetary Union (EMU). The Prime Minister has
+pledged to hold a public referendum if membership meets Chancellor of
+the Exchequer BROWN's five economic &quot;&quot;tests.&quot;&quot; Scheduled for assessment
+by mid-2003, the tests will determine whether joining EMU would have a
+positive effect on British investment, employment, and growth. Critics
+point out, however, that the economy is thriving outside of EMU, and
+they point to public opinion polls that continue to show a majority of
+Britons opposed to the single currency.
+
+GDP:  purchasing power parity - $1.47 trillion (2001 est.)
+
+GDP - real growth rate:  2.4% (2001 est.)
+
+GDP - per capita:  purchasing power parity - $24,700 (2001 est.)
+
+GDP - composition by sector:  agriculture: 1.7% industry: 24.9% services:
+73.4% (1999)
+
+Population below poverty line:  17%
+
+Household income or consumption by percentage share:  lowest 10%: 2.6%
+highest 10%: 27.3% (1991)
+
+Distribution of family income - Gini index:  36.1 (1991)
+
+Inflation rate (consumer prices):  1.8% (2001 est.)
+
+Labor force:  29.7 million (2001)
+
+Labor force - by occupation:  agriculture 1%, industry 25%, services 74%
+(1999)
+
+Unemployment rate:  5.1% (2001 est.)
+
+Budget:  revenues: $565 billion expenditures: $540 billion, including
+capital expenditures of $NA (FY01)
+
+Industries:  machine tools, electric power equipment, automation
+equipment, railroad equipment, shipbuilding, aircraft, motor vehicles
+and parts, electronics and communications equipment, metals, chemicals,
+coal, petroleum, paper and paper products, food processing, textiles,
+clothing, and other consumer goods
+
+Industrial production growth rate:  -1.6% (2001 est.)
+
+Electricity - production:  355.761 billion kWh (2000)
+
+Electricity - production by source:  fossil fuel: 73.26% hydro: 1.46%
+other: 2.31% (2000) nuclear: 22.97%
+
+Electricity - consumption:  345.032 billion kWh (2000)
+
+Electricity - exports:  134 million kWh (2000)
+
+Electricity - imports:  14.308 billion kWh (2000)
+
+Agriculture - products:  cereals, oilseed, potatoes, vegetables; cattle,
+sheep, poultry; fish
+
+Exports:  $287 billion (f.o.b., 2001)
+
+Exports - commodities:  manufactured goods, fuels, chemicals; food,
+beverages, tobacco
+
+Exports - partners:  EU 54% (Germany 11%, France 9%, Netherlands 7%,
+Ireland 7%), US 15% (2000)
+
+Imports:  $337 billion (c.i.f., 2001)
+
+Imports - commodities:  manufactured goods, machinery, fuels; foodstuffs
+
+Imports - partners:  EU 48% (Germany 11%, France 7%, Netherlands 6%),
+US 13%, Japan 5% (2000)
+
+Debt - external:  $NA
+
+Economic aid - donor:  ODA, $4.5 billion (2000)
+
+Currency:  British pound (GBP)
+
+Currency code:  GBP
+
+Exchange rates:  British pounds per US dollar - 0.6981 (January 2002),
+0.6944 (2001), 0.6596 (2000), 0.6180 (1999), 0.6037 (1998), 0.6106 (1997)
+
+Fiscal year:  1 April - 31 March
+
+Communications United Kingdom
+
+Telephones - main lines in use:  34.878 million (1997)
+
+Telephones - mobile cellular:  13 million (yearend 1998)
+
+Telephone system:  general assessment: technologically advanced domestic
+and international system domestic: equal mix of buried cables, microwave
+radio relay, and fiber-optic systems international: 40 coaxial submarine
+cables; satellite earth stations - 10 Intelsat (7 Atlantic Ocean and
+3 Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat;
+at least 8 large international switching centers
+
+Radio broadcast stations:  AM 219, FM 431, shortwave 3 (1998)
+
+Radios:  84.5 million (1997)
+
+Television broadcast stations:  228 (plus 3,523 repeaters) (1995)
+
+Televisions:  30.5 million (1997)
+
+Internet country code:  .uk
+
+Internet Service Providers (ISPs):  245 (2000)
+
+Internet users:  33 million (2001)
+
+Transportation United Kingdom
+
+Railways:  total: 16,878 km standard gauge: 16,536 km 1.435-m gauge
+(4,928 km electrified; 12,591 km double- or multiple-tracked) broad
+gauge: 342 km 1.600-m gauge (190 km double-tracked) note: all 1.600-m
+gauge track is in common carrier service in Northern Ireland (1996)
+
+Highways:  total: 371,603 km paved: 371,603 km (including 3,303 km of
+expressways) unpaved: 0 km (1998 est.)
+
+Waterways:  3,200 km
+
+Pipelines:  crude oil (almost all insignificant) 933 km; petroleum
+products 2,993 km; natural gas 12,800 km
+
+Ports and harbors:  Aberdeen, Belfast, Bristol, Cardiff, Dover, Falmouth,
+Felixstowe, Glasgow, Grangemouth, Hull, Leith, Liverpool, London,
+Manchester, Peterhead, Plymouth, Portsmouth, Scapa Flow, Southampton,
+Sullom Voe, Tees, Tyne
+
+Merchant marine:  total: 212 ships (1,000 GRT or over) totaling 4,308,232
+GRT/4,171,757 DWT ships by type: bulk 7, cargo 32, chemical tanker 13,
+combination ore/oil 1, container 53, liquefied gas 3, passenger 13,
+passenger/cargo 1, petroleum tanker 48, refrigerated cargo 4, roll on/roll
+off 26, short-sea passenger 10, specialized tanker 1 note: includes some
+foreign-owned ships registered here as a flag of convenience: Bermuda 1,
+Cyprus 1, Denmark 21, Germany 6, Greece 3, Hong Kong 4, Italy 1, Monaco 4,
+Netherlands 1, Norway 9, Russia 1, South Africa 2, Sweden 11, Taiwan 2,
+United States 5 (2002 est.)
+
+Airports:  470 (2001)
+
+Airports - with paved runways:  total: 332 over 3,047 m: 8 2,438 to 3,047
+m: 33 914 to 1,523 m: 84 under 914 m: 57 (2001) 1,524 to 2,437 m: 150
+
+Airports - with unpaved runways:  total: 138 1,524 to 2,437 m: 1 914 to
+1,523 m: 23 under 914 m: 114 (2001)
+
+Heliports:  13 (2001)
+
+Military United Kingdom
+
+Military branches:  Army, Royal Navy (including Royal Marines), Royal
+Air Force
+
+Military manpower - availability:  males age 15-49: 14,632,418 (2002 est.)
+
+Military manpower - fit for military service:  males age 15-49: 12,151,734
+(2002 est.)
+
+Military expenditures - dollar figure:  $31.7 billion (2002)
+
+Military expenditures - percent of GDP:  2.32% (2002)
+
+Transnational Issues United Kingdom
+
+Disputes - international:  Spain and UK are discussing &quot;&quot;total shared
+sovereignty&quot;&quot; over Gibraltar, subject to a constitutional referendum
+by Gibraltarians, who have largely expressed opposition to any form of
+cession to Spain; Mauritius and Seychelles claim the Chagos Archipelago
+(British Indian Ocean Territory) and its former inhabitants, who
+reside chiefly in Mauritius, but in 2001 were granted UK citizenship
+and the right to repatriation since eviction in 1965; Argentina claims
+the Falkland Islands (Islas Malvinas) and South Georgia and the South
+Sandwich Islands; Rockall continental shelf dispute involving Denmark and
+Iceland; territorial claim in Antarctica (British Antarctic Territory)
+overlaps Argentine claim and partially overlaps Chilean claim; disputes
+with Iceland, Denmark, and Ireland over the Faroe Islands continental
+shelf boundary outside 200 NM
+
+Illicit drugs:  gateway country for Latin American cocaine entering
+the European market; major consumer of synthetic drugs, producer of
+limited amounts of synthetic drugs and synthetic precursor chemicals;
+major consumer of Southwest Asian heroin; money-laundering center
+
+This page was last updated on 1 January 2002
+
+
+
+&quot;
+&quot;========================================================================
+
+
+United States
+
+Introduction
+
+United States
+
+Background:  Britain's American colonies broke with the mother country
+in 1776 and were recognized as the new nation of the United States of
+America following the Treaty of Paris in 1783. During the 19th and 20th
+centuries, 37 new states were added to the original 13 as the nation
+expanded across the North American continent and acquired a number of
+overseas possessions. The two most traumatic experiences in the nation's
+history were the Civil War (1861-65) and the Great Depression of the
+1930s. Buoyed by victories in World Wars I and II and the end of the Cold
+War in 1991, the US remains the world's most powerful nation-state. The
+economy is marked by steady growth, low unemployment and inflation,
+and rapid advances in technology.
+
+Geography United States
+
+Location:  North America, bordering both the North Atlantic Ocean and
+the North Pacific Ocean, between Canada and Mexico
+
+Geographic coordinates:  38 00 N, 97 00 W
+
+Map references:  North America
+
+Area:   470,131 sq km note: Area - comparative:  about half the size
+of Russia; about three-tenths the size of Africa; about half the size
+of South America (or slightly larger than Brazil); slightly larger than
+China; about two and a half times the size of Western Europe
+
+Land boundaries:  total: 12,034 km border countries: Canada 8,893 km
+(including 2,477 km with Alaska), Mexico 3,141 km note: US Naval Base at
+Guantanamo Bay, Cuba is leased by the US and thus remains part of Cuba;
+the base boundary is 29 km
+
+Coastline:  19,924 km
+
+Maritime claims:  contiguous zone: 24 NM continental shelf: not specified
+exclusive economic zone: 200 NM territorial sea: 12 NM
+
+Climate:  mostly temperate, but tropical in Hawaii and Florida, arctic
+in Alaska, semiarid in the great plains west of the Mississippi River,
+and arid in the Great Basin of the southwest; low winter temperatures
+in the northwest are ameliorated occasionally in January and February
+by warm chinook winds from the eastern slopes of the Rocky Mountains
+
+Terrain:  vast central plain, mountains in west, hills and low mountains
+in east; rugged mountains and broad river valleys in Alaska; rugged,
+volcanic topography in Hawaii
+
+Elevation extremes:  lowest point: Death Valley -86 m highest point:
+Mount McKinley 6,194 m
+
+Natural resources:  coal, copper, lead, molybdenum, phosphates, uranium,
+bauxite, gold, iron, mercury, nickel, potash, silver, tungsten, zinc,
+petroleum, natural gas, timber
+
+Land use:  arable land: 19% other: 81% (1998 est.)  permanent crops: NEGL%
+
+Irrigated land:  214,000 sq km (1998 est.)
+
+Natural hazards:  tsunamis, volcanoes, and earthquake activity around
+Pacific Basin; hurricanes along the Atlantic and Gulf of Mexico coasts;
+tornadoes in the midwest and southeast; mud slides in California;
+forest fires in the west; flooding; permafrost in northern Alaska,
+a major impediment to development
+
+Environment - current issues:  air pollution resulting in acid rain in
+both the US and Canada; the US is the largest single emitter of carbon
+dioxide from the burning of fossil fuels; water pollution from runoff of
+pesticides and fertilizers; very limited natural fresh water resources
+in much of the western part of the country require careful management;
+desertification
+
+Environment - international agreements:  party to: Air Pollution,
+Air Pollution-Nitrogen Oxides, Antarctic-Environmental Protocol,
+Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty,
+Climate Change, Desertification, Endangered Species, Environmental
+Modification, Marine Dumping, Marine Life Conservation, Nuclear Test
+Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 83,
+Tropical Timber 94, Wetlands, Whaling signed, but not ratified: Air
+Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic
+Compounds, Biodiversity, Climate Change-Kyoto Protocol, Hazardous Wastes
+
+Geography - note:  world's third-largest country by size (after Russia and
+Canada) and by population (after China and India); Mt. McKinley is highest
+point in North America and Death Valley the lowest point on the continent
+
+People United States
+
+Population:  280,562,489 (July 2002 est.)
+
+Age structure:  0-14 years: 21% (male 30,116,782; female 28,765,183) 15-64
+years: 66.4% (male 92,391,120; female 93,986,468) 65 years and over: 12.6%
+(male 14,748,522; female 20,554,414) (2002 est.)
+
+Population growth rate:  0.89% (2002 est.)
+
+Birth rate:  14.1 births/1,000 population (2002 est.)
+
+Death rate:  8.7 deaths/1,000 population (2002 est.)
+
+Net migration rate:  3.5 migrant(s)/1,000 population (2002 est.)
+
+Sex ratio:  at birth: 1.05 male(s)/female under 15 years: 1.05
+male(s)/female 15-64 years: 0.98 male(s)/female 65 years and over:
+0.72 male(s)/female total population: 0.96 male(s)/female (2002 est.)
+
+Infant mortality rate:  6.69 deaths/1,000 live births (2002 est.)
+
+Life expectancy at birth:  total population: 77.4 years male: 74.5 years
+female: 80.2 years (2002 est.)
+
+Total fertility rate:  2.07 children born/woman (2002 est.)
+
+HIV/AIDS - adult prevalence rate:  0.61% (1999 est.)
+
+HIV/AIDS - people living with HIV/AIDS:  850,000 (1999 est.)
+
+HIV/AIDS - deaths:  20,000 (1999 est.)
+
+Nationality:  noun: American(s) adjective: American
+
+Ethnic groups:  white 77.1%, black 12.9%, Asian 4.2%, Amerindian and
+Alaska native 1.5%, native Hawaiian and other Pacific islander 0.3%,
+other 4% (2000) note:  Bureau considers Hispanic to mean a person of Latin
+American descent (especially of Cuban, Mexican, or Puerto Rican origin)
+living in the US who may be of any race or ethnic group (white, black,
+Asian, etc.)
+
+Religions:  Protestant 56%, Roman Catholic 28%, Jewish 2%, other 4%,
+none 10% (1989)
+
+Languages:  English, Spanish (spoken by a sizable minority)
+
+Literacy:  definition: age 15 and over can read and write male: 97%
+female: 97% (1979 est.)  total population: 97%
+
+People - note:  note: data for the US are based on projections that do
+not take into consideration the results of the 2000 census
+
+Government United States
+
+Country name:   United States of America conventional short form:
+Government type:  federal republic; strong democratic tradition
+
+Capital:  Washington, DC
+
+Administrative divisions:  50 states and 1 district*; Alabama, Alaska,
+Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District
+of Columbia*, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana,
+Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts,
+Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada,
+New Hampshire, New Jersey, New Mexico, New York, North Carolina, North
+Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South
+Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia,
+Washington, West Virginia, Wisconsin, Wyoming
+
+Dependent areas:  American Samoa, Baker Island, Guam, Howland Island,
+Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa
+Island, Northern Mariana Islands, Palmyra Atoll, Puerto Rico, Virgin
+Islands, Wake Island note: from 18 July 1947 until 1 October 1994, the
+US administered the Trust Territory of the Pacific Islands, but recently
+entered into a new political relationship with all four political units:
+the Northern Mariana Islands is a commonwealth in political union with
+the US (effective 3 November 1986); Palau concluded a Compact of Free
+Association with the US (effective 1 October 1994); the Federated States
+of Micronesia signed a Compact of Free Association with the US (effective
+3 November 1986); the Republic of the Marshall Islands signed a Compact
+of Free Association with the US (effective 21 October 1986)
+
+Independence:  4 July 1776 (from Great Britain)
+
+National holiday:  Independence Day, 4 July (1776)
+
+Constitution:  17 September 1787, effective 4 March 1789
+
+Legal system:  based on English common law; judicial review of legislative
+acts; accepts compulsory ICJ jurisdiction, with reservations
+
+Suffrage:  18 years of age; universal
+
+Executive branch:  chief of state: President George W. BUSH (since 20
+January 2001) and Vice President Richard B. CHENEY (since 20 January
+2001); note - the president is both the chief of state and head of
+government head of government:  Richard B. CHENEY (since 20 January 2001);
+note - the president is both the chief of state and head of government
+cabinet: Cabinet appointed by the president with Senate approval
+elections: president and vice president elected on the same ticket by
+a college of representatives who are elected directly from each state;
+president and vice president serve four-year terms; election last held 7
+November 2000 (next to be held 2 November 2004) election results: George
+W. BUSH elected president; percent of popular vote - George W. BUSH
+(Republican Party) 48%, Albert A.  GORE, Jr. (Democratic Party) 48%,
+Ralph NADER (Green Party) 3%, other 1%
+
+Legislative branch:  bicameral Congress consists of the Senate (100
+seats, one-third are renewed every two years; two members are elected
+from each state by popular vote to serve six-year terms) and the House
+of Representatives (435 seats; members are directly elected by popular
+vote to serve two-year terms) election results: Senate - percent of vote
+by party - NA%; seats by party - Democratic Party 50, Republican Party
+49, independent 1; House of Representatives - percent of vote by party
+- NA%; seats by party - Republican Party 221, Democratic Party 211,
+independent 2, vacant 1 elections: Senate - last held 7 November 2000
+(next to be held 4 November 2002); House of Representatives - last held
+7 November 2000 (next to be held 4 November 2002)
+
+Judicial branch:  Supreme Court (its nine justices are appointed for
+life by the president with confirmation by the Senate); United States
+Courts of Appeal; United States District Courts; State and County Courts
+
+Political parties and leaders:  Democratic Party [Terence McAULIFFE,
+national committee chairman]; Green Party [leader NA]; Republican Party
+[Governor Marc RACICOT, national committee chairman]
+
+Political pressure groups and leaders:  NA
+
+International organization participation:  AfDB, ANZUS, APEC, ARF
+(dialogue partner), AsDB, ASEAN (dialogue partner), Australia Group,
+BIS, CCC, CE (observer), CERN (observer), CP, EAPC, EBRD, ECE, ECLAC,
+ESCAP, FAO, G- 8, G-5, G-7, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICFTU,
+ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM,
+ISO, ITU, MINURSO, MIPONUH, NAM (guest), NATO, NEA, NSG, OAS, OECD, OPCW,
+OSCE, PCA, SPC, UN, UN Security Council, UNCTAD, UNHCR, UNIKOM, UNITAR,
+UNMEE, UNMIBH, UNMIK, UNMOVIC, UNOMIG, UNRWA, UNTAET, UNTSO, UNU, UPU,
+WCL, WHO, WIPO, WMO, WTrO, ZC
+
+Flag description:  thirteen equal horizontal stripes of red (top
+and bottom) alternating with white; there is a blue rectangle in the
+upper hoist-side corner bearing 50 small, white, five-pointed stars
+arranged in nine offset horizontal rows of six stars (top and bottom)
+alternating with rows of five stars; the 50 stars represent the 50 states,
+the 13 stripes represent the 13 original colonies; known as Old Glory;
+the design and colors have been the basis for a number of other flags,
+including Chile, Liberia, Malaysia, and Puerto Rico
+
+Economy United States
+
+Economy - overview:  The US has the largest and most technologically
+powerful economy in the world, with a per capita GDP of $36,300. In this
+market-oriented economy, private individuals and business firms make
+most of the decisions, and the federal and state governments buy needed
+goods and services predominantly in the private marketplace. US business
+firms enjoy considerably greater flexibility than their counterparts
+in Western Europe and Japan in decisions to expand capital plant, lay
+off surplus workers, and develop new products. At the same time, they
+face higher barriers to entry in their rivals' home markets than the
+barriers to entry of foreign firms in US markets. US firms are at or near
+the forefront in technological advances, especially in computers and in
+medical, aerospace, and military equipment, although their advantage has
+narrowed since the end of World War II. The onrush of technology largely
+explains the gradual development of a &quot;&quot;two-tier labor market&quot;&quot; in which
+those at the bottom lack the education and the professional/technical
+skills of those at the top and, more and more, fail to get comparable
+pay raises, health insurance coverage, and other benefits. Since 1975,
+practically all the gains in household income have gone to the top 20%
+of households. The years 1994-2000 witnessed solid increases in real
+output, low inflation rates, and a drop in unemployment to below 5%. The
+year 2001 witnessed the end of the boom psychology and performance,
+with output increasing only 0.3% and unemployment and business failures
+rising substantially. The response to the terrorist attacks of September
+11 showed the remarkable resilience of the economy. Moderate recovery is
+expected in 2002, with the GDP growth rate rising to 2.5% or more. A major
+short-term problem in first half 2002 was a sharp decline in the stock
+market, fueled in part by the exposure of dubious accounting practices in
+some major corporations. Long-term problems include inadequate investment
+in economic infrastructure, rapidly rising medical and pension costs of
+an aging population, sizable trade deficits, and stagnation of family
+income in the lower economic groups.
+
+GDP:  purchasing power parity - $10.082 trillion (2001 est.)
+
+GDP - real growth rate:  0.3% (2001 est.)
+
+GDP - per capita:  purchasing power parity - $36,300 (2001 est.)
+
+GDP - composition by sector:  agriculture: 2% industry: 18% services: 80%
+(2001 est.)
+
+Population below poverty line:  12.7% (2001 est.)
+
+Household income or consumption by percentage share:  lowest 10%: 1.8%
+highest 10%: 30.5% (1997)
+
+Distribution of family income - Gini index:  40.8 (1997)
+
+Inflation rate (consumer prices):  2.8% (2001)
+
+Labor force:  141.8 million (includes unemployed) (2001)
+
+Labor force - by occupation:  managerial and professional 31%, technical,
+sales and administrative support 28.9%, services 13.6%, manufacturing,
+mining, transportation, and crafts 24.1%, farming, forestry, and fishing
+2.4% (2001) note: Unemployment rate:  5% (2001)
+
+Budget:  revenues: $1.828 trillion expenditures: $1.703 trillion,
+including capital expenditures of $NA (1999)
+
+Industries:  leading industrial power in the world, highly diversified and
+technologically advanced; petroleum, steel, motor vehicles, aerospace,
+telecommunications, chemicals, electronics, food processing, consumer
+goods, lumber, mining
+
+Industrial production growth rate:  -3.7% (2001 est.)
+
+Electricity - production:  3,799.944 billion kWh (2000)
+
+Electricity - production by source:  fossil fuel: 70.76% hydro: 7.19%
+other: 2.21% (2000) nuclear: 19.84%
+
+Electricity - consumption:  3.613 trillion kWh (2000)
+
+Electricity - exports:  14.829 billion kWh (2000)
+
+Electricity - imports:  48.879 billion kWh (2000)
+
+Agriculture - products:  wheat, other grains, corn, fruits, vegetables,
+cotton; beef, pork, poultry, dairy products; forest products; fish
+
+Exports:  $723 billion (f.o.b., 2001 est.)
+
+Exports - commodities:  capital goods, automobiles, industrial supplies
+and raw materials, consumer goods, agricultural products
+
+Exports - partners:  Canada 22.4%, Mexico 13.9%, Japan 7.9%, UK 5.6%,
+Germany 4.1%, France, Netherlands (2001)
+
+Imports:  $1.148 trillion (f.o.b., 2001 est.)
+
+Imports - commodities:  crude oil and refined petroleum products,
+machinery, automobiles, consumer goods, industrial raw materials, food
+and beverages
+
+Imports - partners:  Canada 19%, Mexico 11.5%, Japan 11.1%, China 8.9%,
+Germany 5.2%, UK, Taiwan (2001)
+
+Debt - external:  $862 billion (1995 est.)
+
+Economic aid - donor:  ODA, $6.9 billion (1997)
+
+Currency:  US dollar (USD)
+
+Currency code:  USD
+
+Exchange rates:  British pounds per US dollar - 0.6981 (January 2002),
+0.6944 (2001), 0.6596 (2000), 0.6180 (1999), 0.6037 (1998), 0.6106
+(1997); Canadian dollars per US dollar - 1.6003 (January 2002), 1.5488
+(2001), 1.4851 (2000), 1.4857 (1999), 1.4835 (1998), 1.3846 (1997);
+French francs per US dollar - 5.65 (January 1999), 5.8995 (1998), 5.8367
+(1997); Italian lire per US dollar - 1,668.7 (January 1999), 1,763.2
+(1998), 1,703.1 (1997); Japanese yen per US dollar - 132.66 (January
+2002), 121.53 (2001), 107.77 (2000), 113.91 (1999), 130.91 (1998), 120.99
+(1997); German deutsche marks per US dollar - 1.69 (January 1999), 1.9692
+(1998), 1.7341 (1997); euros per US dollar - 1.1324 (January 2002), 1.1175
+(2001), 1.08540 (2000), 0.93863 (1999) note: financial institutions in
+France, Italy, and Germany and eight other European countries started
+using the euro on 1 January 1999 with the euro replacing the local
+currency in consenting countries for all transactions in 2002
+
+Fiscal year:  1 October - 30 September
+
+Communications United States
+
+Telephones - main lines in use:  194 million (1997)
+
+Telephones - mobile cellular:  69.209 million (1998)
+
+Telephone system:  general assessment: a very large, technologically
+advanced, multipurpose communications system domestic: a large system of
+fiber-optic cable, microwave radio relay, coaxial cable, and domestic
+satellites carries every form of telephone traffic; a rapidly growing
+cellular system carries mobile telephone traffic throughout the country
+international:  (45 Atlantic Ocean and 16 Pacific Ocean), 5 Intersputnik
+(Atlantic Ocean region), and 4 Inmarsat (Pacific and Atlantic Ocean
+regions) (2000)
+
+Radio broadcast stations:  AM 4,762, FM 5,542, shortwave 18 (1998)
+
+Radios:  575 million (1997)
+
+Television broadcast stations:  more than 1,500 (including nearly 1,000
+stations affiliated with the five major networks - NBC, ABC, CBS, FOX,
+and PBS; in addition, there are about 9,000 cable TV systems) (1997)
+
+Televisions:  219 million (1997)
+
+Internet country code:  .us
+
+Internet Service Providers (ISPs):  7,800 (2000 est.)
+
+Internet users:  166 million (2001)
+
+Transportation United States
+
+Railways:  total: 212,433 km mainline routes standard gauge: 212,433 km
+1.435-m gauge note: represents the aggregate length of roadway of all
+line-haul railroads including an estimate for Class II and III railroads
+(1998)
+
+Highways:  total: 6,370,031 km paved: 5,733,028 km (including 74,091 km
+of expressways) unpaved: 637,003 km (1997)
+
+Waterways:  41,009 km note: navigable inland channels, exclusive of the
+Great Lakes
+
+Pipelines:  petroleum products 276,000 km; natural gas 331,000 km (1991)
+
+Ports and harbors:  Anchorage, Baltimore, Boston, Charleston, Chicago,
+Duluth, Hampton Roads, Honolulu, Houston, Jacksonville, Los Angeles,
+New Orleans, New York, Philadelphia, Port Canaveral, Portland (Oregon),
+Prudhoe Bay, San Francisco, Savannah, Seattle, Tampa, Toledo
+
+Merchant marine:  total: 264 ships (1,000 GRT or over) totaling 6,911,641
+GRT/9,985,660 DWT ships by type: barge carrier 1, bulk 11, cargo 14,
+chemical tanker 16, collier 1, combination bulk 4, combination tanker 11,
+container 86, multi-functional large-load carrier 4, passenger/cargo 2,
+petroleum tanker 81, roll on/roll off 28, specialized tanker 3, vehicle
+carrier 2 note: includes some foreign-owned ships registered here as
+a flag of convenience: Australia 1, Canada 4, Denmark 15, France 1,
+Germany 1, Netherlands 3, Norway 7, Puerto Rico 4, Singapore 11, Sweden 1,
+United Kingdom 3 (2002 est.)
+
+Airports:  14,695 (2001)
+
+Airports - with paved runways:   222 914 to 1,523 m: Airports - with
+unpaved runways:   1 2,438 to 3,047 m: Heliports:  132 (2001)
+
+Military United States
+
+Military branches:  Department of the Army, Department of the Navy
+(includes Marine Corps), Department of the Air Force note: the Coast
+Guard is normally subordinate to the Department of Transportation,
+but in wartime reports to the Department of the Navy
+
+Military manpower - military age:  18 years of age (2002 est.)
+
+Military manpower - availability:  males age 15-49: 70,819,436 (2001 est.)
+
+Military manpower - fit for military service:  NA (2002 est.)
+
+Military manpower - reaching military age annually:  males: 2,053,179
+(2002 est.)
+
+Military expenditures - dollar figure:  $276.7 billion (FY99 est.)
+
+Military expenditures - percent of GDP:  3.2% (FY99 est.)
+
+Military - note:  note: 2002 estimates for military manpower are based
+on projections that do not take into consideration the results of the
+2000 census
+
+Transnational Issues United States
+
+Disputes - international:  maritime boundary disputes with Canada (Dixon
+Entrance, Beaufort Sea, Strait of Juan de Fuca, Machias Seal Island);
+US Naval Base at Guantanamo Bay is leased from Cuba and only mutual
+agreement or US abandonment of the area can terminate the lease; Haiti
+claims Navassa Island; US has made no territorial claim in Antarctica
+(but has reserved the right to do so) and does not recognize the claims
+of any other state; Marshall Islands claims Wake Island
+
+Illicit drugs:  consumer of cocaine shipped from Colombia through Mexico
+and the Caribbean; consumer of heroin, marijuana, and increasingly
+methamphetamine from Mexico; consumer of high-quality Southeast Asian
+heroin; illicit producer of cannabis, marijuana, depressants, stimulants,
+hallucinogens, and methamphetamine; money-laundering center
+
+This page was last updated on 1 January 2002
+
+
+
+&quot;
+&quot;========================================================================
+
+
+Uruguay
+
+Introduction
+
+Uruguay
+
+Background:  A violent Marxist urban guerrilla movement, the Tupamaros,
+launched in the late 1960s, led Uruguay's president to agree to military
+control of his administration in 1973. By the end of the year the rebels
+had been crushed, but the military continued to expand its hold throughout
+the government. Civilian rule was not restored until 1985.  Uruguay's
+political and labor conditions are among the freest on the continent.
+
+Geography Uruguay
+
+Location:  Southern South America, bordering the South Atlantic Ocean,
+between Argentina and Brazil
+
+Geographic coordinates:  33 00 S, 56 00 W
+
+Map references:  South America
+
+Area:  total: 176,220 sq km land: 173,620 sq km water: 2,600 sq km
+
+Area - comparative:  slightly smaller than the state of Washington
+
+Land boundaries:  total: 1,564 km border countries: Argentina 579 km,
+Brazil 985 km
+
+Coastline:  660 km
+
+Maritime claims:  contiguous zone: 24 NM territorial sea: 12 NM
+continental shelf: 200-m depth or to the depth of exploitation exclusive
+economic zone: 200 NM
+
+Climate:  warm temperate; freezing temperatures almost unknown
+
+Terrain:  mostly rolling plains and low hills; fertile coastal lowland
+
+Elevation extremes:  lowest point: Atlantic Ocean 0 m highest point:
+Cerro Catedral 514 m
+
+Natural resources:  arable land, hydropower, minor minerals, fisheries
+
+Land use:  arable land: 7% permanent crops: 0% other: 93% (1998 est.)
+
+Irrigated land:  1,800 sq km (1998 est.)
+
+Natural hazards:  seasonally high winds (the pampero is a chilly and
+occasional violent wind which blows north from the Argentine pampas),
+droughts, floods; because of the absence of mountains, which act as
+weather barriers, all locations are particularly vulnerable to rapid
+changes from weather fronts
+
+Environment - current issues:  water pollution from meat packing/tannery
+industry; inadequate solid/hazardous waste disposal
+
+Environment - international agreements:  party to: Antarctic-Environmental
+Protocol, Antarctic-Marine Living Resources, Antarctic Treaty,
+Biodiversity, Climate Change, Climate Change-Kyoto Protocol,
+Desertification, Endangered Species, Environmental Modification,
+Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution,
+Tropical Timber 94, Wetlands signed, but not ratified: Geography -
+note:  second-smallest South American country (after Suriname); most of
+the low-lying landscape (three-quarters of the country) is grassland,
+ideal for cattle and sheep raising
+
+People Uruguay
+
+Population:  3,386,575 (July 2002 est.)
+
+Age structure:  0-14 years: 24.4% (male 422,826; female 402,324) 15-64
+years: 62.6% (male 1,047,740; female 1,072,032) 65 years and over: 13%
+(male 181,522; female 260,131) (2002 est.)
+
+Population growth rate:  0.79% (2002 est.)
+
+Birth rate:  17.28 births/1,000 population (2002 est.)
+
+Death rate:  9 deaths/1,000 population (2002 est.)
+
+Net migration rate:  -0.41 migrant(s)/1,000 population (2002 est.)
+
+Sex ratio:  at birth: 1.06 male(s)/female under 15 years: 1.05
+male(s)/female 15-64 years: 0.98 male(s)/female 65 years and over:
+0.7 male(s)/female total population: 0.95 male(s)/female (2002 est.)
+
+Infant mortality rate:  14.25 deaths/1,000 live births (2002 est.)
+
+Life expectancy at birth:   79.17 years (2002 est.)  male: Total fertility
+rate:  2.35 children born/woman (2002 est.)
+
+HIV/AIDS - adult prevalence rate:  0.33% (1999 est.)
+
+HIV/AIDS - people living with HIV/AIDS:  6,000 (1999 est.)
+
+HIV/AIDS - deaths:  150 (1999 est.)
+
+Nationality:  noun: Uruguayan(s) adjective: Uruguayan
+
+Ethnic groups:  white 88%, mestizo 8%, black 4%, Amerindian, practically
+nonexistent
+
+Religions:  Roman Catholic 66% (less than half of the adult population
+attends church regularly), Protestant 2%, Jewish 1%, nonprofessing or
+other 31%
+
+Languages:  Spanish, Portunol, or Brazilero (Portuguese-Spanish mix on
+the Brazilian frontier)
+
+Literacy:  definition: age 15 and over can read and write total
+population: 97.3% male: 96.9% female: 97.7% (1995 est.)
+
+Government Uruguay
+
+Country name:  conventional long form: Oriental Republic of Uruguay
+conventional short form: Uruguay local short form: Uruguay former:
+Banda Oriental, Cisplatine Province local long form: Republica Oriental
+del Uruguay
+
+Government type:  constitutional republic
+
+Capital:  Montevideo
+
+Administrative divisions:  19 departments (departamentos, singular -
+departamento); Artigas, Canelones, Cerro Largo, Colonia, Durazno, Flores,
+Florida, Lavalleja, Maldonado, Montevideo, Paysandu, Rio Negro, Rivera,
+Rocha, Salto, San Jose, Soriano, Tacuarembo, Treinta y Tres
+
+Independence:  25 August 1825 (from Brazil)
+
+National holiday:  Independence Day, 25 August (1825)
+
+Constitution:  27 November 1966, effective February 1967, suspended 27
+June 1973, new constitution rejected by referendum 30 November 1980;
+two constitutional reforms approved by plebiscite 26 November 1989 and
+7 January 1997
+
+Legal system:  based on Spanish civil law system; accepts compulsory
+ICJ jurisdiction
+
+Suffrage:  18 years of age; universal and compulsory
+
+Executive branch:  chief of state: President Jorge BATLLE Ibanez (since
+1 March 2000) and Vice President Luis HIERRO (since 1 March 2000); note
+- the president is both the chief of state and head of government head
+of government:  Luis HIERRO (since 1 March 2000); note - the president
+is both the chief of state and head of government cabinet: Council
+of Ministers appointed by the president with parliamentary approval
+elections: president and vice president elected on the same ticket by
+popular vote for five-year terms; election last held 31 October 1999,
+with runoff election on 28 November 1999 (next to be held NA 2004)
+election results: Jorge BATLLE Ibanez elected president; percent of vote -
+Jorge BATLLE Ibanez 52% in a runoff against Tabare VAZQUEZ 44%
+
+Legislative branch:  bicameral General Assembly or Asamblea General
+consists of Chamber of Senators or Camara de Senadores (30 seats; members
+are elected by popular vote to serve five-year terms) and Chamber of
+Representatives or Camara de Representantes (99 seats; members are
+elected by popular vote to serve five-year terms) elections: Chamber
+of Senators - last held 31 October 1999 (next to be held NA 2004);
+Chamber of Representatives - last held 31 October 1999 (next to be held
+NA 2004) election results:  Encuentro Progresista 12, Colorado Party 10,
+Blanco 7, New Sector/Space Coalition 1; Chamber of Representatives -
+percent of vote by party - NA%; seats by party - Encuentro Progresista
+40, Colorado Party 33, Blanco 22, New Sector/Space Coalition 4
+
+Judicial branch:  Supreme Court (judges are nominated by the president
+and elected for 10-year terms by the General Assembly)
+
+Political parties and leaders:  Colorado Party [Jorge BATLLE Ibanez];
+National Party or Blanco [Luis Alberto LACALLE Herrera]; New Sector/Space
+Coalition or Nuevo Espacio [Rafael MICHELINI]; Progressive Encounter/Broad
+Front Coalition or Encuentro Progresista/Frente Amplio [Tabare VAZQUEZ]
+
+Political pressure groups and leaders:  NA
+
+International organization participation:  CCC, ECLAC, FAO, G-77, IADB,
+IAEA, IBRD, ICAO, ICC, ICRM, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO,
+Interpol, IOC, IOM, ISO, ITU, LAES, LAIA, Mercosur, MINURSO, MONUC, NAM
+(observer), OAS, OPANAL, OPCW, PCA, RG, UN, UNAMSIL, UNCTAD, UNESCO,
+UNIDO, UNIKOM, UNMEE, UNMOGIP, UNMOT, UNOMIG, UNTAET, UPU, WCL, WFTU,
+WHO, WIPO, WMO, WToO, WTrO
+
+Diplomatic representation in the US:  chief of mission: Ambassador Hugo
+FERNANDEZ-FAINGOLD consulate(s) general: Chicago, Los Angeles, Miami,
+and New York FAX: [1] (202) 331-8142 telephone: [1] (202) 331-1313
+through 1316 chancery: 1913 I Street NW, Washington, DC 20006
+
+Diplomatic representation from the US:  chief of mission: Ambassador
+Martin J. SILVERSTEIN embassy: Lauro Muller 1776, Montevideo 11200
+mailing address: APO AA 34035 telephone: [598] (2) 418-7777 FAX: [598]
+(2) 410-0022
+
+Flag description:  nine equal horizontal stripes of white (top and bottom)
+alternating with blue; there is a white square in the upper hoist-side
+corner with a yellow sun bearing a human face known as the Sun of May
+and 16 rays alternately triangular and wavy
+
+Economy Uruguay
+
+Economy - overview:  Uruguay's economy is characterized by an
+export-oriented agricultural sector, a well-educated workforce,
+and high levels of social spending. After averaging growth of 5%
+annually in 1996-98, in 1999-2001 the economy suffered from lower
+demand in Argentina and Brazil, which together account for nearly
+half of Uruguay's exports. Despite the severity of the trade shocks,
+Uruguay's financial indicators remained more stable than those of its
+neighbors, a reflection of its solid reputation among investors and its
+investment-grade sovereign bond rating - one of only two in South America.
+Challenges for the government of President Jorge BATLLE include reducing
+the budget deficit, expanding Uruguay's trade ties beyond its Mercosur
+trade partners, and reducing the costs of public services. GDP fell by
+1.3% in 2000 and by 1.5% in 2001.
+
+GDP:  purchasing power parity - $31 billion (2001 est.)
+
+GDP - real growth rate:  -1.5% (2001 est.)
+
+GDP - per capita:  purchasing power parity - $9,200 (2001 est.)
+
+GDP - composition by sector:  agriculture: 6% industry: 29% services: 65%
+(2001)
+
+Population below poverty line:  6% (1997)
+
+Household income or consumption by percentage share:  lowest 10%: 3.7%
+highest 10%: 25.8% (1997)
+
+Distribution of family income - Gini index:  42.3 (1989)
+
+Inflation rate (consumer prices):  3.6% (2001)
+
+Labor force:  1.2 million (2001)
+
+Labor force - by occupation:  agriculture 14%, industry 16%, services 70%
+
+Unemployment rate:  15.2% (2001)
+
+Budget:  revenues: $3.7 billion expenditures: $4.6 billion, including
+capital expenditures of $500 million (2000)
+
+Industries:  food processing, electrical machinery, transportation
+equipment, petroleum products, textiles, chemicals, beverages
+
+Industrial production growth rate:  -2.4% (2001 est.)
+
+Electricity - production:  7.527 billion kWh (2000)
+
+Electricity - production by source:  fossil fuel: 6.64% hydro: 92.83%
+other: 0.53% (2000) nuclear: 0%
+
+Electricity - consumption:  7.35 billion kWh (2000)
+
+Electricity - exports:  950 million kWh (2000)
+
+Electricity - imports:  1.3 billion kWh (2000)
+
+Agriculture - products:  rice, wheat, corn, barley; livestock; fish
+
+Exports:  $2.24 billion (f.o.b., 2001 est.)
+
+Exports - commodities:  meat, rice, leather products, wool, vehicles,
+dairy products
+
+Exports - partners:  Mercosur partners 40%, EU 20%, US 8% (2001 est.)
+
+Imports:  $2.9 billion (f.o.b., 2001 est.)
+
+Imports - commodities:  machinery, chemicals, road vehicles, crude
+petroleum
+
+Imports - partners:  Mercosur partners 44%, EU 18%, US 9% (2001 est.)
+
+Debt - external:  $7.7 billion (2001 est.)
+
+Economic aid - recipient:  $NA
+
+Currency:  Uruguayan peso (UYU)
+
+Currency code:  UYU
+
+Exchange rates:  Uruguayan pesos per US dollar - 14.3325 (January 2002),
+13.3191 (2001), 12.0996 (2000), 11.3393 (1999), 10.4719 (1998), 9.4418
+(1997)
+
+Fiscal year:  calendar year
+
+Communications Uruguay
+
+Telephones - main lines in use:  929,141 (2001)
+
+Telephones - mobile cellular:  350,000 (2001)
+
+Telephone system:  general assessment: fully digitalized domestic: most
+modern facilities concentrated in Montevideo; new nationwide microwave
+radio relay network international: satellite earth stations - 2 Intelsat
+(Atlantic Ocean) (2002)
+
+Radio broadcast stations:  AM 91, FM 149, shortwave 7 (2001)
+
+Radios:  1.97 million (1997)
+
+Television broadcast stations:  20 (2001)
+
+Televisions:  782,000 (1997)
+
+Internet country code:  .uy
+
+Internet Service Providers (ISPs):  14 (2001)
+
+Internet users:  370,000 (2001)
+
+Transportation Uruguay
+
+Railways:  total: 2,993 km standard gauge: 2,993 km 1.435-m gauge note:
+of the total route length, 461 km have been taken out of service and
+460 km are in only partial use; moreover, not all lines offer passenger
+service (2001)
+
+Highways:  total: 8,764 km paved: 7,800 km unpaved: 964 km (2001)
+
+Waterways:  1,600 km (used by coastal and shallow-draft river craft)
+
+Pipelines:  NA
+
+Ports and harbors:  Colonia, Fray Bentos, Juan La Caze, La Paloma,
+Montevideo, Nueva Palmira, Paysandu, Punta del Este, Piriapolis
+
+Merchant marine:  total: 2 ships (1,000 GRT or over) totaling 7,752
+GRT/5,228 DWT note: includes some foreign-owned ships registered here as
+a flag of convenience: Argentina 4, Greece 1 (2002 est.)  ships by type:
+petroleum tanker 1, roll on/roll off 1
+
+Airports:  64 (2001)
+
+Airports - with paved runways:   5 914 to 1,523 m: Airports - with unpaved
+runways:  total: 49 1,524 to 2,437 m: 2 914 to 1,523 m: 16 under 914 m:
+31 (2001)
+
+Military Uruguay
+
+Military branches:  Army, Navy (including Naval Air Arm, Coast Guard,
+Marines), Air Force, Police (Coracero Guard, Grenadier Guard)
+
+Military manpower - availability:  males age 15-49: 824,395 (2002 est.)
+
+Military manpower - fit for military service:  males age 15-49: 666,880
+(2002 est.)
+
+Military expenditures - dollar figure:  $250 million (1999)
+
+Military expenditures - percent of GDP:  1.1% (2000)
+
+Transnational Issues Uruguay
+
+Disputes - international:  uncontested dispute with Brazil over islands
+in the Rio Quarai (Rio Cuareim) and the Arroio Invernada (Arroyo de
+la Invernada)
+
+This page was last updated on 1 January 2002
+
+</value>
+        </entry>
+    </textMap>
+</ns2:systemTComputationResult>

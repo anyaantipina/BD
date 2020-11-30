@@ -1,0 +1,10 @@
+#Sun Nov 29 18:16:44 MSK 2020
+langWare.tokenizerChoice=1
+srcTextAnalyticsPath=[P]textAnalytics/src
+general.provenance=true
+searchPath.dataPath=[W]/HW2
+pagination.isEnabled=true
+tamTextAnalyticsPath=[P]textAnalytics/bin
+result.rootDir=result
+pagination.numFilesPerPage=50
+UseModularAQL=true

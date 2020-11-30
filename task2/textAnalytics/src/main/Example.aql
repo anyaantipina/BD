@@ -1,0 +1,192 @@
+module main; 
+
+create view CountryTransportHeader as
+extract regex /Transportation (\w+( \w+)?)/ on D.text
+return group 1 as country
+and group 0 as transport
+from Document D;
+
+create view PreBlock as
+extract split using C.separator
+retain right split point on C.text as text
+from ( extract  D.text as text,
+regex /("={1,})/
+on D.text as separator
+from Document D) C;
+
+create view TransportationBlock as
+select CTH.country as country, PB.text as text from
+CountryTransportHeader CTH, PreBlock PB
+where Contains(PB.text, CTH.transport);
+
+create view Paragraph as
+extract split using P.boundary
+retain right split point on P.text as text
+from ( extract D.text as text,
+regex /(\n\s*\n)/
+on D.text as boundary
+from Document D) P;
+
+create view RailwaysParagraph as 
+select P.text as text from
+Paragraph P
+where ContainsRegex(/Railways:/, P.text);
+
+create view HighwaysParagraph as 
+select P.text as text from
+Paragraph P
+where ContainsRegex(/Highways:/, P.text);
+
+create view WaterwaysParagraph as 
+select P.text as text from
+Paragraph P
+where ContainsRegex(/Waterways:/, P.text);
+
+create view PipelinesParagraph as 
+select P.text as text from
+Paragraph P
+where ContainsRegex(/Pipelines:/, P.text);
+
+create view PortsAndHarborsParagraph as 
+select P.text as text from
+Paragraph P
+where ContainsRegex(/Ports and harbors:/, P.text);
+
+create view MerchantMarineParagraph as 
+select P.text as text from
+Paragraph P
+where ContainsRegex(/Merchant marine:/, P.text);
+
+create view AirportsParagraph as 
+select P.text as text from
+Paragraph P
+where ContainsRegex(/(Airports: |Airports - )/, P.text);
+
+create view HeliportsParagraph as 
+select P.text as text from
+Paragraph P
+where ContainsRegex(/Heliports:/, P.text);
+
+create view CountryRailwaysParagraph as
+select TB.country as country, P.text as text from
+TransportationBlock TB, RailwaysParagraph P
+where Contains(TB.text, P.text);
+
+create view CountryHighwaysParagraph as
+select TB.country as country, P.text as text from
+TransportationBlock TB, HighwaysParagraph P
+where Contains(TB.text, P.text);
+
+create view CountryWaterwaysParagraph as
+select TB.country as country, P.text as text from
+TransportationBlock TB, WaterwaysParagraph P
+where Contains(TB.text, P.text);
+
+create view CountryPipelinesParagraph as
+select TB.country as country, P.text as text from
+TransportationBlock TB, PipelinesParagraph P
+where Contains(TB.text, P.text);
+
+create view CountryPortsAndHarborsParagraph as
+select TB.country as country, P.text as text from
+TransportationBlock TB, PortsAndHarborsParagraph P
+where Contains(TB.text, P.text);
+
+create view CountryMerchantMarineParagraph as
+select TB.country as country, P.text as text from
+TransportationBlock TB, MerchantMarineParagraph P
+where Contains(TB.text, P.text);
+
+create view CountryAirportsParagraph as
+select TB.country as country, P.text as text from
+TransportationBlock TB, AirportsParagraph P
+where Contains(TB.text, P.text);
+
+create view CountryHeliportsParagraph as
+select TB.country as country, P.text as text from
+TransportationBlock TB, HeliportsParagraph P
+where Contains(TB.text, P.text);
+
+create view CorrectHeliportParagraph as
+extract regex /Heliports:.*/ on CHP.text
+return group 0 as text
+from CountryHeliportsParagraph CHP;
+
+create view Railways as
+extract regex /Railways: *(total: {1,})?((\d+(,|.)?\d*) *km) *([a-z ]+ gauge)?/ on P.text
+return group 2 as total_dist
+and group 5 as gauge
+from CountryRailwaysParagraph P;
+
+create view Highways as
+extract regex /Highways: *(total: {1,})?((\d+((,|.)?\d*){1,2}) *km) *(paved: {1,}((((\d+((,|.)?\d*){1,2}) km)|NA))? *(\((\w| |\n|,)*\))?(note: *((public|private)( *|\n) *roads *- *(\d+(,|.)?\d*) km *(\((\w| |\n)*\))? *;? *)*)* *(unpaved: {1,}(((\d+(,|.)?\d*){1,2}) km)|NA))?/ on P.text
+return group 2 as total_dist
+and group 7 as paved_dist
+and group 26 as unpaved_dist
+from CountryHighwaysParagraph P;
+
+create view Waterways as
+extract regex /Waterways: *((\d+(,|.)?\d*) *km|none|NA)/ on P.text
+return group 1 as total_dist
+from CountryWaterwaysParagraph P;
+
+create view Pipelines as
+extract regex /Pipelines: *((.|\n)*)/ on P.text
+return group 1 as info
+from CountryPipelinesParagraph P;
+
+create view PortsAndHarbors as
+extract regex /Ports and harbors: *(none|NA|((.|\n)*))/ on P.text
+return group 1 as names
+from CountryPortsAndHarborsParagraph P;
+
+create view MerchantMarine as
+extract regex /Merchant marine: *(total: *)?(none|NA|(\d+(,|.)?\d*) *ships) *(ships by type: *(NA|((.|\n)*))|.|\n)*/ on P.text
+return group 2 as total_amount
+and group 6 as ships_by_type
+from CountryMerchantMarineParagraph P;
+
+create view Airports as
+extract regex /Airports: *(\d*)/ on P.text
+return group 1 as total_amount
+from CountryAirportsParagraph P;
+
+create view Heliports as
+extract regex /Heliports: *(\d*)/ on P.text
+return group 1 as total_amount
+from CountryHeliportsParagraph P;
+
+create view Result as
+extract
+pattern (<CTH.country>) <Token>{1,200}
+		(<R.total_dist>) <Token>{1,200}
+		(<H.total_dist>) <Token>{1,200}
+		(<W.total_dist>) <Token>{1,200}
+		(<P.info>) <Token>{1,200}
+		(<PAH.names>) <Token>{1,200}
+		(<MM.total_amount>) <Token>{1,200}
+		(<A.total_amount>) <Token>{1,200}
+		(<HP.total_amount>)
+return	group 1 as country
+and group 2 as railway_total_dist
+and group 3 as highway_total_dist
+and group 4 as watertway_total_dist
+and group 5 as pipelines_info
+and group 6 as port_and_harbors_names
+and group 7 as merchant_marine_total_amount
+and group 8 as airport_total_amount
+and group 9 as heliport_total_amount
+from CountryTransportHeader CTH,
+	 Railways R,
+     Highways H,
+     Waterways W,
+     Pipelines P,
+     PortsAndHarbors PAH,
+     MerchantMarine MM,
+     Airports A,
+     Heliports HP;
+    
+
+output view Result;
+output view CountryTransportHeader;
+output view MerchantMarine;
