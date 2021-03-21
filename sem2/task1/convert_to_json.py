@@ -74,7 +74,7 @@ class ConvertToJSON(MRJob):
             elem = []
             key = row[0].value
             for field in row:
-                elem.append(bytes(field.value, encoding='utf-8'))
+                elem.append(field.internal_value.encode('utf8'))
             yield (fname, key), elem
 
     def reducer_1(self, key, value):
