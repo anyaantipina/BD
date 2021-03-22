@@ -1,0 +1,56 @@
+{
+    "minItems":1,
+    "$schema":"http://json-schema.org/draft-04/schema#",
+    "description":"Бары",
+    "title":"Бары",
+    "type":"array",
+    "items":
+    {
+        "description":"",
+        "type":"object",
+        "properties":
+        {
+            "Address":
+            {
+                "description":"Адрес",
+                "type":"STRING"
+            },
+            "global_id":
+            {
+                "description":"global_id",
+                "type":"NUMBER"
+            },
+            "Name":
+            {
+                "description":"Наименование",
+                "type":"STRING"
+            },
+            "AdmArea":
+            {
+                "description":"Административный округ по адресу",
+                "type":"DICTIONARY"
+            },
+            "ContactPhone":
+            {
+                "description":"Контактный телефон",
+                "type":"CATALOG"
+            },
+            "ID":
+            {
+                "description":"Код",
+                "type":"STRING"
+            },
+            "District":
+            {
+                "description":"Район",
+                "type":"DICTIONARY"
+            }
+        },
+        "count":
+        {
+            "description":"Количество заведений",
+            "type":"NUMBER"
+        }
+    }
+}
+

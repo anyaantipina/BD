@@ -1,0 +1,100 @@
+{
+    "minItems":1,
+    "$schema":"http://json-schema.org/draft-04/schema#",
+    "description":"Бары",
+    "title":"Бары",
+    "type":"array",
+    "items":
+    {
+        "description":"Бары",
+        "type":"object",
+        "properties":
+        {
+            "system_object_id":
+            {
+                "description":"system_object_id",
+                "type":"STRING"
+            },
+            "Address":
+            {
+                "description":"Адрес",
+                "type":"STRING"
+            },
+            "Latitude_WGS84":
+            {
+                "description":"Широта в WGS-84",
+                "type":"STRING"
+            },
+            "global_id":
+            {
+                "description":"global_id",
+                "type":"NUMBER"
+            },
+            "TypeObject":
+            {
+                "description":"Вид объекта",
+                "type":"DICTIONARY"
+            },
+            "Longitude_WGS84":
+            {
+                "description":"Долгота в WGS-84",
+                "type":"STRING"
+            },
+            "Name":
+            {
+                "description":"Наименование",
+                "type":"STRING"
+            },
+            "IsNetObject":
+            {
+                "description":"Является сетевым",
+                "type":"FLAG"
+            },
+            "AdmArea":
+            {
+                "description":"Административный округ по адресу",
+                "type":"DICTIONARY"
+            },
+            "OperatingCompany":
+            {
+                "description":"Название управляющей компании",
+                "type":"STRING"
+            },
+            "is_deleted":
+            {
+                "description":"is_deleted",
+                "type":"NUMBER"
+            },
+            "signature_date":
+            {
+                "description":"signature_date",
+                "type":"STRING"
+            },
+            "PublicPhone":
+            {
+                "description":"Контактный телефон",
+                "type":"CATALOG"
+            },
+            "SeatsCount":
+            {
+                "description":"Число посадочных мест",
+                "type":"INTEGER"
+            },
+            "ID":
+            {
+                "description":"Код",
+                "type":"STRING"
+            },
+            "District":
+            {
+                "description":"Район",
+                "type":"DICTIONARY"
+            },
+            "SocialPrivileges":
+            {
+                "description":"Показатель социальных льгот",
+                "type":"FLAG"
+            }
+        },
+        "required":["is_deleted","Latitude_WGS84","global_id","ID","Name","IsNetObject","TypeObject","AdmArea","District","Address","PublicPhone","SeatsCount","SocialPrivileges","Longitude_WGS84"]}}
+

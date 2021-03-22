@@ -1,0 +1,39 @@
+{
+    "minItems":1,
+    "$schema":"http://json-schema.org/draft-04/schema#",
+    "description":"Коворкинги",
+    "title":"Коворкинги",
+    "type":"array",
+    "items":{
+        "description":"Коворкинги",
+        "type":"object",
+        "properties":
+        {
+            "Site":
+            {
+                "description":"Сайт",
+                "type":"STRING"
+            },
+            "system_object_id":{"description":"system_object_id","type":"STRING"},
+            "Email":{"description":"Адрес электронной почты","type":"CATALOG"},
+            "Address":{"description":"Адрес","type":"STRING"},
+            "Tariffs":{"description":"Информация о ценах","type":"STRING"},
+            "LocationClarification":{"description":"Уточнение местоположения","type":"STRING"},
+            "global_id":{"description":"global_id","type":"NUMBER"},
+            "ShortName":{"description":"Краткое название","type":"STRING"},
+            "ShortDescription":{"description":"Краткая характеристика","type":"STRING"},
+            "AdmArea":{"description":"Административный округ по адресу","type":"DICTIONARY"},
+            "ContactPhone":{"description":"Контактный телефон","type":"CATALOG"},
+            "Specialization":{"description":"Отрасль","type":"STRING"},
+            "is_deleted":{"description":"is_deleted","type":"NUMBER"},
+            "signature_date":{"description":"signature_date","type":"STRING"},
+            "Year":{"description":"Год создания","type":"INTEGER"},
+            "FullName":{"description":"Полное название","type":"STRING"},
+            "ID":{"description":"Код","type":"INTEGER"},
+            "District":{"description":"Район","type":"DICTIONARY"}
+        },
+        "required":[
+            "is_deleted","global_id"
+        ]
+    }
+}
