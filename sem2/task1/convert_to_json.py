@@ -55,14 +55,10 @@ class Helper():
         schema_converter = {}
         schema_converter["PublicPhone"] = "ContactPhone"
         schema_converter["ShortName"] = "Name"
+        schema_converter["Latitude_WGS84"] = "GeoData"
+        schema_converter["Longitude_WGS84"] = "GeoData"
+        schema_converter["geoData"] = "GeoData"
         return schema_converter
-        
-    def get_schema_types(self):
-        schema_types = {}
-        schema = self.get_target_schema()
-        for key in schema.keys():
-            schema_types[key] = schema[key]["type"]
-        return schema_types
 
 
 class ConvertToJSON(MRJob):
@@ -80,26 +76,20 @@ class ConvertToJSON(MRJob):
     
     def start(self):
         self.helper.split_data()
-        self.start_impl(self.xlsx_json_file, "Бары")
-        self.start_impl(self.xml_json_file, "Коворкинги")
+        self.start_impl(self.xlsx_json_file)
+        self.start_impl(self.xml_json_file)
 
     def end(self):
         self.end_impl(self.xlsx_json_file, self.xlsx_count)
         self.end_impl(self.xml_json_file, self.xml_count)
             
-    def start_impl(self, file, title):
+    def start_impl(self, file):
         with open(file, "w", encoding="utf-8") as json_file:
-            json_file.write("{\n")
-            json_file.write("\t\"description\":\"" + title + "\",\n")
-            json_file.write("\t\"title\":\"" + title + "\",\n")
-            json_file.write("\t\"type\":\"array\",\n")
-            json_file.write("\t\"items\": [\n")
+            json_file.write("{\n\"Заведения\": [\n")
             
     def end_impl(self, file, count):
         with open(file, "a", encoding="utf-8") as json_file:
-            json_file.write("\t{\n\t\t\"count\": " + "\"" + str(count) + "\"\n\t}\n")
-            json_file.write("\t]\n")
-            json_file.write("}\n")
+            json_file.write("\t{\n\t\t\"count\": " + "\"" + str(count) + "\"\n\t}\n]\n}")
     
     def get_target_schema_field(self, name):
         if not name in self.schema_converter.keys():
@@ -113,9 +103,10 @@ class ConvertToJSON(MRJob):
             range_rows.append(word)
         range_rows[0] = int(range_rows[0])
         range_rows[1] = int(range_rows[1])
+        primary_key = "Name" if range_rows[2] == "xlsx" else "ShortName"
         
         for elem in self.generate_mapper(range_rows):
-            yield (range_rows[2], elem["global_id"]), elem
+            yield (range_rows[2], elem[primary_key]), elem
             
     def generate_mapper(self, range):
         if range[2] == "xlsx":
@@ -127,7 +118,8 @@ class ConvertToJSON(MRJob):
         elems = []
         for row in sheet.iter_rows(row_range[0], row_range[1]):
             elem = {}
-            for column in range(1, sheet.max_column + 1):                elem[sheet.cell(row=1,column=column).value] = row[column-1].value
+            for column in range(1, sheet.max_column + 1):
+                elem[sheet.cell(row=1,column=column).value] = row[column-1].value
             elems.append(elem)
         return elems
     
@@ -141,44 +133,77 @@ class ConvertToJSON(MRJob):
                 else:
                     attribs = {}
                     for attrib in list(childchild):
-                        attribs[attrib.tag] = attrib.text
+                        if not attrib.tag in attribs.keys():
+                            attribs[attrib.tag] = [attrib.text]
+                        else:
+                            attribs[attrib.tag].append(attrib.text)
                     elem[childchild.tag] = attribs
             elems.append(elem)
         return elems
 
     def reducer(self, format_key, values):
         file = self.xlsx_json_file if format_key[0] == "xlsx" else self.xml_json_file
-        name = "Bars" if format_key[0] == "xlsx" else "Coworkins"
-        for value in values:
-            with open(file, "a", encoding="utf-8") as json_file:
+        name = "Bar" if format_key[0] == "xlsx" else "Coworking"
+        with open(file, "a", encoding="utf-8") as json_file:
+            for value in values:
                 json_file.write("\t{\n")
-                json_file.write("\t\t\"" + name + "\",\n")
-                json_file.write("\t\t\"description\": {\n")
+                json_file.write("\t\t\"type\": \"" + name + "\",\n")
+                json_file.write("\t\t\"properties\": \n\t\t{\n")
                 keys = list(value.keys())
                 target_keys = []
                 for key in keys:
                     if self.get_target_schema_field(key) in self.target_schema.keys():
                         target_keys.append(key)
                 
+                self.dump_geoData(json_file, target_keys, value, format_key[0])
                 for key in target_keys[:-1]:
                     self.dump(json_file, key, value[key], "\",\n")
                 self.dump(json_file, target_keys[-1], value[target_keys[-1]], "\"\n")
                 json_file.write("\t\t}\n\t},\n")
+                return
             
     def dump(self, json_file, key, value, last):
         if isinstance(value, dict):
             temp_keys = list(value.keys())
-            if self.target_schema[key]["type"] != "DICTIONARY":
-                json_file.write("\t\t\t\"" + self.get_target_schema_field(key) + "\": \"" + value[temp_keys[0]] + "\"\n")
+            if self.target_schema[key]["type"] != "DICTIONARY" or len(value[temp_keys[0]]) == 1:
+                str_value = ""
+                if isinstance(value[temp_keys[0]], list):
+                    str_value = value[temp_keys[0]][0]
+                else:
+                    str_value = value[temp_keys[0]]
+                json_file.write("\t\t\t\"" + self.get_target_schema_field(key) + "\": \"" + str_value.replace('"', "'") + last)
             else:
-                json_file.write("\t\t\t\"" + self.get_target_schema_field(key) + "\": {\n")
+                json_file.write("\t\t\t\"" + self.get_target_schema_field(key) + "\": \n\t\t\t{\n")
                 for k in temp_keys[:-1]:
-                    json_file.write("\t\t\t\t\"" + self.get_target_schema_field(k) + "\": \"" + value[k] +"\",\n")
+                    json_file.write("\t\t\t\t\"" + self.get_target_schema_field(k) + "\": \"" + value[k].replace('"', "'") +"\",\n")
                 if len(temp_keys) > 0:
-                    json_file.write("\t\t\t\t\"" + self.get_target_schema_field(temp_keys[-1]) + "\": \"" + value[temp_keys[-1]] +"\"\n")
+                    if isinstance(value[temp_keys[-1]], list):
+                        json_file.write("\t\t\t\t\"" + self.get_target_schema_field(temp_keys[-1]) + "\": \"" + ",".join(value[temp_keys[-1]]).replace('"', "'") +"\"\n")
+                    else:
+                        json_file.write("\t\t\t\t\"" + self.get_target_schema_field(temp_keys[-1]) + "\": \"" + value[temp_keys[-1]].replace('"', "'") +"\"\n")
                 json_file.write("\t\t\t}\n\t\t},\n")
         else:
-            json_file.write("\t\t\t\"" + self.get_target_schema_field(key) + "\": \"" + value + last)
+            json_file.write("\t\t\t\"" + self.get_target_schema_field(key) + "\": \"" + value.replace('"', "'") + last)
+            
+    def dump_geoData(self, json_file, target_keys, values, format):
+        json_file.write("\t\t\t\"GeoData\": \n\t\t\t{\n")
+        
+        if (format == "xlsx"):
+            if "Latitude_WGS84" in target_keys:
+                json_file.write("\t\t\t\t\"Latitude_WGS84\": \"" + values["Latitude_WGS84"] + "\",\n")
+                target_keys.remove("Latitude_WGS84")
+                    
+            if "Longitude_WGS84" in target_keys:
+                json_file.write("\t\t\t\t\"Longitude_WGS84\": \"" + values["Longitude_WGS84"] + "\"\n")
+                target_keys.remove("Longitude_WGS84")
+
+        if (format == "xml") and "geoData" in target_keys:
+            json_file.write("\t\t\t\t\"Latitude_WGS84\": \"" + values["geoData"]["coordinates"][1] +"\",\n")
+            json_file.write("\t\t\t\t\"Longitude_WGS84\": \"" + values["geoData"]["coordinates"][0] + "\"\n")
+        
+        target_keys.remove("geoData")
+        json_file.write("\t\t\t},\n")
+            
     
     def steps(self):
         return [

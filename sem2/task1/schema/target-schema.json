@@ -1,9 +1,6 @@
 {
-    "minItems":1,
-    "$schema":"http://json-schema.org/draft-04/schema#",
-    "description":"Бары",
-    "title":"Бары",
-    "type":"array",
+    "title":"Заведения",
+    "type":"ARRAY",
     "items":
     {
         "description":"",
@@ -35,15 +32,28 @@
                 "description":"Контактный телефон",
                 "type":"CATALOG"
             },
-            "ID":
-            {
-                "description":"Код",
-                "type":"STRING"
-            },
             "District":
             {
                 "description":"Район",
                 "type":"DICTIONARY"
+            },
+            "GeoData":
+            {
+                "description":"Широта и долгота",
+                "type":"DICTIONARY",
+                "items":
+                {
+                    "Latitude_WGS84":
+                    {
+                        "description":"Широта в WGS-84",
+                        "type":"STRING"
+                    },
+                    "Longitude_WGS84":
+                    {
+                        "description":"Долгота в WGS-84",
+                        "type":"STRING"
+                    }
+                }
             }
         },
         "count":
