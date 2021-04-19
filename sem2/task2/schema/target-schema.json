@@ -1,0 +1,66 @@
+{
+    "title":"Заведения",
+    "type":"ARRAY",
+    "items":
+    {
+        "description":"",
+        "type":"object",
+        "properties":
+        {
+            "Address":
+            {
+                "description":"Адрес",
+                "type":"STRING"
+            },
+            "global_id":
+            {
+                "description":"global_id",
+                "type":"NUMBER"
+            },
+            "Name":
+            {
+                "description":"Наименование",
+                "type":"STRING"
+            },
+            "AdmArea":
+            {
+                "description":"Административный округ по адресу",
+                "type":"DICTIONARY"
+            },
+            "ContactPhone":
+            {
+                "description":"Контактный телефон",
+                "type":"CATALOG"
+            },
+            "District":
+            {
+                "description":"Район",
+                "type":"DICTIONARY"
+            },
+            "GeoData":
+            {
+                "description":"Широта и долгота",
+                "type":"DICTIONARY",
+                "items":
+                {
+                    "Latitude_WGS84":
+                    {
+                        "description":"Широта в WGS-84",
+                        "type":"STRING"
+                    },
+                    "Longitude_WGS84":
+                    {
+                        "description":"Долгота в WGS-84",
+                        "type":"STRING"
+                    }
+                }
+            }
+        },
+        "count":
+        {
+            "description":"Количество заведений",
+            "type":"NUMBER"
+        }
+    }
+}
+
