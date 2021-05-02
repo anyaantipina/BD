@@ -1,2747 +1,2300 @@
 {
-"Заведения": [
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.741796345906245",
-				"Longitude_WGS84": "37.61514636118113"
-			},
-			"Address": "город Москва, улица Большая Полянка, дом 2/10, строение 1",
-			"global_id": "861999917",
-			"Name": "Corporate Innovations Hub by Deworkacy",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(499) 490-14-49",
-			"District": "район Якиманка"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.759600726057",
-				"Longitude_WGS84": "37.610903396606"
-			},
-			"Address": "Москва, ул. Тверская, д. 9",
-			"global_id": "1015095939",
-			"Name": "Deworkacy Women",
-			"District": "Тверской район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.758113742574",
-				"Longitude_WGS84": "37.601749773939"
-			},
-			"Address": "город Москва, Леонтьевский переулок, дом 2А, строение 2",
-			"global_id": "919905352",
-			"Name": "Deworkacy Леонтьевский",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 185-93-52",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.782007423342",
-				"Longitude_WGS84": "37.67033652931"
-			},
-			"Address": "Москва, ул. Русаковская, д. 1",
-			"global_id": "1015095946",
-			"Name": "Deworkacy Русаковская",
-			"District": "Красносельский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.734308038852",
-				"Longitude_WGS84": "37.566853477955"
-			},
-			"Address": "Москва, Большой Саввинский пер., д. 8 стр. 1",
-			"global_id": "1015095962",
-			"Name": "Deworkacy Саввинский",
-			"District": "район Хамовники",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.833751346596",
-				"Longitude_WGS84": "37.354818652719"
-			},
-			"Address": "г. Москва, ул. Пенягинская, д.20, корп.1",
-			"global_id": "933954502",
-			"Name": "Mitwork",
-			"AdmArea": "Северо-Западный административный округ",
-			"ContactPhone": "(925) 713-44-05",
-			"District": "район Митино"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.747423703207",
-				"Longitude_WGS84": "37.581908484301"
-			},
-			"Address": "Москва, Смоленская пл., д. 3",
-			"global_id": "1015095968",
-			"Name": "Regus Cмоленский Пассаж",
-			"District": "район Арбат",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.799077385479",
-				"Longitude_WGS84": "37.532630084773"
-			},
-			"Address": "Москва, Ленинградский пр-кт, д. 47/2",
-			"global_id": "1015095972",
-			"Name": "Regus Авион",
-			"District": "Хорошёвский район",
-			"AdmArea": "Северный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.74670983702",
-				"Longitude_WGS84": "37.538859262466"
-			},
-			"Address": " Москва, Пресненская наб., д. 10",
-			"global_id": "1015095973",
-			"Name": "Regus Башня на набережной",
-			"District": "Пресненский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.728789353537",
-				"Longitude_WGS84": "37.644999009196"
-			},
-			"Address": "Москва, ул. Летниковская, д.2, эт. 4",
-			"global_id": "1015095981",
-			"Name": "Regus Вивальди Плаза",
-			"District": "район Замоскворечье",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.753197278439",
-				"Longitude_WGS84": "37.606282111262"
-			},
-			"Address": "Москва, ул. Воздвиженка, д. 10",
-			"global_id": "1015095998",
-			"Name": "Regus Военторг",
-			"District": "район Арбат",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.773080000234",
-				"Longitude_WGS84": "37.64827729702"
-			},
-			"Address": "Москва, ул. Маши Порываевой, д. 34",
-			"global_id": "1015096001",
-			"Name": "Regus Домников",
-			"District": "Красносельский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.69195535468",
-				"Longitude_WGS84": "37.528505935669"
-			},
-			"Address": "Проспект Вернадского, д. 6",
-			"global_id": "1015096005",
-			"Name": "Regus Капитолий",
-			"District": "район Раменки",
-			"AdmArea": "Западный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.779025462871",
-				"Longitude_WGS84": "37.58694092538"
-			},
-			"Address": "Москва, 4-ый Лесной пер., д. 4",
-			"global_id": "1015096007",
-			"Name": "Regus Лесная Плаза",
-			"District": "Тверской район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.78022450647",
-				"Longitude_WGS84": "37.633771910667"
-			},
-			"Address": "Москва, Проспект Мира, д. 40",
-			"global_id": "1015096012",
-			"Name": "Regus Проспект Мира",
-			"District": "Мещанский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.761972111039",
-				"Longitude_WGS84": "37.657906427383"
-			},
-			"Address": "Москва, ул. Земляной Вал, д. 9, 4-й этаж",
-			"global_id": "1015096016",
-			"Name": "Regus Ситидел",
-			"District": "Басманный район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.762967210763",
-				"Longitude_WGS84": "37.635209772191"
-			},
-			"Address": "ул. Мясницкая, д. 24/7, стр. 3",
-			"global_id": "1015096028",
-			"Name": "Smart Place Inbox",
-			"District": "Басманный район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.712634814482",
-				"Longitude_WGS84": "37.64435963108"
-			},
-			"Address": "город Москва, 2-й Павелецкий проезд, дом 5, строение 1",
-			"global_id": "919905353",
-			"Name": "StanGher coworking",
-			"AdmArea": "Южный административный округ",
-			"ContactPhone": "(499) 647-40-51",
-			"District": "Даниловский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.769147148982",
-				"Longitude_WGS84": "37.591722031267"
-			},
-			"Address": "город Москва, Большая Садовая улица, дом 5, корпус 1",
-			"global_id": "919905356",
-			"Name": "The Coworking",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(499) 110-30-22",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.760085757686504",
-				"Longitude_WGS84": "37.65127704409756"
-			},
-			"Address": "город Москва, Лялин переулок, дом 8, строение 2",
-			"global_id": "861999719",
-			"Name": "Time club «Гнездо»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 212-14-70",
-			"District": "Басманный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.761498844440226",
-				"Longitude_WGS84": "37.637380157027124"
-			},
-			"Address": "город Москва, Архангельский переулок, дом 17, строение 1",
-			"global_id": "861999720",
-			"Name": "Time club «Убежище»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 215-57-14",
-			"District": "Басманный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.778565231734",
-				"Longitude_WGS84": "37.585721054434"
-			},
-			"Address": " Москва, ул. Бутырский Вал, д. 10",
-			"global_id": "1015096030",
-			"Name": "WeWork Белая площадь",
-			"District": "Тверской район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.736114989282",
-				"Longitude_WGS84": "37.611925318241"
-			},
-			"Address": "Москва, ул. Большая Якиманка, д. 26",
-			"global_id": "1015096034",
-			"Name": "WeWork Большая Якиманка",
-			"District": "район Якиманка",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.794437838936",
-				"Longitude_WGS84": "37.543681847057"
-			},
-			"Address": "Москва, Ленинградский пр., д. 37",
-			"global_id": "1015096069",
-			"Name": "WeWork Ленинградский проспект",
-			"District": "Хорошёвский район",
-			"AdmArea": "Северный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.734728760106",
-				"Longitude_WGS84": "37.588533773422"
-			},
-			"Address": "Москва, ул. Тимура Фрунзе, д. 11, стр. 13",
-			"global_id": "1015096070",
-			"Name": "WeWork Тимура Фрунзе",
-			"District": "район Хамовники",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.74090424609445",
-				"Longitude_WGS84": "37.63030125162021"
-			},
-			"Address": "город Москва, Климентовский переулок, дом 6",
-			"global_id": "861999847",
-			"Name": "Антикафе «Happy people»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(977) 801-66-08",
-			"District": "район Замоскворечье"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.78239198185081",
-				"Longitude_WGS84": "37.59876184470155"
-			},
-			"Address": "город Москва, Новослободская улица, дом 20",
-			"global_id": "861999716",
-			"Name": "Антикафе «Кругозор»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(925) 140-60-35",
-			"District": "Тверской район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.767430864098",
-				"Longitude_WGS84": "37.631393126704"
-			},
-			"Address": "город Москва, улица Сретенка, дом 7",
-			"global_id": "861999864",
-			"Name": "Антикафе «Нулевой километр»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 621-38-83",
-			"District": "Мещанский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.753717134769",
-				"Longitude_WGS84": "37.637219521843"
-			},
-			"Address": "город Москва, улица Солянка, дом 4, строение 4",
-			"global_id": "919905425",
-			"Name": "Антикафе-коворкинг Свой Ключ",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 662-99-02",
-			"District": "Таганский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.759564410280404",
-				"Longitude_WGS84": "37.58973390059504"
-			},
-			"Address": "город Москва, Гранатный переулок, дом 9",
-			"global_id": "861999855",
-			"Name": "Архитектурный Коворкинг",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 690-38-38",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.74703654570297",
-				"Longitude_WGS84": "37.581585675144346"
-			},
-			"Address": "город Москва, 2-й Смоленский переулок, дом 1/4",
-			"global_id": "861999797",
-			"Name": "Бизнес-коворкинг «Рулекс»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 357-21-20",
-			"District": "район Арбат"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.749523837273905",
-				"Longitude_WGS84": "37.53714599389657"
-			},
-			"Address": "город Москва, Пресненская набережная, дом 12",
-			"global_id": "861999885",
-			"Name": "Бизнес-коворкинг в Москва-Сити «Self-Made»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 669-93-43",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.740600394016475",
-				"Longitude_WGS84": "37.609307370086164"
-			},
-			"Address": "город Москва, Берсеневская набережная, дом 6, строение 3",
-			"global_id": "861999758",
-			"Name": "Деловое пространство Deworkacy «Красный октябрь»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(499) 490-14-49",
-			"District": "район Якиманка"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.75538062264509",
-				"Longitude_WGS84": "37.56288296889308"
-			},
-			"ContactPhone": "(495) 229-35-99",
-			"Address": "город Москва, Рочдельская улица, дом 15, строение 21",
-			"global_id": "861999944",
-			"Name": "Клубное пространство «Millami Space»",
-			"District": "Пресненский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.726889962320925",
-				"Longitude_WGS84": "37.57970774751588"
-			},
-			"Address": "город Москва, Комсомольский проспект, дом 28",
-			"global_id": "861999699",
-			"Name": "Клубный офис и коворкинг «Деловар»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 177-01-23",
-			"District": "район Хамовники"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.805302155248775",
-				"Longitude_WGS84": "37.58515292616138"
-			},
-			"Address": "город Москва, Большая Новодмитровская улица, дом 36, строение 2",
-			"global_id": "861999860",
-			"Name": "Коворкафе",
-			"AdmArea": "Северо-Восточный административный округ",
-			"ContactPhone": "(495) 646-84-89",
-			"District": "Бутырский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.998980537849",
-				"Longitude_WGS84": "37.223694442681"
-			},
-			"Address": "город Москва, город Зеленоград, улица Юности, дом 8",
-			"global_id": "919992938",
-			"Name": "Коворкинг - центр Technounity",
-			"AdmArea": "Зеленоградский административный округ",
-			"ContactPhone": "(965) 332-03-70",
-			"District": "район Савёлки"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.760176990763",
-				"Longitude_WGS84": "37.622487673182"
-			},
-			"Address": "город Москва, Театральный проезд, дом 3, строение 4",
-			"global_id": "919992942",
-			"Name": "Коворкинг AirLab",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(499) 647-70-51",
-			"District": "Мещанский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.776241168236",
-				"Longitude_WGS84": "37.675371679067"
-			},
-			"Address": "город Москва, Бауманская улица, дом 6, строение 2",
-			"global_id": "919992955",
-			"Name": "Коворкинг AtWork",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(903) 798-18-80",
-			"District": "Басманный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.723500791522",
-				"Longitude_WGS84": "37.651768643052"
-			},
-			"Address": "город Москва, Дербеневская набережная, дом 7, строение 12",
-			"global_id": "919992959",
-			"Name": "Коворкинг BLOK",
-			"AdmArea": "Южный административный округ",
-			"ContactPhone": "(495) 727-20-12",
-			"District": "Даниловский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.74866070024",
-				"Longitude_WGS84": "37.540307220946"
-			},
-			"Address": "город Москва, Пресненская набережная, дом 6, строение 2",
-			"global_id": "919992964",
-			"Name": "Коворкинг CEO Roooms Empire 8",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 154-90-12",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.79640740462",
-				"Longitude_WGS84": "37.580020442009"
-			},
-			"Address": "Москва, ул. Вятская, д. 27, стр. 7",
-			"global_id": "1015096075",
-			"Name": "Коворкинг Collider",
-			"District": "Савёловский район",
-			"AdmArea": "Северный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.702950095117",
-				"Longitude_WGS84": "37.648460826752"
-			},
-			"Address": "город Москва, Автозаводская улица, дом 23А, корпус 2",
-			"global_id": "919992976",
-			"Name": "Коворкинг Cowor nik g",
-			"AdmArea": "Южный административный округ",
-			"ContactPhone": "(495) 665-96-60",
-			"District": "Даниловский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.737437788387",
-				"Longitude_WGS84": "37.636667343179"
-			},
-			"Address": "город Москва, Большая Татарская улица, дом 35, строение 7-9",
-			"global_id": "919992980",
-			"Name": "Коворкинг Force.place",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 626-43-53",
-			"District": "район Замоскворечье"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.729369140896",
-				"Longitude_WGS84": "37.645349550476"
-			},
-			"Address": "город Москва, Кожевническая улица, дом 10, строение 1",
-			"global_id": "919992990",
-			"Name": "Коворкинг FreeDom Павелецкая",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(901) 723-70-57",
-			"District": "район Замоскворечье"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.670347958832",
-				"Longitude_WGS84": "37.552521720813"
-			},
-			"Address": "город Москва, Профсоюзная улица, дом 56",
-			"global_id": "919992994",
-			"Name": "Коворкинг FreeDom Профсоюзная",
-			"AdmArea": "Юго-Западный административный округ",
-			"ContactPhone": "(901) 753-70-57",
-			"District": "Обручевский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.654279976447",
-				"Longitude_WGS84": "37.555938291313"
-			},
-			"Address": "город Москва, Научный проезд, дом 17",
-			"global_id": "919993097",
-			"Name": "Коворкинг Great Work",
-			"AdmArea": "Юго-Западный административный округ",
-			"ContactPhone": "(495) 970-94-22",
-			"District": "район Черёмушки"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.820216621181",
-				"Longitude_WGS84": "37.388366702052"
-			},
-			"Address": "город Москва, Международная улица, дом 15",
-			"global_id": "919993191",
-			"Name": "Коворкинг Meeting Point ТРК VEGAS в Крокус-Сити",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 021-28-88",
-			"District": "Таганский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.716723724256",
-				"Longitude_WGS84": "37.602031885526"
-			},
-			"Address": "город Москва, Малая Калужская улица, дом 15, строение 1",
-			"global_id": "919993331",
-			"Name": "Коворкинг RED FACTORY",
-			"AdmArea": "Южный административный округ",
-			"ContactPhone": "(495) 108-69-30",
-			"District": "Донской район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.788234380721",
-				"Longitude_WGS84": "37.567936369356"
-			},
-			"Address": "город Москва, Ленинградский проспект, дом 36, строение 11",
-			"global_id": "919993726",
-			"Name": "Коворкинг SOK Арена Парк",
-			"AdmArea": "Северный административный округ",
-			"District": "район Аэропорт"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.762295977185",
-				"Longitude_WGS84": "37.656664216335"
-			},
-			"Address": "город Москва, улица Земляной Вал, дом 8",
-			"global_id": "919993727",
-			"Name": "Коворкинг SOK Земляной Вал",
-			"AdmArea": "Центральный административный округ",
-			"District": "Басманный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.768596557402",
-				"Longitude_WGS84": "37.592069807008"
-			},
-			"Address": "город Москва, Большая Садовая улица, дом 5, корпус 1",
-			"global_id": "919993728",
-			"Name": "Коворкинг SOK Сады Пекина",
-			"AdmArea": "Центральный административный округ",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.749490446514",
-				"Longitude_WGS84": "37.53760343566"
-			},
-			"Address": "город Москва, Пресненская набережная, дом 12",
-			"global_id": "919993332",
-			"Name": "Коворкинг SREDA",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 118-39-37",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.773415681481",
-				"Longitude_WGS84": "37.631644546712"
-			},
-			"Address": "город Москва, Малая Сухаревская площадь, дом 5",
-			"global_id": "919993335",
-			"Name": "Коворкинг WORK N SODA",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(499) 647-95-95",
-			"District": "Мещанский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.749523837273905",
-				"Longitude_WGS84": "37.53714599389657"
-			},
-			"ContactPhone": "(495) 191-14-76",
-			"Address": "город Москва, Пресненская набережная, дом 12",
-			"global_id": "861999934",
-			"Name": "Коворкинг WORKKI Moscow City",
-			"District": "Пресненский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.716766807901",
-				"Longitude_WGS84": "37.602342818238"
-			},
-			"Address": "город Москва, Донская улица, дом 33",
-			"global_id": "919993334",
-			"Name": "Коворкинг Wishnya",
-			"AdmArea": "Южный административный округ",
-			"ContactPhone": "(495) 108-69-39",
-			"District": "Донской район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.633949273294",
-				"Longitude_WGS84": "37.443199312809"
-			},
-			"Address": "город Москва, поселение Московский, Киевское шоссе, 22-й километр, домовладение 4, строение 1",
-			"global_id": "919993336",
-			"Name": "Коворкинг Work Space",
-			"AdmArea": "Новомосковский административный округ",
-			"ContactPhone": "(495) 023-46-57",
-			"District": "поселение Московский"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.770957072692",
-				"Longitude_WGS84": "37.65563023709"
-			},
-			"Address": "город Москва, Новорязанская улица, дом 8",
-			"global_id": "919993341",
-			"Name": "Коворкинг Workki Komsomolskaya",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 252-50-05",
-			"District": "Красносельский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.68634265607758",
-				"Longitude_WGS84": "37.62065212155141"
-			},
-			"Address": "город Москва, Варшавское шоссе, дом 26, строение 12",
-			"global_id": "861999905",
-			"Name": "Коворкинг «Antareslab»",
-			"AdmArea": "Южный административный округ",
-			"ContactPhone": "(910) 435-40-48",
-			"District": "Нагорный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.75936689185348",
-				"Longitude_WGS84": "37.66469744770028"
-			},
-			"Address": "город Москва, Нижний Сусальный переулок, дом 5, строение 17",
-			"global_id": "861999701",
-			"Name": "Коворкинг «Arma Coworking»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 755-42-24",
-			"District": "Басманный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.63777309559634",
-				"Longitude_WGS84": "37.456997047774394"
-			},
-			"ContactPhone": "(495) 154-90-33",
-			"Address": "город Москва, поселение Московский, Киевское шоссе, 22-й километр, домовладение 6, строение 1",
-			"global_id": "861999937",
-			"Name": "Коворкинг «CEO Rooms» COMCITY",
-			"District": "поселение Московский",
-			"AdmArea": "Новомосковский административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.74827281918787",
-				"Longitude_WGS84": "37.54089194478386"
-			},
-			"Address": "город Москва, Пресненская набережная, дом 6, строение 2",
-			"global_id": "861999880",
-			"Name": "Коворкинг «CEO Rooms»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 249-90-90",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.75863713844051",
-				"Longitude_WGS84": "37.629771641509905"
-			},
-			"Address": "город Москва, Лубянский проезд, дом 5, строение 1",
-			"global_id": "861999744",
-			"Name": "Коворкинг «CheckPoint» Лубянка",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(499) 394-27-75",
-			"District": "Басманный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.76359607424006",
-				"Longitude_WGS84": "37.63456871995511"
-			},
-			"Address": "город Москва, Мясницкая улица, дом 17, строение 2",
-			"global_id": "861999751",
-			"Name": "Коворкинг «CheckPoint» Чистые пруды",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(499) 394-27-75",
-			"District": "Красносельский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.757973549796574",
-				"Longitude_WGS84": "37.611068237888695"
-			},
-			"Address": "город Москва, Тверская улица, дом 7",
-			"global_id": "861999698",
-			"Name": "Коворкинг «DI Telegraph»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 580-35-21",
-			"District": "Тверской район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.80534314740488",
-				"Longitude_WGS84": "37.58629391945307"
-			},
-			"Address": "город Москва, Большая Новодмитровская улица, дом 36, строение 24",
-			"global_id": "861999902",
-			"Name": "Коворкинг «DIY Академия Bosch»",
-			"AdmArea": "Северо-Восточный административный округ",
-			"ContactPhone": "(925) 258-81-20",
-			"District": "Бутырский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.7566408325061",
-				"Longitude_WGS84": "37.67571932295079"
-			},
-			"Address": "город Москва, Самокатная улица, дом 4, строение 13",
-			"global_id": "861999766",
-			"Name": "Коворкинг «FashionTL»",
-			"AdmArea": "Юго-Восточный административный округ",
-			"ContactPhone": "(495) 740-52-94",
-			"District": "район Лефортово"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.675881774571046",
-				"Longitude_WGS84": "37.61312393935202"
-			},
-			"ContactPhone": "(926) 891-23-71",
-			"Address": "город Москва, Электролитный проезд, дом 3Б, строение 6",
-			"global_id": "861999929",
-			"Name": "Коворкинг «Goodini. Space»",
-			"District": "Нагорный район",
-			"AdmArea": "Южный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.768183725951424",
-				"Longitude_WGS84": "37.680588545700296"
-			},
-			"ContactPhone": "(495) 787-68-38",
-			"Address": "город Москва, Бауманская улица, дом 53, строение 1",
-			"global_id": "861999920",
-			"Name": "Коворкинг «Gravity Coworking Space»",
-			"District": "Басманный район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.815318595078715",
-				"Longitude_WGS84": "37.512686574836046"
-			},
-			"ContactPhone": "(495) 877-50-42",
-			"Address": "город Москва, улица Космонавта Волкова, дом 6А",
-			"global_id": "861999943",
-			"Name": "Коворкинг «GrowUp Москва»",
-			"District": "Войковский район",
-			"AdmArea": "Северный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.80748869477065",
-				"Longitude_WGS84": "37.50535644666311"
-			},
-			"Address": "город Москва, Волоколамское шоссе, владение 1, сооружение Б/Н",
-			"global_id": "861999876",
-			"Name": "Коворкинг «Hydrocowork»",
-			"AdmArea": "Северный административный округ",
-			"ContactPhone": "(925) 168-55-99",
-			"District": "район Сокол"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.7076300518577",
-				"Longitude_WGS84": "37.688528177952286"
-			},
-			"Address": "город Москва, Южнопортовая улица, владение 5, строение 1",
-			"global_id": "861999890",
-			"Name": "Коворкинг «IQ OFFICE»",
-			"AdmArea": "Юго-Восточный административный округ",
-			"ContactPhone": "(958) 100-86-24",
-			"District": "район Печатники"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.75595706173622",
-				"Longitude_WGS84": "37.64322750239147"
-			},
-			"Address": "город Москва, Хохловский переулок, дом 7-9, строение 2",
-			"global_id": "861999782",
-			"Name": "Коворкинг «Impact Hub Moscow»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(985) 020-11-43",
-			"District": "Басманный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.71223123156073",
-				"Longitude_WGS84": "37.62630315095879"
-			},
-			"Address": "город Москва, Павловская улица, дом 18",
-			"global_id": "861999696",
-			"Name": "Коворкинг «Lerner»",
-			"AdmArea": "Южный административный округ",
-			"ContactPhone": "(499) 951-07-28",
-			"District": "Даниловский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.78407318836623",
-				"Longitude_WGS84": "37.59961537563346"
-			},
-			"ContactPhone": "(999) 989-15-18",
-			"Address": "город Москва, улица Палиха, дом 8, строение 2",
-			"global_id": "861999924",
-			"Name": "Коворкинг «LittleBig»",
-			"District": "Тверской район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.77868130245718",
-				"Longitude_WGS84": "37.58802732740929"
-			},
-			"ContactPhone": "(495) 228-28-80",
-			"Address": "город Москва, Лесная улица, дом 7",
-			"global_id": "861999939",
-			"Name": "Коворкинг «Meeting Point White Gardens»",
-			"District": "Тверской район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.756737514266135",
-				"Longitude_WGS84": "37.61732067320065"
-			},
-			"Address": "город Москва, улица Охотный Ряд, дом 2",
-			"global_id": "861999718",
-			"Name": "Коворкинг «Meeting Point»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 228-28-80",
-			"District": "Тверской район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.761894187684",
-				"Longitude_WGS84": "37.61966577280948"
-			},
-			"Address": "город Москва, улица Кузнецкий Мост, дом 7, строение 3",
-			"global_id": "861999722",
-			"Name": "Коворкинг «Meettroom»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 363-40-46",
-			"District": "Тверской район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.68132389899929",
-				"Longitude_WGS84": "37.59018119538906"
-			},
-			"ContactPhone": "(910) 420-66-34",
-			"Address": "город Москва, улица Дмитрия Ульянова, дом 42",
-			"global_id": "861999942",
-			"Name": "Коворкинг «NAZAVOD»",
-			"District": "район Котловка",
-			"AdmArea": "Юго-Западный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.7078449523622",
-				"Longitude_WGS84": "37.72416877494298"
-			},
-			"Address": "город Москва, Волгоградский проспект, дом 42, корпус 5",
-			"global_id": "861999915",
-			"Name": "Коворкинг «Next 2. 0»",
-			"AdmArea": "Юго-Восточный административный округ",
-			"ContactPhone": "(800) 700-20-18",
-			"District": "район Печатники"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.749523837273905",
-				"Longitude_WGS84": "37.53714599389657"
-			},
-			"Address": "город Москва, Пресненская набережная, дом 12",
-			"global_id": "861999966",
-			"Name": "Коворкинг «Office 24 7»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(499) 490-13-17",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.77310633501508",
-				"Longitude_WGS84": "37.5883142040054"
-			},
-			"ContactPhone": "(495) 177-94-59",
-			"Address": "город Москва, 1-я Брестская улица, дом 35",
-			"global_id": "861999927",
-			"Name": "Коворкинг «OfficeCube Belka»",
-			"District": "Тверской район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.725301441848536",
-				"Longitude_WGS84": "37.760304132799"
-			},
-			"ContactPhone": "(916) 151-18-81",
-			"Address": "город Москва, Рязанский проспект, дом 10, строение 18",
-			"global_id": "861999941",
-			"Name": "Коворкинг «PROMZONA»",
-			"District": "Рязанский район",
-			"AdmArea": "Юго-Восточный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.72541843219553",
-				"Longitude_WGS84": "37.761642126112925"
-			},
-			"ContactPhone": "(925) 534-47-36",
-			"Address": "город Москва, Рязанский проспект, дом 10, строение 18",
-			"global_id": "861999936",
-			"Name": "Коворкинг «Place of Work»",
-			"District": "Рязанский район",
-			"AdmArea": "Юго-Восточный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.74476618145009",
-				"Longitude_WGS84": "37.63606830026075"
-			},
-			"ContactPhone": "(495) 663-63-87",
-			"Address": "город Москва, Садовническая улица, дом 42, строение 6",
-			"global_id": "861999940",
-			"Name": "Коворкинг «Space-U»",
-			"District": "район Замоскворечье",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.815551554907344",
-				"Longitude_WGS84": "37.51836454580623"
-			},
-			"Address": "город Москва, улица Космонавта Волкова, дом 12",
-			"global_id": "861999878",
-			"Name": "Коворкинг «The moon»",
-			"AdmArea": "Северный административный округ",
-			"ContactPhone": "(499) 322-75-54",
-			"District": "Войковский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.7413960889584",
-				"Longitude_WGS84": "37.652525129084744"
-			},
-			"ContactPhone": "(495) 363-53-89",
-			"Address": "город Москва, 1-й Гончарный переулок, дом 3, строение 4",
-			"global_id": "861999813",
-			"Name": "Коворкинг «Union Place»",
-			"District": "Таганский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.6501634392358",
-				"Longitude_WGS84": "37.54064781517923"
-			},
-			"Address": "город Москва, улица Бутлерова, дом 17",
-			"global_id": "861999889",
-			"Name": "Коворкинг «WORKKI»",
-			"AdmArea": "Юго-Западный административный округ",
-			"ContactPhone": "(495) 252-50-05",
-			"District": "район Коньково"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.76706520971246",
-				"Longitude_WGS84": "37.611921931735225"
-			},
-			"Address": "город Москва, Страстной бульвар, дом 12, строение 1",
-			"global_id": "861999839",
-			"Name": "Коворкинг «Yellow Door»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 966-15-40",
-			"District": "Тверской район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.73959212818931",
-				"Longitude_WGS84": "37.64843811324017"
-			},
-			"ContactPhone": "(495) 177-75-25",
-			"Address": "город Москва, Гончарная набережная, дом 1, строение 4",
-			"global_id": "861999938",
-			"Name": "Коворкинг «Адвокатский дом на Гончарной»",
-			"District": "Таганский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.66386055525951",
-				"Longitude_WGS84": "37.51137228742382"
-			},
-			"Address": "город Москва, Ленинский проспект, дом 109",
-			"global_id": "861999892",
-			"Name": "Коворкинг «Атмосфера»",
-			"AdmArea": "Юго-Западный административный округ",
-			"ContactPhone": "(495) 419-50-60",
-			"District": "Обручевский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.798293332863174",
-				"Longitude_WGS84": "37.71001802815438"
-			},
-			"Address": "город Москва, 1-я улица Бухвостова, дом 12/11, корпус 16",
-			"global_id": "861999857",
-			"Name": "Коворкинг «Дар труда»",
-			"AdmArea": "Восточный административный округ",
-			"ContactPhone": "(495) 120-04-96",
-			"District": "район Преображенское"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.81747758982565",
-				"Longitude_WGS84": "37.65574277221727"
-			},
-			"ContactPhone": "(495) 988-07-34",
-			"Address": "город Москва, Ракетный бульвар, дом 16",
-			"global_id": "862000082",
-			"Name": "Коворкинг «Деловой» бизнес-центр «Алексеевская Башня»",
-			"District": "Алексеевский район",
-			"AdmArea": "Северо-Восточный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.75922988515114",
-				"Longitude_WGS84": "37.66576643972191"
-			},
-			"ContactPhone": "(495) 988-07-36",
-			"Address": "город Москва, Нижний Сусальный переулок, дом 5, строение 19",
-			"global_id": "862000084",
-			"Name": "Коворкинг «Деловой» бизнес-центре «Арма»",
-			"District": "Басманный район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.75438219763968",
-				"Longitude_WGS84": "37.62502757660091"
-			},
-			"Address": "город Москва, улица Ильинка, дом 4",
-			"global_id": "862000083",
-			"Name": "Коворкинг «Деловой» бизнес-центре «Гостиный Двор»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 988-07-31",
-			"District": "Тверской район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.70836629514009",
-				"Longitude_WGS84": "37.65276640847173"
-			},
-			"Address": "город Москва, улица Ленинская Слобода, дом 19",
-			"global_id": "862000081",
-			"Name": "Коворкинг «Деловой» в бизнес-центре «Омега Плаза»",
-			"AdmArea": "Южный административный округ",
-			"ContactPhone": "(495) 988-07-32",
-			"District": "Даниловский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.75435735924481",
-				"Longitude_WGS84": "37.60186071332325"
-			},
-			"Address": "город Москва, Калашный переулок, дом 2/10, строение 3",
-			"global_id": "861999859",
-			"Name": "Коворкинг «ДомЖур»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 691-64-61",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.80559085933793",
-				"Longitude_WGS84": "37.627598678710896"
-			},
-			"Address": "город Москва, улица Годовикова, дом 9, строение 4",
-			"global_id": "861999727",
-			"Name": "Коворкинг «Калибр»",
-			"AdmArea": "Северо-Восточный административный округ",
-			"ContactPhone": "(495) 730-32-61",
-			"District": "Останкинский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.76891909288905",
-				"Longitude_WGS84": "37.62701388127012"
-			},
-			"ContactPhone": "(495) 623-66-90",
-			"Address": "город Москва, Пушкарёв переулок, дом 5",
-			"global_id": "861999921",
-			"Name": "Коворкинг «Клуб ARTechnology»",
-			"District": "Мещанский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.75922988515114",
-				"Longitude_WGS84": "37.66576643972191"
-			},
-			"Address": "город Москва, Нижний Сусальный переулок, дом 5, строение 4",
-			"global_id": "861999895",
-			"Name": "Коворкинг «Ключ Арма»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 955-90-23",
-			"District": "Басманный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.70026554674971",
-				"Longitude_WGS84": "37.623868405300655"
-			},
-			"Address": "город Москва, Варшавское шоссе, дом 9, строение 1Б",
-			"global_id": "861999900",
-			"Name": "Коворкинг «Ключ Даниловсая»",
-			"AdmArea": "Южный административный округ",
-			"ContactPhone": "(495) 955-90-23",
-			"District": "Донской район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.76316539177985",
-				"Longitude_WGS84": "37.58916798186033"
-			},
-			"Address": "город Москва, Ермолаевский переулок, дом 22-26, строение 1",
-			"global_id": "861999899",
-			"Name": "Коворкинг «Ключ Патриаршие»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 955-90-23",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.755405618186096",
-				"Longitude_WGS84": "37.56352096577234"
-			},
-			"Address": "город Москва, Рочдельская улица, дом 15, строение 17-18",
-			"global_id": "861999898",
-			"Name": "Коворкинг «Ключ Трехгорка»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 955-90-23",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.732891768106484",
-				"Longitude_WGS84": "37.56220848253127"
-			},
-			"Address": "город Москва, Большой Саввинский переулок, дом 12, строение 8",
-			"global_id": "861999887",
-			"Name": "Коворкинг «Ключ Шелк»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 955-90-23",
-			"District": "район Хамовники"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.7634640784525",
-				"Longitude_WGS84": "37.634074720532325"
-			},
-			"Address": "город Москва, Мясницкая улица, дом 13, строение 20",
-			"global_id": "861999914",
-			"Name": "Коворкинг «Лаба»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(916) 706-54-42",
-			"District": "Красносельский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.77222510008357",
-				"Longitude_WGS84": "37.6229529785283"
-			},
-			"Address": "город Москва, Цветной бульвар, дом 30, строение 1",
-			"global_id": "861999863",
-			"Name": "Коворкинг «Мир»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(916) 651-05-10",
-			"District": "Мещанский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.984036612056016",
-				"Longitude_WGS84": "37.21457702592952"
-			},
-			"Address": "город Москва, город Зеленоград, Георгиевский проспект, дом 5, строение 1",
-			"global_id": "861999875",
-			"Name": "Коворкинг «Научный Центр»",
-			"AdmArea": "Зеленоградский административный округ",
-			"ContactPhone": "(925) 546-55-68",
-			"District": "район Старое Крюково"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.846331411178184",
-				"Longitude_WGS84": "37.655500405399664"
-			},
-			"ContactPhone": "(495) 191-36-09",
-			"Address": "город Москва, проезд Серебрякова, дом 12, строение 1",
-			"global_id": "861999865",
-			"Name": "Коворкинг «ОАК24»",
-			"District": "район Свиблово",
-			"AdmArea": "Северо-Восточный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.8263376591936",
-				"Longitude_WGS84": "37.63775007287301"
-			},
-			"Address": "город Москва, проспект Мира, дом 119, строение 47",
-			"global_id": "861999867",
-			"Name": "Коворкинг «Открытая столярная мастерская СМ-47»",
-			"AdmArea": "Северо-Восточный административный округ",
-			"ContactPhone": "(926) 492-23-31",
-			"District": "Останкинский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.662198938022215",
-				"Longitude_WGS84": "37.74613584367461"
-			},
-			"ContactPhone": "(495) 221-87-35",
-			"Address": "город Москва, улица Верхние Поля, дом 10",
-			"global_id": "861999928",
-			"Name": "Коворкинг «Офис-у-Дома» Верхние Поля 10",
-			"District": "район Марьино",
-			"AdmArea": "Юго-Восточный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.794898334370025",
-				"Longitude_WGS84": "37.712874936594076"
-			},
-			"ContactPhone": "(495) 640-24-77",
-			"Address": "город Москва, Преображенская площадь, дом 8",
-			"global_id": "861999891",
-			"Name": "Коворкинг «Прео 8»",
-			"District": "район Преображенское",
-			"AdmArea": "Восточный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.80302017906729",
-				"Longitude_WGS84": "37.58381488411647"
-			},
-			"Address": "город Москва, Бутырская улица, дом 23, строение 2",
-			"global_id": "861999866",
-			"Name": "Коворкинг «Рабочая Станция» Plaza",
-			"AdmArea": "Северный административный округ",
-			"ContactPhone": "(495) 150-01-17",
-			"District": "Савёловский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.75197089385731",
-				"Longitude_WGS84": "37.671012249348344"
-			},
-			"Address": "город Москва, Нижняя Сыромятническая улица, дом 10, строение 2",
-			"global_id": "861999681",
-			"Name": "Коворкинг «Рабочая станция» ARTPLAY",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 150-01-17",
-			"District": "Басманный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.710671141669",
-				"Longitude_WGS84": "37.583455975827"
-			},
-			"Address": "город Москва, Ленинский проспект, дом 30",
-			"global_id": "861999679",
-			"Name": "Коворкинг «Рабочая станция» Парк Горького",
-			"AdmArea": "Южный административный округ",
-			"ContactPhone": "(495) 150-01-17",
-			"District": "Донской район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.79106668560018",
-				"Longitude_WGS84": "37.80972127202416"
-			},
-			"Address": "город Москва, Нижняя Первомайская улица, дом 48/9",
-			"global_id": "861999913",
-			"Name": "Коворкинг «Рекорд»",
-			"AdmArea": "Восточный административный округ",
-			"ContactPhone": "(499) 702-01-07",
-			"District": "район Восточное Измайлово"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.76305406257411",
-				"Longitude_WGS84": "37.63677769469222"
-			},
-			"Address": "город Москва, Мясницкая улица, владение 24/7, строение 2/3",
-			"global_id": "861999877",
-			"Name": "Коворкинг «Розетка и кофе»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(967) 115-09-94",
-			"District": "Басманный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.77325770146278",
-				"Longitude_WGS84": "37.679546662725265"
-			},
-			"Address": "город Москва, Электрозаводская улица, дом 21",
-			"global_id": "861999948",
-			"Name": "Коворкинг «СОШЬЮ»",
-			"AdmArea": "Восточный административный округ",
-			"ContactPhone": "(906) 719-69-26",
-			"District": "район Преображенское"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.682749975226486",
-				"Longitude_WGS84": "37.61798356024735"
-			},
-			"Address": "город Москва, Варшавское шоссе, дом 28А",
-			"global_id": "861999695",
-			"Name": "Коворкинг «Свободное плавание»",
-			"AdmArea": "Южный административный округ",
-			"ContactPhone": "(499) 426-06-26",
-			"District": "Нагорный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.76162117914728",
-				"Longitude_WGS84": "37.62118375665728"
-			},
-			"ContactPhone": "(926) 707-81-09",
-			"Address": "город Москва, улица Кузнецкий Мост, дом 12/3, строение 1",
-			"global_id": "861999923",
-			"Name": "Коворкинг «Софт Культуры»",
-			"District": "Мещанский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.78170820469167",
-				"Longitude_WGS84": "37.59942732574871"
-			},
-			"ContactPhone": "(499) 130-62-42",
-			"Address": "город Москва, Новослободская улица, дом 16",
-			"global_id": "861999935",
-			"Name": "Коворкинг «Таблица»",
-			"District": "Тверской район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.75825248405811",
-				"Longitude_WGS84": "37.580255927923986"
-			},
-			"ContactPhone": "(495) 690-91-29",
-			"Address": "город Москва, Малый Конюшковский переулок, дом 2",
-			"global_id": "861999926",
-			"Name": "Коворкинг «Точка кипения»",
-			"District": "Пресненский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.92162377860675",
-				"Longitude_WGS84": "37.53498477412825"
-			},
-			"Address": "город Москва, Долгопрудненское шоссе, дом 3",
-			"global_id": "862000210",
-			"Name": "Коворкинг «Физтехпарка»",
-			"AdmArea": "Северо-Восточный административный округ",
-			"ContactPhone": "(495) 114-50-12",
-			"District": "район Северный"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.759017032281804",
-				"Longitude_WGS84": "37.644728559413394"
-			},
-			"Address": "город Москва, улица Кузнецкий Мост, дом 19, строение 1",
-			"global_id": "861999869",
-			"Name": "Коворкинг «Циферблат» Кузнецкий мост",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(962) 964-67-86",
-			"District": "Мещанский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.76340926005694",
-				"Longitude_WGS84": "37.60795187446296"
-			},
-			"Address": "город Москва, Тверская улица, дом 12, строение 1",
-			"global_id": "861999870",
-			"Name": "Коворкинг «Циферблат» Тверская",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(965) 447-62-99",
-			"District": "Тверской район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.76286209147102",
-				"Longitude_WGS84": "37.63276271496333"
-			},
-			"Address": "город Москва, Мясницкая улица, дом 13, строение 18",
-			"global_id": "861999912",
-			"Name": "Коворкинг «tceh»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(499) 647-51-02",
-			"District": "Красносельский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.711342077777",
-				"Longitude_WGS84": "37.896895759957"
-			},
-			"Address": "город Москва, улица Дмитриевского, дом 23, корпус 1",
-			"global_id": "919993342",
-			"Name": "Коворкинг Абитуриент",
-			"AdmArea": "Восточный административный округ",
-			"ContactPhone": "(916) 470-42-08",
-			"District": "район Косино-Ухтомский"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.706215552743",
-				"Longitude_WGS84": "37.772379429634"
-			},
-			"Address": "город Москва, Волгоградский проспект, дом 135, корпус 3",
-			"global_id": "919993343",
-			"Name": "Коворкинг ВДВУХШАГАХ",
-			"District": "район Кузьминки",
-			"AdmArea": "Юго-Восточный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.766262997253",
-				"Longitude_WGS84": "37.580911693039"
-			},
-			"Address": "город Москва, Большая Грузинская улица, дом 30А, строение 1",
-			"global_id": "919993344",
-			"Name": "Коворкинг Грузинка 30",
-			"District": "Пресненский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.782781551712",
-				"Longitude_WGS84": "37.717718149701"
-			},
-			"Address": "город Москва, Семёновская площадь, дом 1А",
-			"global_id": "919993345",
-			"Name": "Коворкинг ИнноЦентр",
-			"AdmArea": "Восточный административный округ",
-			"District": "район Соколиная Гора"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.74950405024",
-				"Longitude_WGS84": "37.53707202744"
-			},
-			"Address": "город Москва, Пресненская набережная, дом 12",
-			"global_id": "919993376",
-			"Name": "Коворкинг Коммуна сити",
-			"AdmArea": "Центральный административный округ",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.795806129592",
-				"Longitude_WGS84": "37.782855492713"
-			},
-			"Address": "город Москва, 3-я Парковая улица, дом 26/2",
-			"global_id": "919993390",
-			"Name": "Коворкинг Мама работает Измайловская",
-			"AdmArea": "Восточный административный округ",
-			"District": "район Измайлово"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.718307804802",
-				"Longitude_WGS84": "37.79318800035"
-			},
-			"Address": "город Москва, 4-й Вешняковский проезд, дом 1, корпус 1",
-			"global_id": "919993397",
-			"Name": "Коворкинг Мама работает Рязанский проспект",
-			"AdmArea": "Юго-Восточный административный округ",
-			"District": "Рязанский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.845583447202",
-				"Longitude_WGS84": "37.431349691427"
-			},
-			"Address": "город Москва, Аэродромная улица, дом 6",
-			"global_id": "919993409",
-			"Name": "Коворкинг Мама работает Сходненская",
-			"AdmArea": "Северо-Западный административный округ",
-			"District": "район Южное Тушино"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.801660424066",
-				"Longitude_WGS84": "37.468287349962"
-			},
-			"Address": "город Москва, улица Маршала Новикова, дом 5",
-			"global_id": "919993417",
-			"Name": "Коворкинг Мама работает Щукинская",
-			"District": "район Щукино",
-			"AdmArea": "Северо-Западный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.671061829585",
-				"Longitude_WGS84": "37.502934279886"
-			},
-			"Address": "город Москва, проспект Вернадского, дом 65",
-			"global_id": "919993729",
-			"Name": "Коворкинг Муравейник полезное пространство ВкусВилл",
-			"AdmArea": "Западный административный округ",
-			"District": "район Проспект Вернадского"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.708431451205",
-				"Longitude_WGS84": "37.521586903265"
-			},
-			"Address": "город Москва, территория Ленинские Горы, дом 1, строение 77",
-			"global_id": "919993731",
-			"Name": "Коворкинг Научного парка МГУ",
-			"AdmArea": "Западный административный округ",
-			"District": "район Раменки"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.78930632205",
-				"Longitude_WGS84": "37.657019039082"
-			},
-			"Address": "город Москва, 2-я Рыбинская улица, дом 13",
-			"global_id": "919993439",
-			"Name": "Коворкинг Офис у Дома 2-я Рыбинская дом 13",
-			"AdmArea": "Восточный административный округ",
-			"District": "район Сокольники"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.840173622567",
-				"Longitude_WGS84": "37.413365098299"
-			},
-			"Address": "город Москва, улица Василия Петушкова, дом 20, корпус 1",
-			"global_id": "919993450",
-			"Name": "Коворкинг Офис-у-Дома Василия Петушкова дом 20",
-			"AdmArea": "Северо-Западный административный округ",
-			"District": "район Южное Тушино"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.808873212444",
-				"Longitude_WGS84": "37.493368997574"
-			},
-			"Address": "город Москва, Волоколамское шоссе, дом 15/22",
-			"global_id": "919993460",
-			"Name": "Коворкинг Офис-у-Дома Волоколамское шоссе дом 15 22",
-			"AdmArea": "Северный административный округ",
-			"District": "район Сокол"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.666464625582",
-				"Longitude_WGS84": "37.498456591359"
-			},
-			"Address": "город Москва, проспект Вернадского, дом 89, корпус 1",
-			"global_id": "919993478",
-			"Name": "Коворкинг Офис-у-Дома Проспект Вернадского дом 89 1",
-			"AdmArea": "Западный административный округ",
-			"District": "район Тропарёво-Никулино"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.691702009469",
-				"Longitude_WGS84": "37.855430374439"
-			},
-			"Address": "город Москва, Саранская улица, дом 4/24",
-			"global_id": "919993486",
-			"Name": "Коворкинг Офис-у-Дома Саранская дом 4 24",
-			"AdmArea": "Юго-Восточный административный округ",
-			"District": "район Выхино-Жулебино"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.879074483157",
-				"Longitude_WGS84": "37.610888909261"
-			},
-			"Address": "город Москва, Юрловский проезд, дом 14, корпус 4",
-			"global_id": "919993494",
-			"Name": "Коворкинг Офис-у-Дома Юрловский проезд дом 14 4",
-			"AdmArea": "Северо-Восточный административный округ",
-			"District": "район Отрадное"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.746435399537",
-				"Longitude_WGS84": "37.62902646636"
-			},
-			"Address": "город Москва, Садовническая набережная, дом 9",
-			"global_id": "919993502",
-			"Name": "Коворкинг Рабочая Станция Балчуг",
-			"District": "район Замоскворечье",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.692104509443276",
-				"Longitude_WGS84": "37.347682873380336"
-			},
-			"Address": "город Москва, территория инновационного центра 'Сколково', Большой бульвар, дом 42, строение 1",
-			"global_id": "861999724",
-			"Name": "Коворкинг Технопарка «Сколково»",
-			"AdmArea": "Западный административный округ",
-			"ContactPhone": "(495) 956-00-33",
-			"District": "Можайский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.793463341234194",
-				"Longitude_WGS84": "37.39244730992052"
-			},
-			"Address": "город Москва, улица Твардовского, дом 8",
-			"global_id": "861999723",
-			"Name": "Коворкинг Технопарка «Строгино»",
-			"AdmArea": "Северо-Западный административный округ",
-			"ContactPhone": "(495) 248-00-88",
-			"District": "район Строгино"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.713880944216",
-				"Longitude_WGS84": "37.671305818452"
-			},
-			"Address": "город Москва, 1-я улица Машиностроения, дом 10",
-			"global_id": "919993721",
-			"Name": "Коворкинг Точка",
-			"District": "Южнопортовый район",
-			"AdmArea": "Юго-Восточный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.63742504036",
-				"Longitude_WGS84": "37.600481946843"
-			},
-			"Address": "город Москва, микрорайон Северное Чертаново, дом 1А",
-			"global_id": "919993722",
-			"Name": "Коворкинг ТутШьют",
-			"AdmArea": "Южный административный округ",
-			"District": "район Чертаново Северное"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.72105427081099",
-				"Longitude_WGS84": "37.64475373174992"
-			},
-			"Address": "город Москва, Дербеневская улица, дом 20, строение 25",
-			"global_id": "861999888",
-			"Name": "Коворкинг Центра молодежного инновационного творчества «Проектные мастерские»",
-			"AdmArea": "Южный административный округ",
-			"ContactPhone": "(499) 550-24-23",
-			"District": "Даниловский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.750261728318",
-				"Longitude_WGS84": "37.755897629013"
-			},
-			"Address": "город Москва, Электродная улица, дом 11",
-			"global_id": "919993723",
-			"Name": "Коворкинг ШТЕРН Эстейт",
-			"District": "район Перово",
-			"AdmArea": "Восточный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.72982435828163",
-				"Longitude_WGS84": "37.62421004550471"
-			},
-			"Address": "город Москва, Валовая улица, дом 32/75, строение 1",
-			"global_id": "861999884",
-			"Name": "Коворкинг антикафе «Белый лист»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(964) 566-33-35",
-			"District": "район Замоскворечье"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.75957951284544",
-				"Longitude_WGS84": "37.57496498869956"
-			},
-			"Address": "город Москва, Дружинниковская улица, дом 15",
-			"global_id": "861999893",
-			"Name": "Коворкинг центр «Business point»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(965) 153-43-33",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.75834344308054",
-				"Longitude_WGS84": "37.62606115629907"
-			},
-			"Address": "город Москва, Малый Черкасский переулок, дом 2",
-			"global_id": "861999697",
-			"Name": "Коворкинг центр «Cabinet Lounge»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 790-74-70",
-			"District": "Тверской район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.804346155699015",
-				"Longitude_WGS84": "37.58603390019901"
-			},
-			"Address": "город Москва, Большая Новодмитровская улица, дом 36, строение 12",
-			"global_id": "861999805",
-			"Name": "Коворкинг – центр «Start HUB»",
-			"AdmArea": "Северо-Восточный административный округ",
-			"ContactPhone": "(499) 653-50-37",
-			"District": "Бутырский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.747119042611",
-				"Longitude_WGS84": "37.539257108619"
-			},
-			"Address": "город Москва, Пресненская набережная, дом 8, строение 1",
-			"global_id": "919993725",
-			"Name": "Коворкинг businessclub Город Столиц",
-			"AdmArea": "Центральный административный округ",
-			"District": "Пресненский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.76390460110672",
-				"Longitude_WGS84": "37.67030301393368"
-			},
-			"Address": "город Москва, Токмаков переулок, дом 20/31, строение 1",
-			"global_id": "861999702",
-			"Name": "Коворкинг-студия «Столик на одного»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(903) 139-11-00",
-			"District": "Басманный район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.46864827784529",
-				"Longitude_WGS84": "37.29643837187363"
-			},
-			"Address": "город Москва, город Троицк, Сиреневый бульвар, дом 1",
-			"global_id": "861999710",
-			"Name": "Коворкинг-центр ЦУБ ТиНАО",
-			"AdmArea": "Троицкий административный округ",
-			"ContactPhone": "(495) 225-14-14",
-			"District": "поселение Троицк"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.658622374676",
-				"Longitude_WGS84": "37.563980127118"
-			},
-			"Address": "город Москва, улица Каховка, дом 37, корпус 1",
-			"global_id": "919992931",
-			"Name": "Коворкинг-центр ЦУБ ЮЗАО",
-			"AdmArea": "Юго-Западный административный округ",
-			"ContactPhone": "(495) 225-14-14",
-			"District": "район Черёмушки"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.79725157560532",
-				"Longitude_WGS84": "37.67606220823789"
-			},
-			"Address": "город Москва, 5-й Лучевой просек, дом 1",
-			"global_id": "861999918",
-			"Name": "Ковркинг в Букводоме",
-			"AdmArea": "Восточный административный округ",
-			"ContactPhone": "(926) 653-86-37",
-			"District": "район Сокольники"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.793399311745",
-				"Longitude_WGS84": "37.752538396549"
-			},
-			"Address": "город Москва, Измайловское шоссе, дом 73Ж, строение 34",
-			"global_id": "919993733",
-			"Name": "Мультибрендовый дом моды и шоу-рум российских дизайнеров Workplace Fashion",
-			"AdmArea": "Восточный административный округ",
-			"District": "район Измайлово"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.71797654729645",
-				"Longitude_WGS84": "37.60769888629097"
-			},
-			"ContactPhone": "(495) 795-39-60",
-			"Address": "город Москва, улица Шаболовка, дом 34, строение 3",
-			"global_id": "861999873",
-			"Name": "Офисный бизнес центр «MatrixOffice»",
-			"District": "Донской район",
-			"AdmArea": "Южный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.76145361282555",
-				"Longitude_WGS84": "37.55879612563709"
-			},
-			"ContactPhone": "(495) 280-18-12",
-			"Address": "город Москва, улица 1905 Года, дом 7, строение 1",
-			"global_id": "861999858",
-			"Name": "Столярный коворкинг «Делай вещь»",
-			"District": "Пресненский район",
-			"AdmArea": "Центральный административный округ"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.745262020876176",
-				"Longitude_WGS84": "37.65887617482168"
-			},
-			"Address": "город Москва, Большой Дровяной переулок, дом 18",
-			"global_id": "861999965",
-			"Name": "Тайм-кофейня коворкинг «Улей»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 286-72-81",
-			"District": "Таганский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.690546514035",
-				"Longitude_WGS84": "37.657990143645"
-			},
-			"Address": "город Москва, Автозаводская улица, дом 23, строение 931",
-			"global_id": "919993734",
-			"Name": "Технопарк Коворкинг",
-			"AdmArea": "Южный административный округ",
-			"District": "Даниловский район"
-		}
-	},
-	{
-		"type": "Coworking",
-		"properties": 
-		{
-			"GeoData": 
-			{
-				"Latitude_WGS84": "55.756013061082726",
-				"Longitude_WGS84": "37.643317502721096"
-			},
-			"Address": "город Москва, Хохловский переулок, дом 7-9, строение 2",
-			"global_id": "861999874",
-			"Name": "Хакспейс «Hackspace Neuron»",
-			"AdmArea": "Центральный административный округ",
-			"ContactPhone": "(495) 480-83-75",
-			"District": "Басманный район"
-		}
+"Заведения по адресам": [
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.759600726057",
+			"Longitude_WGS84": "37.610903396606"
+		},
+		"Address": "Москва, ул. Тверская, д. 9",
+		"global_id": "1015095939",
+		"Name": "Deworkacy Women",
+		"District": "Тверской район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.782007423342",
+			"Longitude_WGS84": "37.67033652931"
+		},
+		"Address": "Москва, ул. Русаковская, д. 1",
+		"global_id": "1015095946",
+		"Name": "Deworkacy Русаковская",
+		"District": "Красносельский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.734308038852",
+			"Longitude_WGS84": "37.566853477955"
+		},
+		"Address": "Москва, Большой Саввинский пер., д. 8 стр. 1",
+		"global_id": "1015095962",
+		"Name": "Deworkacy Саввинский",
+		"District": "район Хамовники",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.747423703207",
+			"Longitude_WGS84": "37.581908484301"
+		},
+		"Address": "Москва, Смоленская пл., д. 3",
+		"global_id": "1015095968",
+		"Name": "Regus Cмоленский Пассаж",
+		"District": "район Арбат",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.799077385479",
+			"Longitude_WGS84": "37.532630084773"
+		},
+		"Address": "Москва, Ленинградский пр-кт, д. 47/2",
+		"global_id": "1015095972",
+		"Name": "Regus Авион",
+		"District": "Хорошёвский район",
+		"AdmArea": "Северный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.74670983702",
+			"Longitude_WGS84": "37.538859262466"
+		},
+		"Address": " Москва, Пресненская наб., д. 10",
+		"global_id": "1015095973",
+		"Name": "Regus Башня на набережной",
+		"District": "Пресненский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.728789353537",
+			"Longitude_WGS84": "37.644999009196"
+		},
+		"Address": "Москва, ул. Летниковская, д.2, эт. 4",
+		"global_id": "1015095981",
+		"Name": "Regus Вивальди Плаза",
+		"District": "район Замоскворечье",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.753197278439",
+			"Longitude_WGS84": "37.606282111262"
+		},
+		"Address": "Москва, ул. Воздвиженка, д. 10",
+		"global_id": "1015095998",
+		"Name": "Regus Военторг",
+		"District": "район Арбат",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.773080000234",
+			"Longitude_WGS84": "37.64827729702"
+		},
+		"Address": "Москва, ул. Маши Порываевой, д. 34",
+		"global_id": "1015096001",
+		"Name": "Regus Домников",
+		"District": "Красносельский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.69195535468",
+			"Longitude_WGS84": "37.528505935669"
+		},
+		"Address": "Проспект Вернадского, д. 6",
+		"global_id": "1015096005",
+		"Name": "Regus Капитолий",
+		"District": "район Раменки",
+		"AdmArea": "Западный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.779025462871",
+			"Longitude_WGS84": "37.58694092538"
+		},
+		"Address": "Москва, 4-ый Лесной пер., д. 4",
+		"global_id": "1015096007",
+		"Name": "Regus Лесная Плаза",
+		"District": "Тверской район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.78022450647",
+			"Longitude_WGS84": "37.633771910667"
+		},
+		"Address": "Москва, Проспект Мира, д. 40",
+		"global_id": "1015096012",
+		"Name": "Regus Проспект Мира",
+		"District": "Мещанский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.761972111039",
+			"Longitude_WGS84": "37.657906427383"
+		},
+		"Address": "Москва, ул. Земляной Вал, д. 9, 4-й этаж",
+		"global_id": "1015096016",
+		"Name": "Regus Ситидел",
+		"District": "Басманный район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.762967210763",
+			"Longitude_WGS84": "37.635209772191"
+		},
+		"Address": "ул. Мясницкая, д. 24/7, стр. 3",
+		"global_id": "1015096028",
+		"Name": "Smart Place Inbox",
+		"District": "Басманный район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.778565231734",
+			"Longitude_WGS84": "37.585721054434"
+		},
+		"Address": " Москва, ул. Бутырский Вал, д. 10",
+		"global_id": "1015096030",
+		"Name": "WeWork Белая площадь",
+		"District": "Тверской район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.736114989282",
+			"Longitude_WGS84": "37.611925318241"
+		},
+		"Address": "Москва, ул. Большая Якиманка, д. 26",
+		"global_id": "1015096034",
+		"Name": "WeWork Большая Якиманка",
+		"District": "район Якиманка",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.794437838936",
+			"Longitude_WGS84": "37.543681847057"
+		},
+		"Address": "Москва, Ленинградский пр., д. 37",
+		"global_id": "1015096069",
+		"Name": "WeWork Ленинградский проспект",
+		"District": "Хорошёвский район",
+		"AdmArea": "Северный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.734728760106",
+			"Longitude_WGS84": "37.588533773422"
+		},
+		"Address": "Москва, ул. Тимура Фрунзе, д. 11, стр. 13",
+		"global_id": "1015096070",
+		"Name": "WeWork Тимура Фрунзе",
+		"District": "район Хамовники",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.79640740462",
+			"Longitude_WGS84": "37.580020442009"
+		},
+		"Address": "Москва, ул. Вятская, д. 27, стр. 7",
+		"global_id": "1015096075",
+		"Name": "Коворкинг Collider",
+		"District": "Савёловский район",
+		"AdmArea": "Северный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.710671141669",
+			"Longitude_WGS84": "37.583455975827"
+		},
+		"Address": "город Москва, Ленинский проспект, дом 30",
+		"global_id": "861999679",
+		"Name": "Коворкинг «Рабочая станция» Парк Горького",
+		"AdmArea": "Южный административный округ",
+		"ContactPhone": "(495) 150-01-17",
+		"District": "Донской район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.75197089385731",
+			"Longitude_WGS84": "37.671012249348344"
+		},
+		"Address": "город Москва, Нижняя Сыромятническая улица, дом 10, строение 2",
+		"global_id": "861999681",
+		"Name": "Коворкинг «Рабочая станция» ARTPLAY",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 150-01-17",
+		"District": "Басманный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.682749975226486",
+			"Longitude_WGS84": "37.61798356024735"
+		},
+		"Address": "город Москва, Варшавское шоссе, дом 28А",
+		"global_id": "861999695",
+		"Name": "Коворкинг «Свободное плавание»",
+		"AdmArea": "Южный административный округ",
+		"ContactPhone": "(499) 426-06-26",
+		"District": "Нагорный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.71223123156073",
+			"Longitude_WGS84": "37.62630315095879"
+		},
+		"Address": "город Москва, Павловская улица, дом 18",
+		"global_id": "861999696",
+		"Name": "Коворкинг «Lerner»",
+		"AdmArea": "Южный административный округ",
+		"ContactPhone": "(499) 951-07-28",
+		"District": "Даниловский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.75834344308054",
+			"Longitude_WGS84": "37.62606115629907"
+		},
+		"Address": "город Москва, Малый Черкасский переулок, дом 2",
+		"global_id": "861999697",
+		"Name": "Коворкинг центр «Cabinet Lounge»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 790-74-70",
+		"District": "Тверской район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.757973549796574",
+			"Longitude_WGS84": "37.611068237888695"
+		},
+		"Address": "город Москва, Тверская улица, дом 7",
+		"global_id": "861999698",
+		"Name": "Коворкинг «DI Telegraph»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 580-35-21",
+		"District": "Тверской район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.726889962320925",
+			"Longitude_WGS84": "37.57970774751588"
+		},
+		"Address": "город Москва, Комсомольский проспект, дом 28",
+		"global_id": "861999699",
+		"Name": "Клубный офис и коворкинг «Деловар»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 177-01-23",
+		"District": "район Хамовники"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.75936689185348",
+			"Longitude_WGS84": "37.66469744770028"
+		},
+		"Address": "город Москва, Нижний Сусальный переулок, дом 5, строение 17",
+		"global_id": "861999701",
+		"Name": "Коворкинг «Arma Coworking»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 755-42-24",
+		"District": "Басманный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.76390460110672",
+			"Longitude_WGS84": "37.67030301393368"
+		},
+		"Address": "город Москва, Токмаков переулок, дом 20/31, строение 1",
+		"global_id": "861999702",
+		"Name": "Коворкинг-студия «Столик на одного»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(903) 139-11-00",
+		"District": "Басманный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.46864827784529",
+			"Longitude_WGS84": "37.29643837187363"
+		},
+		"Address": "город Москва, город Троицк, Сиреневый бульвар, дом 1",
+		"global_id": "861999710",
+		"Name": "Коворкинг-центр ЦУБ ТиНАО",
+		"AdmArea": "Троицкий административный округ",
+		"ContactPhone": "(495) 225-14-14",
+		"District": "поселение Троицк"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.78239198185081",
+			"Longitude_WGS84": "37.59876184470155"
+		},
+		"Address": "город Москва, Новослободская улица, дом 20",
+		"global_id": "861999716",
+		"Name": "Антикафе «Кругозор»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(925) 140-60-35",
+		"District": "Тверской район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.756737514266135",
+			"Longitude_WGS84": "37.61732067320065"
+		},
+		"Address": "город Москва, улица Охотный Ряд, дом 2",
+		"global_id": "861999718",
+		"Name": "Коворкинг «Meeting Point»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 228-28-80",
+		"District": "Тверской район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.760085757686504",
+			"Longitude_WGS84": "37.65127704409756"
+		},
+		"Address": "город Москва, Лялин переулок, дом 8, строение 2",
+		"global_id": "861999719",
+		"Name": "Time club «Гнездо»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 212-14-70",
+		"District": "Басманный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.761498844440226",
+			"Longitude_WGS84": "37.637380157027124"
+		},
+		"Address": "город Москва, Архангельский переулок, дом 17, строение 1",
+		"global_id": "861999720",
+		"Name": "Time club «Убежище»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 215-57-14",
+		"District": "Басманный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.761894187684",
+			"Longitude_WGS84": "37.61966577280948"
+		},
+		"Address": "город Москва, улица Кузнецкий Мост, дом 7, строение 3",
+		"global_id": "861999722",
+		"Name": "Коворкинг «Meettroom»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 363-40-46",
+		"District": "Тверской район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.793463341234194",
+			"Longitude_WGS84": "37.39244730992052"
+		},
+		"Address": "город Москва, улица Твардовского, дом 8",
+		"global_id": "861999723",
+		"Name": "Коворкинг Технопарка «Строгино»",
+		"AdmArea": "Северо-Западный административный округ",
+		"ContactPhone": "(495) 248-00-88",
+		"District": "район Строгино"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.692104509443276",
+			"Longitude_WGS84": "37.347682873380336"
+		},
+		"Address": "город Москва, территория инновационного центра 'Сколково', Большой бульвар, дом 42, строение 1",
+		"global_id": "861999724",
+		"Name": "Коворкинг Технопарка «Сколково»",
+		"AdmArea": "Западный административный округ",
+		"ContactPhone": "(495) 956-00-33",
+		"District": "Можайский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.80559085933793",
+			"Longitude_WGS84": "37.627598678710896"
+		},
+		"Address": "город Москва, улица Годовикова, дом 9, строение 4",
+		"global_id": "861999727",
+		"Name": "Коворкинг «Калибр»",
+		"AdmArea": "Северо-Восточный административный округ",
+		"ContactPhone": "(495) 730-32-61",
+		"District": "Останкинский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.75863713844051",
+			"Longitude_WGS84": "37.629771641509905"
+		},
+		"Address": "город Москва, Лубянский проезд, дом 5, строение 1",
+		"global_id": "861999744",
+		"Name": "Коворкинг «CheckPoint» Лубянка",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(499) 394-27-75",
+		"District": "Басманный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.76359607424006",
+			"Longitude_WGS84": "37.63456871995511"
+		},
+		"Address": "город Москва, Мясницкая улица, дом 17, строение 2",
+		"global_id": "861999751",
+		"Name": "Коворкинг «CheckPoint» Чистые пруды",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(499) 394-27-75",
+		"District": "Красносельский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.740600394016475",
+			"Longitude_WGS84": "37.609307370086164"
+		},
+		"Address": "город Москва, Берсеневская набережная, дом 6, строение 3",
+		"global_id": "861999758",
+		"Name": "Деловое пространство Deworkacy «Красный октябрь»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(499) 490-14-49",
+		"District": "район Якиманка"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.7566408325061",
+			"Longitude_WGS84": "37.67571932295079"
+		},
+		"Address": "город Москва, Самокатная улица, дом 4, строение 13",
+		"global_id": "861999766",
+		"Name": "Коворкинг «FashionTL»",
+		"AdmArea": "Юго-Восточный административный округ",
+		"ContactPhone": "(495) 740-52-94",
+		"District": "район Лефортово"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.75595706173622",
+			"Longitude_WGS84": "37.64322750239147"
+		},
+		"Address": "город Москва, Хохловский переулок, дом 7-9, строение 2",
+		"global_id": "861999782",
+		"Name": "Коворкинг «Impact Hub Moscow»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(985) 020-11-43",
+		"District": "Басманный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.74703654570297",
+			"Longitude_WGS84": "37.581585675144346"
+		},
+		"Address": "город Москва, 2-й Смоленский переулок, дом 1/4",
+		"global_id": "861999797",
+		"Name": "Бизнес-коворкинг «Рулекс»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 357-21-20",
+		"District": "район Арбат"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.804346155699015",
+			"Longitude_WGS84": "37.58603390019901"
+		},
+		"Address": "город Москва, Большая Новодмитровская улица, дом 36, строение 12",
+		"global_id": "861999805",
+		"Name": "Коворкинг – центр «Start HUB»",
+		"AdmArea": "Северо-Восточный административный округ",
+		"ContactPhone": "(499) 653-50-37",
+		"District": "Бутырский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.7413960889584",
+			"Longitude_WGS84": "37.652525129084744"
+		},
+		"ContactPhone": "(495) 363-53-89",
+		"Address": "город Москва, 1-й Гончарный переулок, дом 3, строение 4",
+		"global_id": "861999813",
+		"Name": "Коворкинг «Union Place»",
+		"District": "Таганский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.76706520971246",
+			"Longitude_WGS84": "37.611921931735225"
+		},
+		"Address": "город Москва, Страстной бульвар, дом 12, строение 1",
+		"global_id": "861999839",
+		"Name": "Коворкинг «Yellow Door»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 966-15-40",
+		"District": "Тверской район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.74090424609445",
+			"Longitude_WGS84": "37.63030125162021"
+		},
+		"Address": "город Москва, Климентовский переулок, дом 6",
+		"global_id": "861999847",
+		"Name": "Антикафе «Happy people»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(977) 801-66-08",
+		"District": "район Замоскворечье"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.759564410280404",
+			"Longitude_WGS84": "37.58973390059504"
+		},
+		"Address": "город Москва, Гранатный переулок, дом 9",
+		"global_id": "861999855",
+		"Name": "Архитектурный Коворкинг",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 690-38-38",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.798293332863174",
+			"Longitude_WGS84": "37.71001802815438"
+		},
+		"Address": "город Москва, 1-я улица Бухвостова, дом 12/11, корпус 16",
+		"global_id": "861999857",
+		"Name": "Коворкинг «Дар труда»",
+		"AdmArea": "Восточный административный округ",
+		"ContactPhone": "(495) 120-04-96",
+		"District": "район Преображенское"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.76145361282555",
+			"Longitude_WGS84": "37.55879612563709"
+		},
+		"ContactPhone": "(495) 280-18-12",
+		"Address": "город Москва, улица 1905 Года, дом 7, строение 1",
+		"global_id": "861999858",
+		"Name": "Столярный коворкинг «Делай вещь»",
+		"District": "Пресненский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.75435735924481",
+			"Longitude_WGS84": "37.60186071332325"
+		},
+		"Address": "город Москва, Калашный переулок, дом 2/10, строение 3",
+		"global_id": "861999859",
+		"Name": "Коворкинг «ДомЖур»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 691-64-61",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.805302155248775",
+			"Longitude_WGS84": "37.58515292616138"
+		},
+		"Address": "город Москва, Большая Новодмитровская улица, дом 36, строение 2",
+		"global_id": "861999860",
+		"Name": "Коворкафе",
+		"AdmArea": "Северо-Восточный административный округ",
+		"ContactPhone": "(495) 646-84-89",
+		"District": "Бутырский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.77222510008357",
+			"Longitude_WGS84": "37.6229529785283"
+		},
+		"Address": "город Москва, Цветной бульвар, дом 30, строение 1",
+		"global_id": "861999863",
+		"Name": "Коворкинг «Мир»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(916) 651-05-10",
+		"District": "Мещанский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.767430864098",
+			"Longitude_WGS84": "37.631393126704"
+		},
+		"Address": "город Москва, улица Сретенка, дом 7",
+		"global_id": "861999864",
+		"Name": "Антикафе «Нулевой километр»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 621-38-83",
+		"District": "Мещанский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.846331411178184",
+			"Longitude_WGS84": "37.655500405399664"
+		},
+		"ContactPhone": "(495) 191-36-09",
+		"Address": "город Москва, проезд Серебрякова, дом 12, строение 1",
+		"global_id": "861999865",
+		"Name": "Коворкинг «ОАК24»",
+		"District": "район Свиблово",
+		"AdmArea": "Северо-Восточный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.80302017906729",
+			"Longitude_WGS84": "37.58381488411647"
+		},
+		"Address": "город Москва, Бутырская улица, дом 23, строение 2",
+		"global_id": "861999866",
+		"Name": "Коворкинг «Рабочая Станция» Plaza",
+		"AdmArea": "Северный административный округ",
+		"ContactPhone": "(495) 150-01-17",
+		"District": "Савёловский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.8263376591936",
+			"Longitude_WGS84": "37.63775007287301"
+		},
+		"Address": "город Москва, проспект Мира, дом 119, строение 47",
+		"global_id": "861999867",
+		"Name": "Коворкинг «Открытая столярная мастерская СМ-47»",
+		"AdmArea": "Северо-Восточный административный округ",
+		"ContactPhone": "(926) 492-23-31",
+		"District": "Останкинский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.759017032281804",
+			"Longitude_WGS84": "37.644728559413394"
+		},
+		"Address": "город Москва, улица Кузнецкий Мост, дом 19, строение 1",
+		"global_id": "861999869",
+		"Name": "Коворкинг «Циферблат» Кузнецкий мост",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(962) 964-67-86",
+		"District": "Мещанский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.76340926005694",
+			"Longitude_WGS84": "37.60795187446296"
+		},
+		"Address": "город Москва, Тверская улица, дом 12, строение 1",
+		"global_id": "861999870",
+		"Name": "Коворкинг «Циферблат» Тверская",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(965) 447-62-99",
+		"District": "Тверской район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.71797654729645",
+			"Longitude_WGS84": "37.60769888629097"
+		},
+		"ContactPhone": "(495) 795-39-60",
+		"Address": "город Москва, улица Шаболовка, дом 34, строение 3",
+		"global_id": "861999873",
+		"Name": "Офисный бизнес центр «MatrixOffice»",
+		"District": "Донской район",
+		"AdmArea": "Южный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.756013061082726",
+			"Longitude_WGS84": "37.643317502721096"
+		},
+		"Address": "город Москва, Хохловский переулок, дом 7-9, строение 2",
+		"global_id": "861999874",
+		"Name": "Хакспейс «Hackspace Neuron»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 480-83-75",
+		"District": "Басманный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.984036612056016",
+			"Longitude_WGS84": "37.21457702592952"
+		},
+		"Address": "город Москва, город Зеленоград, Георгиевский проспект, дом 5, строение 1",
+		"global_id": "861999875",
+		"Name": "Коворкинг «Научный Центр»",
+		"AdmArea": "Зеленоградский административный округ",
+		"ContactPhone": "(925) 546-55-68",
+		"District": "район Старое Крюково"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.80748869477065",
+			"Longitude_WGS84": "37.50535644666311"
+		},
+		"Address": "город Москва, Волоколамское шоссе, владение 1, сооружение Б/Н",
+		"global_id": "861999876",
+		"Name": "Коворкинг «Hydrocowork»",
+		"AdmArea": "Северный административный округ",
+		"ContactPhone": "(925) 168-55-99",
+		"District": "район Сокол"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.76305406257411",
+			"Longitude_WGS84": "37.63677769469222"
+		},
+		"Address": "город Москва, Мясницкая улица, владение 24/7, строение 2/3",
+		"global_id": "861999877",
+		"Name": "Коворкинг «Розетка и кофе»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(967) 115-09-94",
+		"District": "Басманный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.815551554907344",
+			"Longitude_WGS84": "37.51836454580623"
+		},
+		"Address": "город Москва, улица Космонавта Волкова, дом 12",
+		"global_id": "861999878",
+		"Name": "Коворкинг «The moon»",
+		"AdmArea": "Северный административный округ",
+		"ContactPhone": "(499) 322-75-54",
+		"District": "Войковский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.74827281918787",
+			"Longitude_WGS84": "37.54089194478386"
+		},
+		"Address": "город Москва, Пресненская набережная, дом 6, строение 2",
+		"global_id": "861999880",
+		"Name": "Коворкинг «CEO Rooms»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 249-90-90",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.72982435828163",
+			"Longitude_WGS84": "37.62421004550471"
+		},
+		"Address": "город Москва, Валовая улица, дом 32/75, строение 1",
+		"global_id": "861999884",
+		"Name": "Коворкинг антикафе «Белый лист»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(964) 566-33-35",
+		"District": "район Замоскворечье"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.749523837273905",
+			"Longitude_WGS84": "37.53714599389657"
+		},
+		"Address": "город Москва, Пресненская набережная, дом 12",
+		"global_id": "861999885",
+		"Name": "Бизнес-коворкинг в Москва-Сити «Self-Made»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 669-93-43",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.732891768106484",
+			"Longitude_WGS84": "37.56220848253127"
+		},
+		"Address": "город Москва, Большой Саввинский переулок, дом 12, строение 8",
+		"global_id": "861999887",
+		"Name": "Коворкинг «Ключ Шелк»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 955-90-23",
+		"District": "район Хамовники"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.72105427081099",
+			"Longitude_WGS84": "37.64475373174992"
+		},
+		"Address": "город Москва, Дербеневская улица, дом 20, строение 25",
+		"global_id": "861999888",
+		"Name": "Коворкинг Центра молодежного инновационного творчества «Проектные мастерские»",
+		"AdmArea": "Южный административный округ",
+		"ContactPhone": "(499) 550-24-23",
+		"District": "Даниловский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.6501634392358",
+			"Longitude_WGS84": "37.54064781517923"
+		},
+		"Address": "город Москва, улица Бутлерова, дом 17",
+		"global_id": "861999889",
+		"Name": "Коворкинг «WORKKI»",
+		"AdmArea": "Юго-Западный административный округ",
+		"ContactPhone": "(495) 252-50-05",
+		"District": "район Коньково"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.7076300518577",
+			"Longitude_WGS84": "37.688528177952286"
+		},
+		"Address": "город Москва, Южнопортовая улица, владение 5, строение 1",
+		"global_id": "861999890",
+		"Name": "Коворкинг «IQ OFFICE»",
+		"AdmArea": "Юго-Восточный административный округ",
+		"ContactPhone": "(958) 100-86-24",
+		"District": "район Печатники"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.794898334370025",
+			"Longitude_WGS84": "37.712874936594076"
+		},
+		"ContactPhone": "(495) 640-24-77",
+		"Address": "город Москва, Преображенская площадь, дом 8",
+		"global_id": "861999891",
+		"Name": "Коворкинг «Прео 8»",
+		"District": "район Преображенское",
+		"AdmArea": "Восточный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.66386055525951",
+			"Longitude_WGS84": "37.51137228742382"
+		},
+		"Address": "город Москва, Ленинский проспект, дом 109",
+		"global_id": "861999892",
+		"Name": "Коворкинг «Атмосфера»",
+		"AdmArea": "Юго-Западный административный округ",
+		"ContactPhone": "(495) 419-50-60",
+		"District": "Обручевский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.75957951284544",
+			"Longitude_WGS84": "37.57496498869956"
+		},
+		"Address": "город Москва, Дружинниковская улица, дом 15",
+		"global_id": "861999893",
+		"Name": "Коворкинг центр «Business point»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(965) 153-43-33",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.75922988515114",
+			"Longitude_WGS84": "37.66576643972191"
+		},
+		"Address": "город Москва, Нижний Сусальный переулок, дом 5, строение 4",
+		"global_id": "861999895",
+		"Name": "Коворкинг «Ключ Арма»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 955-90-23",
+		"District": "Басманный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.755405618186096",
+			"Longitude_WGS84": "37.56352096577234"
+		},
+		"Address": "город Москва, Рочдельская улица, дом 15, строение 17-18",
+		"global_id": "861999898",
+		"Name": "Коворкинг «Ключ Трехгорка»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 955-90-23",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.76316539177985",
+			"Longitude_WGS84": "37.58916798186033"
+		},
+		"Address": "город Москва, Ермолаевский переулок, дом 22-26, строение 1",
+		"global_id": "861999899",
+		"Name": "Коворкинг «Ключ Патриаршие»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 955-90-23",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.70026554674971",
+			"Longitude_WGS84": "37.623868405300655"
+		},
+		"Address": "город Москва, Варшавское шоссе, дом 9, строение 1Б",
+		"global_id": "861999900",
+		"Name": "Коворкинг «Ключ Даниловсая»",
+		"AdmArea": "Южный административный округ",
+		"ContactPhone": "(495) 955-90-23",
+		"District": "Донской район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.80534314740488",
+			"Longitude_WGS84": "37.58629391945307"
+		},
+		"Address": "город Москва, Большая Новодмитровская улица, дом 36, строение 24",
+		"global_id": "861999902",
+		"Name": "Коворкинг «DIY Академия Bosch»",
+		"AdmArea": "Северо-Восточный административный округ",
+		"ContactPhone": "(925) 258-81-20",
+		"District": "Бутырский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.68634265607758",
+			"Longitude_WGS84": "37.62065212155141"
+		},
+		"Address": "город Москва, Варшавское шоссе, дом 26, строение 12",
+		"global_id": "861999905",
+		"Name": "Коворкинг «Antareslab»",
+		"AdmArea": "Южный административный округ",
+		"ContactPhone": "(910) 435-40-48",
+		"District": "Нагорный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.76286209147102",
+			"Longitude_WGS84": "37.63276271496333"
+		},
+		"Address": "город Москва, Мясницкая улица, дом 13, строение 18",
+		"global_id": "861999912",
+		"Name": "Коворкинг «tceh»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(499) 647-51-02",
+		"District": "Красносельский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.79106668560018",
+			"Longitude_WGS84": "37.80972127202416"
+		},
+		"Address": "город Москва, Нижняя Первомайская улица, дом 48/9",
+		"global_id": "861999913",
+		"Name": "Коворкинг «Рекорд»",
+		"AdmArea": "Восточный административный округ",
+		"ContactPhone": "(499) 702-01-07",
+		"District": "район Восточное Измайлово"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.7634640784525",
+			"Longitude_WGS84": "37.634074720532325"
+		},
+		"Address": "город Москва, Мясницкая улица, дом 13, строение 20",
+		"global_id": "861999914",
+		"Name": "Коворкинг «Лаба»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(916) 706-54-42",
+		"District": "Красносельский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.7078449523622",
+			"Longitude_WGS84": "37.72416877494298"
+		},
+		"Address": "город Москва, Волгоградский проспект, дом 42, корпус 5",
+		"global_id": "861999915",
+		"Name": "Коворкинг «Next 2. 0»",
+		"AdmArea": "Юго-Восточный административный округ",
+		"ContactPhone": "(800) 700-20-18",
+		"District": "район Печатники"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.741796345906245",
+			"Longitude_WGS84": "37.61514636118113"
+		},
+		"Address": "город Москва, улица Большая Полянка, дом 2/10, строение 1",
+		"global_id": "861999917",
+		"Name": "Corporate Innovations Hub by Deworkacy",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(499) 490-14-49",
+		"District": "район Якиманка"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.79725157560532",
+			"Longitude_WGS84": "37.67606220823789"
+		},
+		"Address": "город Москва, 5-й Лучевой просек, дом 1",
+		"global_id": "861999918",
+		"Name": "Ковркинг в Букводоме",
+		"AdmArea": "Восточный административный округ",
+		"ContactPhone": "(926) 653-86-37",
+		"District": "район Сокольники"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.768183725951424",
+			"Longitude_WGS84": "37.680588545700296"
+		},
+		"ContactPhone": "(495) 787-68-38",
+		"Address": "город Москва, Бауманская улица, дом 53, строение 1",
+		"global_id": "861999920",
+		"Name": "Коворкинг «Gravity Coworking Space»",
+		"District": "Басманный район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.76891909288905",
+			"Longitude_WGS84": "37.62701388127012"
+		},
+		"ContactPhone": "(495) 623-66-90",
+		"Address": "город Москва, Пушкарёв переулок, дом 5",
+		"global_id": "861999921",
+		"Name": "Коворкинг «Клуб ARTechnology»",
+		"District": "Мещанский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.76162117914728",
+			"Longitude_WGS84": "37.62118375665728"
+		},
+		"ContactPhone": "(926) 707-81-09",
+		"Address": "город Москва, улица Кузнецкий Мост, дом 12/3, строение 1",
+		"global_id": "861999923",
+		"Name": "Коворкинг «Софт Культуры»",
+		"District": "Мещанский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.78407318836623",
+			"Longitude_WGS84": "37.59961537563346"
+		},
+		"ContactPhone": "(999) 989-15-18",
+		"Address": "город Москва, улица Палиха, дом 8, строение 2",
+		"global_id": "861999924",
+		"Name": "Коворкинг «LittleBig»",
+		"District": "Тверской район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.75825248405811",
+			"Longitude_WGS84": "37.580255927923986"
+		},
+		"ContactPhone": "(495) 690-91-29",
+		"Address": "город Москва, Малый Конюшковский переулок, дом 2",
+		"global_id": "861999926",
+		"Name": "Коворкинг «Точка кипения»",
+		"District": "Пресненский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.77310633501508",
+			"Longitude_WGS84": "37.5883142040054"
+		},
+		"ContactPhone": "(495) 177-94-59",
+		"Address": "город Москва, 1-я Брестская улица, дом 35",
+		"global_id": "861999927",
+		"Name": "Коворкинг «OfficeCube Belka»",
+		"District": "Тверской район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.662198938022215",
+			"Longitude_WGS84": "37.74613584367461"
+		},
+		"ContactPhone": "(495) 221-87-35",
+		"Address": "город Москва, улица Верхние Поля, дом 10",
+		"global_id": "861999928",
+		"Name": "Коворкинг «Офис-у-Дома» Верхние Поля 10",
+		"District": "район Марьино",
+		"AdmArea": "Юго-Восточный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.675881774571046",
+			"Longitude_WGS84": "37.61312393935202"
+		},
+		"ContactPhone": "(926) 891-23-71",
+		"Address": "город Москва, Электролитный проезд, дом 3Б, строение 6",
+		"global_id": "861999929",
+		"Name": "Коворкинг «Goodini. Space»",
+		"District": "Нагорный район",
+		"AdmArea": "Южный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.749523837273905",
+			"Longitude_WGS84": "37.53714599389657"
+		},
+		"ContactPhone": "(495) 191-14-76",
+		"Address": "город Москва, Пресненская набережная, дом 12",
+		"global_id": "861999934",
+		"Name": "Коворкинг WORKKI Moscow City",
+		"District": "Пресненский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.78170820469167",
+			"Longitude_WGS84": "37.59942732574871"
+		},
+		"ContactPhone": "(499) 130-62-42",
+		"Address": "город Москва, Новослободская улица, дом 16",
+		"global_id": "861999935",
+		"Name": "Коворкинг «Таблица»",
+		"District": "Тверской район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.72541843219553",
+			"Longitude_WGS84": "37.761642126112925"
+		},
+		"ContactPhone": "(925) 534-47-36",
+		"Address": "город Москва, Рязанский проспект, дом 10, строение 18",
+		"global_id": "861999936",
+		"Name": "Коворкинг «Place of Work»",
+		"District": "Рязанский район",
+		"AdmArea": "Юго-Восточный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.63777309559634",
+			"Longitude_WGS84": "37.456997047774394"
+		},
+		"ContactPhone": "(495) 154-90-33",
+		"Address": "город Москва, поселение Московский, Киевское шоссе, 22-й километр, домовладение 6, строение 1",
+		"global_id": "861999937",
+		"Name": "Коворкинг «CEO Rooms» COMCITY",
+		"District": "поселение Московский",
+		"AdmArea": "Новомосковский административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.73959212818931",
+			"Longitude_WGS84": "37.64843811324017"
+		},
+		"ContactPhone": "(495) 177-75-25",
+		"Address": "город Москва, Гончарная набережная, дом 1, строение 4",
+		"global_id": "861999938",
+		"Name": "Коворкинг «Адвокатский дом на Гончарной»",
+		"District": "Таганский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.77868130245718",
+			"Longitude_WGS84": "37.58802732740929"
+		},
+		"ContactPhone": "(495) 228-28-80",
+		"Address": "город Москва, Лесная улица, дом 7",
+		"global_id": "861999939",
+		"Name": "Коворкинг «Meeting Point White Gardens»",
+		"District": "Тверской район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.74476618145009",
+			"Longitude_WGS84": "37.63606830026075"
+		},
+		"ContactPhone": "(495) 663-63-87",
+		"Address": "город Москва, Садовническая улица, дом 42, строение 6",
+		"global_id": "861999940",
+		"Name": "Коворкинг «Space-U»",
+		"District": "район Замоскворечье",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.725301441848536",
+			"Longitude_WGS84": "37.760304132799"
+		},
+		"ContactPhone": "(916) 151-18-81",
+		"Address": "город Москва, Рязанский проспект, дом 10, строение 18",
+		"global_id": "861999941",
+		"Name": "Коворкинг «PROMZONA»",
+		"District": "Рязанский район",
+		"AdmArea": "Юго-Восточный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.68132389899929",
+			"Longitude_WGS84": "37.59018119538906"
+		},
+		"ContactPhone": "(910) 420-66-34",
+		"Address": "город Москва, улица Дмитрия Ульянова, дом 42",
+		"global_id": "861999942",
+		"Name": "Коворкинг «NAZAVOD»",
+		"District": "район Котловка",
+		"AdmArea": "Юго-Западный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.815318595078715",
+			"Longitude_WGS84": "37.512686574836046"
+		},
+		"ContactPhone": "(495) 877-50-42",
+		"Address": "город Москва, улица Космонавта Волкова, дом 6А",
+		"global_id": "861999943",
+		"Name": "Коворкинг «GrowUp Москва»",
+		"District": "Войковский район",
+		"AdmArea": "Северный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.75538062264509",
+			"Longitude_WGS84": "37.56288296889308"
+		},
+		"ContactPhone": "(495) 229-35-99",
+		"Address": "город Москва, Рочдельская улица, дом 15, строение 21",
+		"global_id": "861999944",
+		"Name": "Клубное пространство «Millami Space»",
+		"District": "Пресненский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.77325770146278",
+			"Longitude_WGS84": "37.679546662725265"
+		},
+		"Address": "город Москва, Электрозаводская улица, дом 21",
+		"global_id": "861999948",
+		"Name": "Коворкинг «СОШЬЮ»",
+		"AdmArea": "Восточный административный округ",
+		"ContactPhone": "(906) 719-69-26",
+		"District": "район Преображенское"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.745262020876176",
+			"Longitude_WGS84": "37.65887617482168"
+		},
+		"Address": "город Москва, Большой Дровяной переулок, дом 18",
+		"global_id": "861999965",
+		"Name": "Тайм-кофейня коворкинг «Улей»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 286-72-81",
+		"District": "Таганский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.749523837273905",
+			"Longitude_WGS84": "37.53714599389657"
+		},
+		"Address": "город Москва, Пресненская набережная, дом 12",
+		"global_id": "861999966",
+		"Name": "Коворкинг «Office 24 7»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(499) 490-13-17",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.70836629514009",
+			"Longitude_WGS84": "37.65276640847173"
+		},
+		"Address": "город Москва, улица Ленинская Слобода, дом 19",
+		"global_id": "862000081",
+		"Name": "Коворкинг «Деловой» в бизнес-центре «Омега Плаза»",
+		"AdmArea": "Южный административный округ",
+		"ContactPhone": "(495) 988-07-32",
+		"District": "Даниловский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.81747758982565",
+			"Longitude_WGS84": "37.65574277221727"
+		},
+		"ContactPhone": "(495) 988-07-34",
+		"Address": "город Москва, Ракетный бульвар, дом 16",
+		"global_id": "862000082",
+		"Name": "Коворкинг «Деловой» бизнес-центр «Алексеевская Башня»",
+		"District": "Алексеевский район",
+		"AdmArea": "Северо-Восточный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.75438219763968",
+			"Longitude_WGS84": "37.62502757660091"
+		},
+		"Address": "город Москва, улица Ильинка, дом 4",
+		"global_id": "862000083",
+		"Name": "Коворкинг «Деловой» бизнес-центре «Гостиный Двор»",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 988-07-31",
+		"District": "Тверской район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.75922988515114",
+			"Longitude_WGS84": "37.66576643972191"
+		},
+		"ContactPhone": "(495) 988-07-36",
+		"Address": "город Москва, Нижний Сусальный переулок, дом 5, строение 19",
+		"global_id": "862000084",
+		"Name": "Коворкинг «Деловой» бизнес-центре «Арма»",
+		"District": "Басманный район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.92162377860675",
+			"Longitude_WGS84": "37.53498477412825"
+		},
+		"Address": "город Москва, Долгопрудненское шоссе, дом 3",
+		"global_id": "862000210",
+		"Name": "Коворкинг «Физтехпарка»",
+		"AdmArea": "Северо-Восточный административный округ",
+		"ContactPhone": "(495) 114-50-12",
+		"District": "район Северный"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.758113742574",
+			"Longitude_WGS84": "37.601749773939"
+		},
+		"Address": "город Москва, Леонтьевский переулок, дом 2А, строение 2",
+		"global_id": "919905352",
+		"Name": "Deworkacy Леонтьевский",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 185-93-52",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.712634814482",
+			"Longitude_WGS84": "37.64435963108"
+		},
+		"Address": "город Москва, 2-й Павелецкий проезд, дом 5, строение 1",
+		"global_id": "919905353",
+		"Name": "StanGher coworking",
+		"AdmArea": "Южный административный округ",
+		"ContactPhone": "(499) 647-40-51",
+		"District": "Даниловский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.769147148982",
+			"Longitude_WGS84": "37.591722031267"
+		},
+		"Address": "город Москва, Большая Садовая улица, дом 5, корпус 1",
+		"global_id": "919905356",
+		"Name": "The Coworking",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(499) 110-30-22",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.753717134769",
+			"Longitude_WGS84": "37.637219521843"
+		},
+		"Address": "город Москва, улица Солянка, дом 4, строение 4",
+		"global_id": "919905425",
+		"Name": "Антикафе-коворкинг Свой Ключ",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 662-99-02",
+		"District": "Таганский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.658622374676",
+			"Longitude_WGS84": "37.563980127118"
+		},
+		"Address": "город Москва, улица Каховка, дом 37, корпус 1",
+		"global_id": "919992931",
+		"Name": "Коворкинг-центр ЦУБ ЮЗАО",
+		"AdmArea": "Юго-Западный административный округ",
+		"ContactPhone": "(495) 225-14-14",
+		"District": "район Черёмушки"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.998980537849",
+			"Longitude_WGS84": "37.223694442681"
+		},
+		"Address": "город Москва, город Зеленоград, улица Юности, дом 8",
+		"global_id": "919992938",
+		"Name": "Коворкинг - центр Technounity",
+		"AdmArea": "Зеленоградский административный округ",
+		"ContactPhone": "(965) 332-03-70",
+		"District": "район Савёлки"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.760176990763",
+			"Longitude_WGS84": "37.622487673182"
+		},
+		"Address": "город Москва, Театральный проезд, дом 3, строение 4",
+		"global_id": "919992942",
+		"Name": "Коворкинг AirLab",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(499) 647-70-51",
+		"District": "Мещанский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.776241168236",
+			"Longitude_WGS84": "37.675371679067"
+		},
+		"Address": "город Москва, Бауманская улица, дом 6, строение 2",
+		"global_id": "919992955",
+		"Name": "Коворкинг AtWork",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(903) 798-18-80",
+		"District": "Басманный район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.723500791522",
+			"Longitude_WGS84": "37.651768643052"
+		},
+		"Address": "город Москва, Дербеневская набережная, дом 7, строение 12",
+		"global_id": "919992959",
+		"Name": "Коворкинг BLOK",
+		"AdmArea": "Южный административный округ",
+		"ContactPhone": "(495) 727-20-12",
+		"District": "Даниловский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.74866070024",
+			"Longitude_WGS84": "37.540307220946"
+		},
+		"Address": "город Москва, Пресненская набережная, дом 6, строение 2",
+		"global_id": "919992964",
+		"Name": "Коворкинг CEO Roooms Empire 8",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 154-90-12",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.702950095117",
+			"Longitude_WGS84": "37.648460826752"
+		},
+		"Address": "город Москва, Автозаводская улица, дом 23А, корпус 2",
+		"global_id": "919992976",
+		"Name": "Коворкинг Cowor nik g",
+		"AdmArea": "Южный административный округ",
+		"ContactPhone": "(495) 665-96-60",
+		"District": "Даниловский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.737437788387",
+			"Longitude_WGS84": "37.636667343179"
+		},
+		"Address": "город Москва, Большая Татарская улица, дом 35, строение 7-9",
+		"global_id": "919992980",
+		"Name": "Коворкинг Force.place",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 626-43-53",
+		"District": "район Замоскворечье"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.729369140896",
+			"Longitude_WGS84": "37.645349550476"
+		},
+		"Address": "город Москва, Кожевническая улица, дом 10, строение 1",
+		"global_id": "919992990",
+		"Name": "Коворкинг FreeDom Павелецкая",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(901) 723-70-57",
+		"District": "район Замоскворечье"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.670347958832",
+			"Longitude_WGS84": "37.552521720813"
+		},
+		"Address": "город Москва, Профсоюзная улица, дом 56",
+		"global_id": "919992994",
+		"Name": "Коворкинг FreeDom Профсоюзная",
+		"AdmArea": "Юго-Западный административный округ",
+		"ContactPhone": "(901) 753-70-57",
+		"District": "Обручевский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.654279976447",
+			"Longitude_WGS84": "37.555938291313"
+		},
+		"Address": "город Москва, Научный проезд, дом 17",
+		"global_id": "919993097",
+		"Name": "Коворкинг Great Work",
+		"AdmArea": "Юго-Западный административный округ",
+		"ContactPhone": "(495) 970-94-22",
+		"District": "район Черёмушки"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.820216621181",
+			"Longitude_WGS84": "37.388366702052"
+		},
+		"Address": "город Москва, Международная улица, дом 15",
+		"global_id": "919993191",
+		"Name": "Коворкинг Meeting Point ТРК VEGAS в Крокус-Сити",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 021-28-88",
+		"District": "Таганский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.716723724256",
+			"Longitude_WGS84": "37.602031885526"
+		},
+		"Address": "город Москва, Малая Калужская улица, дом 15, строение 1",
+		"global_id": "919993331",
+		"Name": "Коворкинг RED FACTORY",
+		"AdmArea": "Южный административный округ",
+		"ContactPhone": "(495) 108-69-30",
+		"District": "Донской район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.749490446514",
+			"Longitude_WGS84": "37.53760343566"
+		},
+		"Address": "город Москва, Пресненская набережная, дом 12",
+		"global_id": "919993332",
+		"Name": "Коворкинг SREDA",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 118-39-37",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.716766807901",
+			"Longitude_WGS84": "37.602342818238"
+		},
+		"Address": "город Москва, Донская улица, дом 33",
+		"global_id": "919993334",
+		"Name": "Коворкинг Wishnya",
+		"AdmArea": "Южный административный округ",
+		"ContactPhone": "(495) 108-69-39",
+		"District": "Донской район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.773415681481",
+			"Longitude_WGS84": "37.631644546712"
+		},
+		"Address": "город Москва, Малая Сухаревская площадь, дом 5",
+		"global_id": "919993335",
+		"Name": "Коворкинг WORK N SODA",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(499) 647-95-95",
+		"District": "Мещанский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.633949273294",
+			"Longitude_WGS84": "37.443199312809"
+		},
+		"Address": "город Москва, поселение Московский, Киевское шоссе, 22-й километр, домовладение 4, строение 1",
+		"global_id": "919993336",
+		"Name": "Коворкинг Work Space",
+		"AdmArea": "Новомосковский административный округ",
+		"ContactPhone": "(495) 023-46-57",
+		"District": "поселение Московский"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.770957072692",
+			"Longitude_WGS84": "37.65563023709"
+		},
+		"Address": "город Москва, Новорязанская улица, дом 8",
+		"global_id": "919993341",
+		"Name": "Коворкинг Workki Komsomolskaya",
+		"AdmArea": "Центральный административный округ",
+		"ContactPhone": "(495) 252-50-05",
+		"District": "Красносельский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.711342077777",
+			"Longitude_WGS84": "37.896895759957"
+		},
+		"Address": "город Москва, улица Дмитриевского, дом 23, корпус 1",
+		"global_id": "919993342",
+		"Name": "Коворкинг Абитуриент",
+		"AdmArea": "Восточный административный округ",
+		"ContactPhone": "(916) 470-42-08",
+		"District": "район Косино-Ухтомский"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.706215552743",
+			"Longitude_WGS84": "37.772379429634"
+		},
+		"Address": "город Москва, Волгоградский проспект, дом 135, корпус 3",
+		"global_id": "919993343",
+		"Name": "Коворкинг ВДВУХШАГАХ",
+		"District": "район Кузьминки",
+		"AdmArea": "Юго-Восточный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.766262997253",
+			"Longitude_WGS84": "37.580911693039"
+		},
+		"Address": "город Москва, Большая Грузинская улица, дом 30А, строение 1",
+		"global_id": "919993344",
+		"Name": "Коворкинг Грузинка 30",
+		"District": "Пресненский район",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.782781551712",
+			"Longitude_WGS84": "37.717718149701"
+		},
+		"Address": "город Москва, Семёновская площадь, дом 1А",
+		"global_id": "919993345",
+		"Name": "Коворкинг ИнноЦентр",
+		"AdmArea": "Восточный административный округ",
+		"District": "район Соколиная Гора"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.74950405024",
+			"Longitude_WGS84": "37.53707202744"
+		},
+		"Address": "город Москва, Пресненская набережная, дом 12",
+		"global_id": "919993376",
+		"Name": "Коворкинг Коммуна сити",
+		"AdmArea": "Центральный административный округ",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.795806129592",
+			"Longitude_WGS84": "37.782855492713"
+		},
+		"Address": "город Москва, 3-я Парковая улица, дом 26/2",
+		"global_id": "919993390",
+		"Name": "Коворкинг Мама работает Измайловская",
+		"AdmArea": "Восточный административный округ",
+		"District": "район Измайлово"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.718307804802",
+			"Longitude_WGS84": "37.79318800035"
+		},
+		"Address": "город Москва, 4-й Вешняковский проезд, дом 1, корпус 1",
+		"global_id": "919993397",
+		"Name": "Коворкинг Мама работает Рязанский проспект",
+		"AdmArea": "Юго-Восточный административный округ",
+		"District": "Рязанский район"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.845583447202",
+			"Longitude_WGS84": "37.431349691427"
+		},
+		"Address": "город Москва, Аэродромная улица, дом 6",
+		"global_id": "919993409",
+		"Name": "Коворкинг Мама работает Сходненская",
+		"AdmArea": "Северо-Западный административный округ",
+		"District": "район Южное Тушино"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.801660424066",
+			"Longitude_WGS84": "37.468287349962"
+		},
+		"Address": "город Москва, улица Маршала Новикова, дом 5",
+		"global_id": "919993417",
+		"Name": "Коворкинг Мама работает Щукинская",
+		"District": "район Щукино",
+		"AdmArea": "Северо-Западный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.78930632205",
+			"Longitude_WGS84": "37.657019039082"
+		},
+		"Address": "город Москва, 2-я Рыбинская улица, дом 13",
+		"global_id": "919993439",
+		"Name": "Коворкинг Офис у Дома 2-я Рыбинская дом 13",
+		"AdmArea": "Восточный административный округ",
+		"District": "район Сокольники"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.840173622567",
+			"Longitude_WGS84": "37.413365098299"
+		},
+		"Address": "город Москва, улица Василия Петушкова, дом 20, корпус 1",
+		"global_id": "919993450",
+		"Name": "Коворкинг Офис-у-Дома Василия Петушкова дом 20",
+		"AdmArea": "Северо-Западный административный округ",
+		"District": "район Южное Тушино"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.808873212444",
+			"Longitude_WGS84": "37.493368997574"
+		},
+		"Address": "город Москва, Волоколамское шоссе, дом 15/22",
+		"global_id": "919993460",
+		"Name": "Коворкинг Офис-у-Дома Волоколамское шоссе дом 15 22",
+		"AdmArea": "Северный административный округ",
+		"District": "район Сокол"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.666464625582",
+			"Longitude_WGS84": "37.498456591359"
+		},
+		"Address": "город Москва, проспект Вернадского, дом 89, корпус 1",
+		"global_id": "919993478",
+		"Name": "Коворкинг Офис-у-Дома Проспект Вернадского дом 89 1",
+		"AdmArea": "Западный административный округ",
+		"District": "район Тропарёво-Никулино"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.691702009469",
+			"Longitude_WGS84": "37.855430374439"
+		},
+		"Address": "город Москва, Саранская улица, дом 4/24",
+		"global_id": "919993486",
+		"Name": "Коворкинг Офис-у-Дома Саранская дом 4 24",
+		"AdmArea": "Юго-Восточный административный округ",
+		"District": "район Выхино-Жулебино"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.879074483157",
+			"Longitude_WGS84": "37.610888909261"
+		},
+		"Address": "город Москва, Юрловский проезд, дом 14, корпус 4",
+		"global_id": "919993494",
+		"Name": "Коворкинг Офис-у-Дома Юрловский проезд дом 14 4",
+		"AdmArea": "Северо-Восточный административный округ",
+		"District": "район Отрадное"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.746435399537",
+			"Longitude_WGS84": "37.62902646636"
+		},
+		"Address": "город Москва, Садовническая набережная, дом 9",
+		"global_id": "919993502",
+		"Name": "Коворкинг Рабочая Станция Балчуг",
+		"District": "район Замоскворечье",
+		"AdmArea": "Центральный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.713880944216",
+			"Longitude_WGS84": "37.671305818452"
+		},
+		"Address": "город Москва, 1-я улица Машиностроения, дом 10",
+		"global_id": "919993721",
+		"Name": "Коворкинг Точка",
+		"District": "Южнопортовый район",
+		"AdmArea": "Юго-Восточный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.63742504036",
+			"Longitude_WGS84": "37.600481946843"
+		},
+		"Address": "город Москва, микрорайон Северное Чертаново, дом 1А",
+		"global_id": "919993722",
+		"Name": "Коворкинг ТутШьют",
+		"AdmArea": "Южный административный округ",
+		"District": "район Чертаново Северное"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.750261728318",
+			"Longitude_WGS84": "37.755897629013"
+		},
+		"Address": "город Москва, Электродная улица, дом 11",
+		"global_id": "919993723",
+		"Name": "Коворкинг ШТЕРН Эстейт",
+		"District": "район Перово",
+		"AdmArea": "Восточный административный округ"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.747119042611",
+			"Longitude_WGS84": "37.539257108619"
+		},
+		"Address": "город Москва, Пресненская набережная, дом 8, строение 1",
+		"global_id": "919993725",
+		"Name": "Коворкинг businessclub Город Столиц",
+		"AdmArea": "Центральный административный округ",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.788234380721",
+			"Longitude_WGS84": "37.567936369356"
+		},
+		"Address": "город Москва, Ленинградский проспект, дом 36, строение 11",
+		"global_id": "919993726",
+		"Name": "Коворкинг SOK Арена Парк",
+		"AdmArea": "Северный административный округ",
+		"District": "район Аэропорт"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.762295977185",
+			"Longitude_WGS84": "37.656664216335"
+		},
+		"Address": "город Москва, улица Земляной Вал, дом 8",
+		"global_id": "919993727",
+		"Name": "Коворкинг SOK Земляной Вал",
+		"AdmArea": "Центральный административный округ",
+		"District": "Басманный район"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.768596557402",
+			"Longitude_WGS84": "37.592069807008"
+		},
+		"Address": "город Москва, Большая Садовая улица, дом 5, корпус 1",
+		"global_id": "919993728",
+		"Name": "Коворкинг SOK Сады Пекина",
+		"AdmArea": "Центральный административный округ",
+		"District": "Пресненский район"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.671061829585",
+			"Longitude_WGS84": "37.502934279886"
+		},
+		"Address": "город Москва, проспект Вернадского, дом 65",
+		"global_id": "919993729",
+		"Name": "Коворкинг Муравейник полезное пространство ВкусВилл",
+		"AdmArea": "Западный административный округ",
+		"District": "район Проспект Вернадского"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.708431451205",
+			"Longitude_WGS84": "37.521586903265"
+		},
+		"Address": "город Москва, территория Ленинские Горы, дом 1, строение 77",
+		"global_id": "919993731",
+		"Name": "Коворкинг Научного парка МГУ",
+		"AdmArea": "Западный административный округ",
+		"District": "район Раменки"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.793399311745",
+			"Longitude_WGS84": "37.752538396549"
+		},
+		"Address": "город Москва, Измайловское шоссе, дом 73Ж, строение 34",
+		"global_id": "919993733",
+		"Name": "Мультибрендовый дом моды и шоу-рум российских дизайнеров Workplace Fashion",
+		"AdmArea": "Восточный административный округ",
+		"District": "район Измайлово"
+	},
+	{
+		"Class": "Coworking",
+		"ContactPhone": "U",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.690546514035",
+			"Longitude_WGS84": "37.657990143645"
+		},
+		"Address": "город Москва, Автозаводская улица, дом 23, строение 931",
+		"global_id": "919993734",
+		"Name": "Технопарк Коворкинг",
+		"AdmArea": "Южный административный округ",
+		"District": "Даниловский район"
+	},
+	{
+		"Class": "Coworking",
+		"GeoData": 
+		{
+			"Latitude_WGS84": "55.833751346596",
+			"Longitude_WGS84": "37.354818652719"
+		},
+		"Address": "г. Москва, ул. Пенягинская, д.20, корп.1",
+		"global_id": "933954502",
+		"Name": "Mitwork",
+		"AdmArea": "Северо-Западный административный округ",
+		"ContactPhone": "(925) 713-44-05",
+		"District": "район Митино"
 	},
 	{
 		"count": "164"

@@ -1,5 +1,5 @@
 {
-    "title":"Заведения",
+    "title":"Заведения по адресам",
     "type":"ARRAY",
     "items":
     {
@@ -12,30 +12,32 @@
                 "description":"Адрес",
                 "type":"STRING"
             },
+            "Class": {
+                "description":"Тип заведения",
+                "type":"STRING"
+            },
+            "Name": {
+                "description":"Наименование заведения",
+                "type":"STRING"
+            },
+            "ContactPhone": {
+                "description":"Контактный телефон",
+                "type":"STRING"
+            },
             "global_id":
             {
                 "description":"global_id",
                 "type":"NUMBER"
             },
-            "Name":
-            {
-                "description":"Наименование",
-                "type":"STRING"
-            },
             "AdmArea":
             {
                 "description":"Административный округ по адресу",
-                "type":"DICTIONARY"
-            },
-            "ContactPhone":
-            {
-                "description":"Контактный телефон",
-                "type":"CATALOG"
+                "type":"STRING"
             },
             "District":
             {
                 "description":"Район",
-                "type":"DICTIONARY"
+                "type":"STRING"
             },
             "GeoData":
             {
