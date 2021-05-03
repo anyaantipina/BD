@@ -1,0 +1,108 @@
+{
+    "title":"Заведения по адресам",
+    "type":"ARRAY",
+    "items":
+    {
+        "description":"",
+        "type":"object",
+        "properties":
+        {
+            "address_id":
+            {
+                "description":"address_id",
+                "type":"NUMBER"
+            },
+            "Address":
+            {
+                "description":"Адрес",
+                "type":"DICTIONARY",
+                "items":
+                {
+                    "AdmArea":
+                    {
+                        "description":"Административный округ по адресу",
+                        "type":"STRING"
+                    },
+                    "City": {
+                        "description":"город",
+                        "type":"STRING"
+                    },
+                    "District":
+                    {
+                        "description":"Район",
+                        "type":"STRING"
+                    },
+                    "Microdistrict":
+                    {
+                        "description":"Микрорайон",
+                        "type":"STRING"
+                    },
+                    "Street":
+                    {
+                        "description":"Улица / шоссе / площадь и тд.",
+                        "type":"STRING"
+                    },
+                    "Building":
+                    {
+                        "description":"Здание",
+                        "type":"STRING"
+                    }
+                }
+            },
+            "Establishments":
+            {
+                "description":"Заведения",
+                "type":"ARRAY",
+                "items":
+                {
+                    "description":"Заведение",
+                    "type":"DICTIONARY",
+                    "items":
+                    {
+                        "Class": {
+                            "description":"Тип заведения",
+                            "type":"STRING"
+                        },
+                        "Name": {
+                            "description":"Наименование заведения",
+                            "type":"STRING"
+                        },
+                        "ContactPhone": {
+                            "description":"Контактный телефон",
+                            "type":"STRING"
+                        },
+                        "global_id":
+                        {
+                            "description":"global_id",
+                            "type":"NUMBER"
+                        }
+                    }
+                }
+            },
+            "GeoData":
+            {
+                "description":"Широта и долгота",
+                "type":"DICTIONARY",
+                "items":
+                {
+                    "Latitude_WGS84":
+                    {
+                        "description":"Широта в WGS-84",
+                        "type":"STRING"
+                    },
+                    "Longitude_WGS84":
+                    {
+                        "description":"Долгота в WGS-84",
+                        "type":"STRING"
+                    }
+                }
+            }
+        },
+        "count":
+        {
+            "description":"Количество заведений",
+            "type":"NUMBER"
+        }
+    }
+}
+
